@@ -1,0 +1,12 @@
+# 出力データは公開しない
+data/
+*.csv
+*.geojson
+
+# Pythonキャッシュ
+__pycache__/
+*.pyc
+
+# 仮想環境
+venv/
+.env/

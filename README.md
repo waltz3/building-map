@@ -1,0 +1,1 @@
+# Building Structure Type Map
