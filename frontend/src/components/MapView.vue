@@ -11,6 +11,7 @@ import L from 'leaflet';
 import markerIcon2x from 'leaflet/dist/images/marker-icon-2x.png';
 import markerIcon from 'leaflet/dist/images/marker-icon.png';
 import markerShadow from 'leaflet/dist/images/marker-shadow.png';
+import 'leaflet/dist/leaflet.css'
 
 // TypeScript に無視させる
 // @ts-ignore
@@ -32,6 +33,20 @@ export default defineComponent({
       L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         attribution: '© OpenStreetMap contributors'
       }).addTo(map);
+
+      // ここから避難所表示
+      fetch('/data/shelter.geojson')
+        .then(res => res.json())
+        .then((geojson) => {
+          L.geoJSON(geojson, {
+            pointToLayer: (feature, latlng) => {
+              return L.marker(latlng).bindPopup(
+                `<b>${feature.properties?.name || '避難所'}</b>`
+              );
+            }
+          }).addTo(map);
+        })
+        .catch(err => console.error('GeoJSON 読み込み失敗:', err));
 
       
     });
