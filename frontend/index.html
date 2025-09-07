@@ -1,15 +1,19 @@
-<!doctype html>
-<html lang="en">
+<!DOCTYPE html>
+<html lang="ja">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
-    <link rel="stylesheet" href="/cesium/Widgets/widgets.css" />
-
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Vite + Vue + TS</title>
+    <title>Cesium App</title>
+
+    <!-- Cesium Widgets CSS を読み込む -->
+    <link rel="stylesheet" href="/Cesium/Widgets/widgets.css" />
   </head>
   <body>
     <div id="app"></div>
+
+    <!-- Cesium JS を読み込む -->
+    <script src="/Cesium/Cesium.js"></script>
+
     <script type="module" src="/src/main.ts"></script>
   </body>
 </html>

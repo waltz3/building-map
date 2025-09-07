@@ -1,8 +1,7 @@
 import { createApp } from 'vue'
-import './style.css'
-import "cesium/Build/Cesium/Widgets/widgets.css";
 import App from './App.vue'
 
-
+// Cesium は HTML で読み込むため、グローバル変数として扱う
+declare const Cesium: any
 
 createApp(App).mount('#app')
