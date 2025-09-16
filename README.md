@@ -1,1 +1,1 @@
-# Building Structure Type Map
+# 避難所の地図を立体的な地図で見る
