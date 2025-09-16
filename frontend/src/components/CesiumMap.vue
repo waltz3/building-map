@@ -1,6 +1,5 @@
 <template>
   <div class="toolbar">
-    <button @click="flyToYokohama">横浜へ</button>
   </div>
   <div id="cesiumContainer" class="map-container"></div>
 </template>
@@ -41,12 +40,10 @@ const yokohamaWards = [
 // --- 初期化処理 ---
 onMounted(() => {
   nextTick(async () => {
-    // あなたのCesium Ionトークンに設定
     Cesium.Ion.defaultAccessToken = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIyYjFhMWNjOS04MDc5LTQ0MDctYTU3Zi02NDFiZDg4ZGFiNTkiLCJpZCI6MzM1MzE4LCJpYXQiOjE3NTYxNzYzNjl9._X9-7gpW2STjsvcU1Qr_HHKhEJBhAPjsr86ZNlUQn2g';
 
     const viewer = new Cesium.Viewer('cesiumContainer', {
-      // ★★★ Cesium公式の標準地形データを指定 ★★★
-      // これが最も安定しており、日本の高精細データも含まれます
+      //Cesium World Terrainを使用
       terrainProvider: await Cesium.createWorldTerrainAsync(),
 
       // ... その他のViewerオプション ...
@@ -71,13 +68,10 @@ onMounted(() => {
 
     // 初期表示のために、一度イベントリスナーの関数を呼び出す
     updateDataVisibility();
-
-    // 初期視点へ移動する
-    flyToYokohama();
   });
 });
 
-// --- ★★★ 建物と避難所の表示をまとめて管理する、スマート読み込みの最終形 ★★★ ---
+//建物と避難所の表示をまとめて管理する関数
 async function updateDataVisibility() {
   const viewer = viewerRef.value;
   if (!viewer) return;
@@ -163,8 +157,6 @@ async function updateDataVisibility() {
     } catch (e) { console.error(`${targetWardId}の避難所データ読み込み失敗`, e); }
   }
 }
-
-function flyToYokohama() { /* ... */ }
 </script>
 
 <style scoped>
