@@ -1,6 +1,4 @@
 <template>
-  <div class="toolbar">
-  </div>
   <div id="cesiumContainer" class="map-container"></div>
 </template>
 
