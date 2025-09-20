@@ -1,0 +1,70 @@
+{
+	"asset" : {
+		"version" : "1.0"
+	},
+	"properties" : {
+		"city_code" : {},
+		"city_name" : {},
+		"feature_type" : {},
+		"attributes" : {},
+		"gml:name" : {},
+		"core:creationDate" : {},
+		"wtr:class" : {},
+		"wtr:function" : {},
+		"uro:description" : {},
+		"uro:rank" : {},
+		"uro:rank_code" : {
+			"minimum" : 1,
+			"maximum" : 2
+		},
+		"uro:rankOrg" : {},
+		"uro:rankOrg_code" : {},
+		"uro:adminType" : {},
+		"uro:scale" : {},
+		"uro:geometrySrcDescLod1" : {}
+	},
+	"geometricError" : 579.6544785451023,
+	"root" : {
+		"boundingVolume" : {
+			"region" : [ 2.436553825018197, 0.6165019388894903, 2.4368090797703674, 0.6166328377107254, 37.36204102759075, 41.63543538739028 ]
+		},
+		"geometricError" : 579.6544785451023,
+		"refine" : "REPLACE",
+		"content" : {
+			"boundingVolume" : {
+				"region" : [ 2.436553825018197, 0.6165019388894903, 2.4368090797703674, 0.6166328377107254, 37.36204102759075, 41.63543538739028 ]
+			},
+			"uri" : "data/data2.b3dm"
+		},
+		"children" : [
+			{
+				"boundingVolume" : {
+					"region" : [ 2.436553825018197, 0.6165673883001079, 2.4366814523942826, 0.6166328377107254, 38.958075882466765, 41.63543538739028 ]
+				},
+				"geometricError" : 0,
+				"refine" : "REPLACE",
+				"content" : {
+					"boundingVolume" : {
+						"region" : [ 2.436553825018197, 0.616584114401195, 2.4366803615634995, 0.6166328377107254, 38.958075882466765, 41.63543538739028 ]
+					},
+					"uri" : "data/data0.b3dm"
+				},
+				"children" : []
+			},
+			{
+				"boundingVolume" : {
+					"region" : [ 2.4366814523942826, 0.6165019388894903, 2.4368090797703674, 0.6165892048284916, 37.36204102759075, 38.75729062512386 ]
+				},
+				"geometricError" : 0,
+				"refine" : "REPLACE",
+				"content" : {
+					"boundingVolume" : {
+						"region" : [ 2.436685815542879, 0.6165019388894903, 2.4368090797703674, 0.6165892048284916, 37.36204102759075, 38.75729062512386 ]
+					},
+					"uri" : "data/data1.b3dm"
+				},
+				"children" : []
+			}
+		]
+	}
+}

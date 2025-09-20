@@ -1,0 +1,99 @@
+{
+	"asset" : {
+		"version" : "1.0"
+	},
+	"properties" : {
+		"meshcode" : {},
+		"feature_type" : {},
+		"city_code" : {},
+		"city_name" : {},
+		"gml_id" : {},
+		"attributes" : {},
+		"core:creationDate" : {},
+		"brid:class" : {},
+		"brid:function" : {},
+		"brid:yearOfConstruction" : {
+			"minimum" : 1,
+			"maximum" : 1
+		},
+		"uro:surveyYear" : {},
+		"uro:riskType" : {},
+		"uro:status" : {},
+		"uro:referenceDate" : {},
+		"uro:geometrySrcDescLod1" : {},
+		"uro:lodType" : {}
+	},
+	"geometricError" : 478.6605132480647,
+	"root" : {
+		"boundingVolume" : {
+			"region" : [ 2.436974104147593, 0.6187520449435664, 2.437138234183613, 0.618920033410285, 36.33288267382789, 59.58403529166655 ]
+		},
+		"geometricError" : 478.6605132480647,
+		"refine" : "REPLACE",
+		"content" : {
+			"boundingVolume" : {
+				"region" : [ 2.436974104147593, 0.6187520449435664, 2.437138234183613, 0.618920033410285, 36.33288267382789, 59.58403529166655 ]
+			},
+			"uri" : "data/data4.b3dm"
+		},
+		"children" : [
+			{
+				"boundingVolume" : {
+					"region" : [ 2.4370561691656034, 0.6188360391769256, 2.437138234183613, 0.618920033410285, 36.33288267382789, 59.52684326075895 ]
+				},
+				"geometricError" : 0,
+				"refine" : "REPLACE",
+				"content" : {
+					"boundingVolume" : {
+						"region" : [ 2.43706108738811, 0.6188447357218407, 2.437138234183613, 0.618920033410285, 36.33288267382789, 59.52684326075895 ]
+					},
+					"uri" : "data/data0.b3dm"
+				},
+				"children" : []
+			},
+			{
+				"boundingVolume" : {
+					"region" : [ 2.436974104147593, 0.6187520449435664, 2.4370561691656034, 0.6188360391769256, 38.82661948382511, 59.58403529166655 ]
+				},
+				"geometricError" : 366.7973085226718,
+				"refine" : "REPLACE",
+				"content" : {
+					"boundingVolume" : {
+						"region" : [ 2.436974104147593, 0.6187520449435664, 2.437036003940934, 0.6188330835265284, 38.82661948382511, 59.58403529166655 ]
+					},
+					"uri" : "data/data3.b3dm"
+				},
+				"children" : [
+					{
+						"boundingVolume" : {
+							"region" : [ 2.436974104147593, 0.6187753829114953, 2.4370200238029307, 0.6188360391769256, 39.941647246579905, 54.90135841368456 ]
+						},
+						"geometricError" : 0,
+						"refine" : "REPLACE",
+						"content" : {
+							"boundingVolume" : {
+								"region" : [ 2.436974104147593, 0.6187753829114953, 2.4370200238029307, 0.6188330835265284, 39.941647246579905, 54.90135841368456 ]
+							},
+							"uri" : "data/data1.b3dm"
+						},
+						"children" : []
+					},
+					{
+						"boundingVolume" : {
+							"region" : [ 2.437015136656598, 0.6187520449435664, 2.4370561691656034, 0.6188001598301714, 38.82661948382511, 59.58403529166655 ]
+						},
+						"geometricError" : 0,
+						"refine" : "REPLACE",
+						"content" : {
+							"boundingVolume" : {
+								"region" : [ 2.4370170964012203, 0.6187520449435664, 2.437036003940934, 0.6188001598301714, 38.82661948382511, 59.58403529166655 ]
+							},
+							"uri" : "data/data2.b3dm"
+						},
+						"children" : []
+					}
+				]
+			}
+		]
+	}
+}
