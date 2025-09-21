@@ -6,7 +6,7 @@ import { resolve } from 'path'
 export default defineConfig({
   plugins: [
     vue(),
-    cesium() 
+    cesium(), // ← プラグインを追加
   ],
   resolve: {
     alias: {
