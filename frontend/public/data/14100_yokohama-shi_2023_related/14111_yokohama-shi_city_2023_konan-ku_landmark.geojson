@@ -1,0 +1,882 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "14111_yokohama-shi_konan-ku_landmark",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5937280319, 35.400556436 ]
+			},
+			"properties" : {
+				"名称" : "横浜少年鑑別所",
+				"高さ" : "11.5",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5932429932, 35.3996894536 ]
+			},
+			"properties" : {
+				"名称" : "横浜刑務所",
+				"高さ" : "14.5",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5944767352, 35.398102453 ]
+			},
+			"properties" : {
+				"名称" : "横浜刑務所横浜拘置支所",
+				"高さ" : "19.6",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5925715523, 35.4008907861 ]
+			},
+			"properties" : {
+				"名称" : "横浜市港南区役所",
+				"高さ" : "26",
+				"種類" : "地方の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5915929324, 35.4010592166 ]
+			},
+			"properties" : {
+				"名称" : "港南警察署",
+				"高さ" : "11.6",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5768449661, 35.3743103765 ]
+			},
+			"properties" : {
+				"名称" : "港南警察署港南台駅前交番",
+				"高さ" : "3.5",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5888788068, 35.3695357141 ]
+			},
+			"properties" : {
+				"名称" : "港南警察署港南台南交番",
+				"高さ" : "7.9",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6009772712, 35.3907513448 ]
+			},
+			"properties" : {
+				"名称" : "港南警察署笹下交番",
+				"高さ" : "6.7",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5714813301, 35.4018686985 ]
+			},
+			"properties" : {
+				"名称" : "港南警察署上永谷駅前交番",
+				"高さ" : "3.4",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.596219384, 35.409631542 ]
+			},
+			"properties" : {
+				"名称" : "港南警察署上大岡駅前交番",
+				"高さ" : "61.2",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5833067722, 35.4061539977 ]
+			},
+			"properties" : {
+				"名称" : "港南警察署南高校前交番",
+				"高さ" : "6.7",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5593943264, 35.3909295694 ]
+			},
+			"properties" : {
+				"名称" : "港南警察署日限山駐在所",
+				"高さ" : "3.8",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.581379059, 35.3874153465 ]
+			},
+			"properties" : {
+				"名称" : "港南警察署日野交番",
+				"高さ" : "6.1",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5698452378, 35.391995578 ]
+			},
+			"properties" : {
+				"名称" : "港南警察署野庭交番",
+				"高さ" : "3.3",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5823941361, 35.3665996853 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局港南消防署港南台消防出張所",
+				"高さ" : "7.4",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.573378918, 35.3901999372 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局港南消防署野庭消防出張所",
+				"高さ" : "7.8",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5688079296, 35.4020156893 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局港南消防署上永谷消防出張所",
+				"高さ" : "5.2",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5768883824, 35.4147812395 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局港南消防署芹が谷消防出張所",
+				"高さ" : "8.6",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.559857351, 35.3941073007 ]
+			},
+			"properties" : {
+				"名称" : "市立日限山小学校",
+				"高さ" : "14.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5703152606, 35.4057814494 ]
+			},
+			"properties" : {
+				"名称" : "市立永野小学校",
+				"高さ" : "14.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5817225824, 35.4085893091 ]
+			},
+			"properties" : {
+				"名称" : "市立下永谷小学校",
+				"高さ" : "15",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5717039389, 35.392948138 ]
+			},
+			"properties" : {
+				"名称" : "市立下野庭小学校",
+				"高さ" : "14.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5685374196, 35.4008647891 ]
+			},
+			"properties" : {
+				"名称" : "市立丸山台小学校",
+				"高さ" : "11.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5836484909, 35.3973925571 ]
+			},
+			"properties" : {
+				"名称" : "市立吉原小学校",
+				"高さ" : "14.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5738022317, 35.4155375391 ]
+			},
+			"properties" : {
+				"名称" : "市立芹が谷小学校",
+				"高さ" : "14.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5713708212, 35.4122814294 ]
+			},
+			"properties" : {
+				"名称" : "市立芹が谷南小学校",
+				"高さ" : "14.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.587116417, 35.3706791151 ]
+			},
+			"properties" : {
+				"名称" : "市立港南台第一小学校",
+				"高さ" : "11.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5825372075, 35.3789759359 ]
+			},
+			"properties" : {
+				"名称" : "市立港南台第三小学校",
+				"高さ" : "11",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5790926362, 35.3717259655 ]
+			},
+			"properties" : {
+				"名称" : "市立港南台第二小学校",
+				"高さ" : "14.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5937966843, 35.4124873171 ]
+			},
+			"properties" : {
+				"名称" : "市立桜岡小学校",
+				"高さ" : "11.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6037596941, 35.4044758661 ]
+			},
+			"properties" : {
+				"名称" : "市立上大岡小学校",
+				"高さ" : "14.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5807318406, 35.4024758875 ]
+			},
+			"properties" : {
+				"名称" : "市立相武山小学校",
+				"高さ" : "14.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5918984918, 35.3971981066 ]
+			},
+			"properties" : {
+				"名称" : "市立南台小学校",
+				"高さ" : "11.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.601759542, 35.3905314551 ]
+			},
+			"properties" : {
+				"名称" : "市立日下小学校",
+				"高さ" : "12.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5797202889, 35.3875149672 ]
+			},
+			"properties" : {
+				"名称" : "市立日野小学校",
+				"高さ" : "14.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5620093848, 35.3751704276 ]
+			},
+			"properties" : {
+				"名称" : "市立日野南小学校",
+				"高さ" : "14.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5650651584, 35.394837029 ]
+			},
+			"properties" : {
+				"名称" : "市立丸山台中学校",
+				"高さ" : "15",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5864815272, 35.3714204048 ]
+			},
+			"properties" : {
+				"名称" : "市立港南台第一中学校",
+				"高さ" : "15",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5905574296, 35.4017488493 ]
+			},
+			"properties" : {
+				"名称" : "市立港南中学校",
+				"高さ" : "14.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5933984918, 35.3965314462 ]
+			},
+			"properties" : {
+				"名称" : "市立笹下中学校",
+				"高さ" : "14.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5692875006, 35.4099203296 ]
+			},
+			"properties" : {
+				"名称" : "市立上永谷中学校",
+				"高さ" : "15.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5787864014, 35.4065560986 ]
+			},
+			"properties" : {
+				"名称" : "市立東永谷中学校",
+				"高さ" : "10.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5572038964, 35.3868926188 ]
+			},
+			"properties" : {
+				"名称" : "市立日限山中学校",
+				"高さ" : "14.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5690093756, 35.3752259672 ]
+			},
+			"properties" : {
+				"名称" : "市立日野南中学校",
+				"高さ" : "11.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5640494307, 35.4132476205 ]
+			},
+			"properties" : {
+				"名称" : "県立永谷高等学校",
+				"高さ" : "14.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5799045177, 35.4054714756 ]
+			},
+			"properties" : {
+				"名称" : "市立南高等学校",
+				"高さ" : "23.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5771954361, 35.371531526 ]
+			},
+			"properties" : {
+				"名称" : "横浜女子短期大学",
+				"高さ" : "11.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5742037867, 35.3760037365 ]
+			},
+			"properties" : {
+				"名称" : "市立小坪小学校",
+				"高さ" : "10.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5855349793, 35.3862136961 ]
+			},
+			"properties" : {
+				"名称" : "県立横浜南陵高等学校",
+				"高さ" : "15.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5593986201, 35.4115314409 ]
+			},
+			"properties" : {
+				"名称" : "市立永谷小学校",
+				"高さ" : "11.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5815887544, 35.3724716823 ]
+			},
+			"properties" : {
+				"名称" : "市立港南台ひの特別支援学校",
+				"高さ" : "8.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5869923695, 35.3859428858 ]
+			},
+			"properties" : {
+				"名称" : "市立日野中央高等特別支援学校",
+				"高さ" : "11.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5749231536, 35.3877823802 ]
+			},
+			"properties" : {
+				"名称" : "市立野庭すずかけ小学校",
+				"高さ" : "11.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.573770346, 35.3711001566 ]
+			},
+			"properties" : {
+				"名称" : "県立横浜明朋高等学校",
+				"高さ" : "15.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5792228667, 35.3751810361 ]
+			},
+			"properties" : {
+				"名称" : "済生会横浜市南部病院",
+				"高さ" : "34.1",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5946093641, 35.4135224575 ]
+			},
+			"properties" : {
+				"名称" : "港南郵便局",
+				"高さ" : "11.6",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5891062765, 35.3669215439 ]
+			},
+			"properties" : {
+				"名称" : "港南台郵便局",
+				"高さ" : "12.6",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5876930275, 35.3716855249 ]
+			},
+			"properties" : {
+				"名称" : "横浜港南台東郵便局",
+				"高さ" : "4",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5783417666, 35.3752978662 ]
+			},
+			"properties" : {
+				"名称" : "港南台駅前郵便局",
+				"高さ" : "19.5",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5619998055, 35.3773944674 ]
+			},
+			"properties" : {
+				"名称" : "横浜日野南郵便局",
+				"高さ" : "5.2",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5780230278, 35.3808001366 ]
+			},
+			"properties" : {
+				"名称" : "横浜清水橋郵便局",
+				"高さ" : "4.6",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5701436182, 35.3903439783 ]
+			},
+			"properties" : {
+				"名称" : "横浜野庭郵便局",
+				"高さ" : "4.5",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5825019499, 35.3932601972 ]
+			},
+			"properties" : {
+				"名称" : "横浜日野郵便局",
+				"高さ" : "12.9",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5995410722, 35.3940331054 ]
+			},
+			"properties" : {
+				"名称" : "横浜笹下郵便局",
+				"高さ" : "10.3",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5676748893, 35.3982503788 ]
+			},
+			"properties" : {
+				"名称" : "横浜丸山台郵便局",
+				"高さ" : "6.8",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5934618527, 35.4025359465 ]
+			},
+			"properties" : {
+				"名称" : "横浜港南中央通郵便局",
+				"高さ" : "14.6",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5710580502, 35.4043666493 ]
+			},
+			"properties" : {
+				"名称" : "横浜上永谷郵便局",
+				"高さ" : "10.3",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5836107719, 35.405952608 ]
+			},
+			"properties" : {
+				"名称" : "横浜港南二郵便局",
+				"高さ" : "12.7",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5546087089, 35.4107873207 ]
+			},
+			"properties" : {
+				"名称" : "横浜西港南台郵便局",
+				"高さ" : "7.3",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5795492526, 35.4144319587 ]
+			},
+			"properties" : {
+				"名称" : "横浜芹が谷一郵便局",
+				"高さ" : "5.5",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5676156717, 35.41720147 ]
+			},
+			"properties" : {
+				"名称" : "港南警察署芹が谷交番",
+				"高さ" : "6.1",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5739819723, 35.4173092001 ]
+			},
+			"properties" : {
+				"名称" : "市立芹が谷中学校",
+				"高さ" : "12.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5666159618, 35.4168431802 ]
+			},
+			"properties" : {
+				"名称" : "横浜芹が谷郵便局",
+				"高さ" : "7.4",
+				"種類" : "郵便局"
+			}
+		}
+	]
+}

@@ -1,0 +1,582 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "14103_yokohama-shi_nishi-ku_landmark",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6169545928, 35.4536146578 ]
+			},
+			"properties" : {
+				"名称" : "横浜市西区役所",
+				"高さ" : "17.2",
+				"種類" : "地方の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6198818438, 35.457822458 ]
+			},
+			"properties" : {
+				"名称" : "戸部警察署",
+				"高さ" : "19.7",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6210914026, 35.4528269879 ]
+			},
+			"properties" : {
+				"名称" : "戸部警察署伊勢町交番",
+				"高さ" : "8.7",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6178922321, 35.4460535171 ]
+			},
+			"properties" : {
+				"名称" : "戸部警察署一本松交番",
+				"高さ" : "6.7",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6202253949, 35.4646489684 ]
+			},
+			"properties" : {
+				"名称" : "戸部警察署横浜駅相鉄口交番",
+				"高さ" : "17",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6234048055, 35.4654840786 ]
+			},
+			"properties" : {
+				"名称" : "戸部警察署横浜駅東口交番",
+				"高さ" : "4.1",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6147893238, 35.4608997688 ]
+			},
+			"properties" : {
+				"名称" : "戸部警察署岡野交番",
+				"高さ" : "6.7",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6231922642, 35.4594896677 ]
+			},
+			"properties" : {
+				"名称" : "戸部警察署高島交番",
+				"高さ" : "6.9",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6214339654, 35.4661957483 ]
+			},
+			"properties" : {
+				"名称" : "戸部警察署横浜駅西口警備派出所",
+				"高さ" : "6.8",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6117701642, 35.4653751295 ]
+			},
+			"properties" : {
+				"名称" : "戸部警察署浅間町交番",
+				"高さ" : "7",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.612815062, 35.4508648585 ]
+			},
+			"properties" : {
+				"名称" : "戸部警察署藤棚町交番",
+				"高さ" : "6.7",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6129047024, 35.4540665082 ]
+			},
+			"properties" : {
+				"名称" : "戸部警察署浜松町交番",
+				"高さ" : "6.5",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.623690082, 35.4464801073 ]
+			},
+			"properties" : {
+				"名称" : "戸部警察署野毛山公園交番",
+				"高さ" : "6.6",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6144772108, 35.4450788978 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局西消防署境之谷消防出張所",
+				"高さ" : "19.7",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6196098339, 35.4576197481 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局西消防署",
+				"高さ" : "16.7",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6078328122, 35.4589760691 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局西消防署浅間町消防出張所",
+				"高さ" : "8",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6188990423, 35.4468646678 ]
+			},
+			"properties" : {
+				"名称" : "市立一本松小学校",
+				"高さ" : "16.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6124124711, 35.4488272986 ]
+			},
+			"properties" : {
+				"名称" : "市立稲荷台小学校",
+				"高さ" : "11.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6085658732, 35.4662813102 ]
+			},
+			"properties" : {
+				"名称" : "市立宮谷小学校",
+				"高さ" : "15.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.615787993, 35.4537535483 ]
+			},
+			"properties" : {
+				"名称" : "市立西前小学校",
+				"高さ" : "11.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6238157322, 35.4432813363 ]
+			},
+			"properties" : {
+				"名称" : "市立東小学校",
+				"高さ" : "16.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6157880232, 35.4575313181 ]
+			},
+			"properties" : {
+				"名称" : "市立平沼小学校",
+				"高さ" : "7.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.611963893, 35.4619754491 ]
+			},
+			"properties" : {
+				"名称" : "市立岡野中学校",
+				"高さ" : "10.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6185458729, 35.4517934575 ]
+			},
+			"properties" : {
+				"名称" : "市立西中学校",
+				"高さ" : "11.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6146967935, 35.4613418593 ]
+			},
+			"properties" : {
+				"名称" : "県立横浜平沼高等学校",
+				"高さ" : "28.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6248441626, 35.4478286568 ]
+			},
+			"properties" : {
+				"名称" : "市立老松中学校",
+				"高さ" : "15.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6218024751, 35.4531199609 ]
+			},
+			"properties" : {
+				"名称" : "市立戸部小学校",
+				"高さ" : "14.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6227875539, 35.4590453181 ]
+			},
+			"properties" : {
+				"名称" : "八洲学園大学",
+				"高さ" : "31.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6060996326, 35.4618173201 ]
+			},
+			"properties" : {
+				"名称" : "市立浅間台小学校",
+				"高さ" : "14.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6096084038, 35.4688810003 ]
+			},
+			"properties" : {
+				"名称" : "市立軽井沢中学校",
+				"高さ" : "18.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6249137551, 35.4617763577 ]
+			},
+			"properties" : {
+				"名称" : "市立みなとみらい本町小学校",
+				"高さ" : "15.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6165760109, 35.4439984376 ]
+			},
+			"properties" : {
+				"名称" : "横浜霞ヶ丘郵便局",
+				"高さ" : "8.2",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6109241416, 35.4496041287 ]
+			},
+			"properties" : {
+				"名称" : "横浜久保町郵便局",
+				"高さ" : "9.7",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6244399933, 35.4510308569 ]
+			},
+			"properties" : {
+				"名称" : "横浜戸部郵便局",
+				"高さ" : "10.6",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6165436824, 35.4526307077 ]
+			},
+			"properties" : {
+				"名称" : "横浜藤棚郵便局",
+				"高さ" : "10.1",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6204761238, 35.4562197283 ]
+			},
+			"properties" : {
+				"名称" : "横浜戸部本町郵便局",
+				"高さ" : "14.1",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6072342024, 35.4572082995 ]
+			},
+			"properties" : {
+				"名称" : "横浜洪福寺郵便局",
+				"高さ" : "12.1",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6115241635, 35.4644177994 ]
+			},
+			"properties" : {
+				"名称" : "横浜浅間町郵便局",
+				"高さ" : "14.2",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6198054952, 35.4653890584 ]
+			},
+			"properties" : {
+				"名称" : "横浜駅西口郵便局",
+				"高さ" : "8.2",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6226364047, 35.4645617186 ]
+			},
+			"properties" : {
+				"名称" : "横浜中央郵便局",
+				"高さ" : "17.7",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6150295838, 35.4657457291 ]
+			},
+			"properties" : {
+				"名称" : "横浜北幸郵便局",
+				"高さ" : "36.4",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6196476745, 35.462620739 ]
+			},
+			"properties" : {
+				"名称" : "東日本旅客鉄道株式会社(横浜支社)",
+				"高さ" : "29",
+				"種類" : "指定公共機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6230171945, 35.4623803183 ]
+			},
+			"properties" : {
+				"名称" : "東京電力パワーグリッド株式会社神奈川総支社",
+				"高さ" : "131.9",
+				"種類" : "指定公共機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.622098362, 35.4474718574 ]
+			},
+			"properties" : {
+				"名称" : "横浜市立野毛山動物園",
+				"高さ" : "7.6",
+				"種類" : "博物館・美術館"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6319245057, 35.4639431774 ]
+			},
+			"properties" : {
+				"名称" : "関東地方整備局京浜港湾事務所",
+				"高さ" : "16.5",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6334390849, 35.4587347371 ]
+			},
+			"properties" : {
+				"名称" : "戸部警察署みなとみらい交番",
+				"高さ" : "19.3",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6332596855, 35.459398087 ]
+			},
+			"properties" : {
+				"名称" : "けいゆう病院",
+				"高さ" : "60.1",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6305935646, 35.4570868573 ]
+			},
+			"properties" : {
+				"名称" : "横浜美術館",
+				"高さ" : "44.6",
+				"種類" : "博物館・美術館"
+			}
+		}
+	]
+}

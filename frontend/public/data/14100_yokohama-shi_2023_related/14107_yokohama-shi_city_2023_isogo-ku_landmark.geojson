@@ -1,0 +1,750 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "14107_yokohama-shi_isogo-ku_landmark",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6184861057, 35.4024264444 ]
+			},
+			"properties" : {
+				"名称" : "横浜市磯子区役所",
+				"高さ" : "22",
+				"種類" : "地方の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6247140974, 35.4128423844 ]
+			},
+			"properties" : {
+				"名称" : "磯子警察署",
+				"高さ" : "16.2",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6176179752, 35.399524654 ]
+			},
+			"properties" : {
+				"名称" : "磯子警察署磯子駅前交番",
+				"高さ" : "6.3",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.609019944, 35.4011461848 ]
+			},
+			"properties" : {
+				"名称" : "磯子警察署汐見台交番",
+				"高さ" : "4.4",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6100051107, 35.3756021829 ]
+			},
+			"properties" : {
+				"名称" : "磯子警察署上中里交番",
+				"高さ" : "6.7",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6106546031, 35.394674454 ]
+			},
+			"properties" : {
+				"名称" : "磯子警察署森交番",
+				"高さ" : "6.1",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6198276328, 35.3851119026 ]
+			},
+			"properties" : {
+				"名称" : "磯子警察署杉田交番",
+				"高さ" : "6.5",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5960312493, 35.377850244 ]
+			},
+			"properties" : {
+				"名称" : "磯子警察署洋光台交番",
+				"高さ" : "6.4",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5990499707, 35.3843880745 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局磯子消防署洋光台消防出張所",
+				"高さ" : "8.2",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6173428629, 35.3891981132 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局磯子消防署杉田消防出張所",
+				"高さ" : "19.8",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6243203679, 35.4124461845 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局磯子消防署",
+				"高さ" : "19.9",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.622148747, 35.4141980543 ]
+			},
+			"properties" : {
+				"名称" : "市立磯子小学校",
+				"高さ" : "14.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.614565356, 35.4078925147 ]
+			},
+			"properties" : {
+				"名称" : "市立山王台小学校",
+				"高さ" : "13.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6070374638, 35.4009758651 ]
+			},
+			"properties" : {
+				"名称" : "市立汐見台小学校",
+				"高さ" : "3.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6159818543, 35.3975314344 ]
+			},
+			"properties" : {
+				"名称" : "市立森東小学校",
+				"高さ" : "15.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6202316522, 35.3777814822 ]
+			},
+			"properties" : {
+				"名称" : "市立梅林小学校",
+				"高さ" : "11",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.613308276, 35.4059508109 ]
+			},
+			"properties" : {
+				"名称" : "市立浜小学校",
+				"高さ" : "5.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5955927596, 35.3841981353 ]
+			},
+			"properties" : {
+				"名称" : "市立洋光台第一小学校",
+				"高さ" : "15.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5972871385, 35.3730870437 ]
+			},
+			"properties" : {
+				"名称" : "市立洋光台第四小学校",
+				"高さ" : "14.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5998982794, 35.3764203737 ]
+			},
+			"properties" : {
+				"名称" : "市立洋光台第二小学校",
+				"高さ" : "14.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6138404729, 35.3911780836 ]
+			},
+			"properties" : {
+				"名称" : "市立屏風浦小学校",
+				"高さ" : "11",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6171209574, 35.4165591756 ]
+			},
+			"properties" : {
+				"名称" : "市立岡村中学校",
+				"高さ" : "10.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6113430351, 35.4070591951 ]
+			},
+			"properties" : {
+				"名称" : "市立汐見台中学校",
+				"高さ" : "14.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6052039722, 35.3926147749 ]
+			},
+			"properties" : {
+				"名称" : "市立森中学校",
+				"高さ" : "14.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6111761311, 35.3783092629 ]
+			},
+			"properties" : {
+				"名称" : "市立浜中学校",
+				"高さ" : "11.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5891483492, 35.3835036956 ]
+			},
+			"properties" : {
+				"名称" : "市立洋光台第一中学校",
+				"高さ" : "14.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6026482696, 35.3743648234 ]
+			},
+			"properties" : {
+				"名称" : "市立洋光台第二中学校",
+				"高さ" : "15",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6050373518, 35.3907258945 ]
+			},
+			"properties" : {
+				"名称" : "県立磯子工業高等学校",
+				"高さ" : "6.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5900927389, 35.3823370256 ]
+			},
+			"properties" : {
+				"名称" : "市立洋光台第三小学校",
+				"高さ" : "14.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6167213624, 35.3855201529 ]
+			},
+			"properties" : {
+				"名称" : "市立杉田小学校",
+				"高さ" : "14.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6093982292, 35.3691148321 ]
+			},
+			"properties" : {
+				"名称" : "市立さわの里小学校",
+				"高さ" : "15.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6113693186, 35.3631496418 ]
+			},
+			"properties" : {
+				"名称" : "県立横浜氷取沢高等学校",
+				"高さ" : "15.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6217593665, 35.4070280442 ]
+			},
+			"properties" : {
+				"名称" : "磯子中央病院",
+				"高さ" : "19.3",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6079069744, 35.4015038147 ]
+			},
+			"properties" : {
+				"名称" : "神奈川県立汐見台病院",
+				"高さ" : "20.4",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6154426039, 35.393356274 ]
+			},
+			"properties" : {
+				"名称" : "磯子郵便局",
+				"高さ" : "9.1",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5965481084, 35.3701258441 ]
+			},
+			"properties" : {
+				"名称" : "横浜洋光台南郵便局",
+				"高さ" : "4.3",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6121398499, 35.3704747022 ]
+			},
+			"properties" : {
+				"名称" : "横浜上中里郵便局",
+				"高さ" : "17.4",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6132386721, 35.3817294431 ]
+			},
+			"properties" : {
+				"名称" : "横浜杉田西郵便局",
+				"高さ" : "14.8",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6192158429, 35.3859524325 ]
+			},
+			"properties" : {
+				"名称" : "横浜杉田郵便局",
+				"高さ" : "99.1",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6124826527, 35.3897734136 ]
+			},
+			"properties" : {
+				"名称" : "横浜中原郵便局",
+				"高さ" : "7",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6225197767, 35.407585274 ]
+			},
+			"properties" : {
+				"名称" : "磯子浜西郵便局",
+				"高さ" : "5.8",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6097686165, 35.4154603458 ]
+			},
+			"properties" : {
+				"名称" : "横浜岡村郵便局",
+				"高さ" : "7.2",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5946748192, 35.3805260045 ]
+			},
+			"properties" : {
+				"名称" : "洋光台駅前郵便局",
+				"高さ" : "7.6",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.612776657, 35.4178264962 ]
+			},
+			"properties" : {
+				"名称" : "磯子警察署岡村交番",
+				"高さ" : "6.9",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6238957195, 35.4236515951 ]
+			},
+			"properties" : {
+				"名称" : "磯子警察署丸山交番",
+				"高さ" : "3.4",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6112886471, 35.4213445464 ]
+			},
+			"properties" : {
+				"名称" : "市立岡村小学校",
+				"高さ" : "11.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6209266189, 35.4220313758 ]
+			},
+			"properties" : {
+				"名称" : "市立滝頭小学校",
+				"高さ" : "14.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6151075326, 35.4169709762 ]
+			},
+			"properties" : {
+				"名称" : "私立横浜学園中学校",
+				"高さ" : "11.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6155015716, 35.4178618465 ]
+			},
+			"properties" : {
+				"名称" : "私立横浜学園高等学校",
+				"高さ" : "9.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6207321389, 35.4238647051 ]
+			},
+			"properties" : {
+				"名称" : "市立横浜商業高等学校別科",
+				"高さ" : "17.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.618179518, 35.4224032556 ]
+			},
+			"properties" : {
+				"名称" : "横浜市立脳卒中・神経脊椎センター",
+				"高さ" : "19.9",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6206811485, 35.4194414648 ]
+			},
+			"properties" : {
+				"名称" : "横浜滝頭郵便局",
+				"高さ" : "8.4",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.632926619, 35.4177536042 ]
+			},
+			"properties" : {
+				"名称" : "市立根岸小学校",
+				"高さ" : "12.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6385846296, 35.4172767533 ]
+			},
+			"properties" : {
+				"名称" : "根岸駅前郵便局",
+				"高さ" : "12.7",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6280625185, 35.4192128645 ]
+			},
+			"properties" : {
+				"名称" : "横浜坂下郵便局",
+				"高さ" : "9.6",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.628187358, 35.414153164 ]
+			},
+			"properties" : {
+				"名称" : "動物検疫所",
+				"高さ" : "7.3",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6344572507, 35.416072887 ]
+			},
+			"properties" : {
+				"名称" : "磯子警察署根岸駅前交番",
+				"高さ" : "21",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6314523589, 35.4149731638 ]
+			},
+			"properties" : {
+				"名称" : "市立根岸中学校",
+				"高さ" : "15.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6264283578, 35.4149151643 ]
+			},
+			"properties" : {
+				"名称" : "横浜中浜郵便局",
+				"高さ" : "7.2",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6323263572, 35.4042501631 ]
+			},
+			"properties" : {
+				"名称" : "東京瓦斯株式会社(根岸工場)",
+				"高さ" : "14.3",
+				"種類" : "指定公共機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6284743532, 35.3830951621 ]
+			},
+			"properties" : {
+				"名称" : "ヤマト運輸（横浜主管支店）",
+				"高さ" : "23.5",
+				"種類" : "指定公共機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6380213594, 35.4145421631 ]
+			},
+			"properties" : {
+				"名称" : "ＪＸＴＧエネルギー株式会社根岸製油所",
+				"高さ" : "17.2",
+				"種類" : "指定公共機関"
+			}
+		}
+	]
+}

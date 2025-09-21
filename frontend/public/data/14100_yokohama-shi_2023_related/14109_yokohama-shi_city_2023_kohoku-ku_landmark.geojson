@@ -1,0 +1,1182 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "14109_yokohama-shi_kohoku-ku_landmark",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6330166246, 35.5189851917 ]
+			},
+			"properties" : {
+				"名称" : "横浜市港北区役所",
+				"高さ" : "16.9",
+				"種類" : "地方の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6319146591, 35.5556716246 ]
+			},
+			"properties" : {
+				"名称" : "港北警察署下田交番",
+				"高さ" : "6.2",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6317110629, 35.5098514112 ]
+			},
+			"properties" : {
+				"名称" : "港北警察署菊名駅前交番",
+				"高さ" : "5.8",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6263099675, 35.5434496137 ]
+			},
+			"properties" : {
+				"名称" : "港北警察署吉田口交番",
+				"高さ" : "6",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6352612374, 35.5371937628 ]
+			},
+			"properties" : {
+				"名称" : "港北警察署綱島駅前交番",
+				"高さ" : "6.5",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6330107442, 35.5208645816 ]
+			},
+			"properties" : {
+				"名称" : "港北警察署大倉山交番",
+				"高さ" : "6.5",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6343053063, 35.5298849522 ]
+			},
+			"properties" : {
+				"名称" : "港北警察署樽町交番",
+				"高さ" : "6.3",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6359478084, 35.5477774035 ]
+			},
+			"properties" : {
+				"名称" : "港北警察署日吉本町交番",
+				"高さ" : "6.5",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6531024567, 35.5478142893 ]
+			},
+			"properties" : {
+				"名称" : "港北警察署日吉東交番",
+				"高さ" : "4.6",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6334296239, 35.5187046715 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局港北消防署",
+				"高さ" : "10",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6301232363, 35.5368435726 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局港北消防署綱島消防出張所",
+				"高さ" : "7.6",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6466432809, 35.5513683624 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局港北消防署日吉消防出張所",
+				"高さ" : "13.6",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6301381096, 35.5572636345 ]
+			},
+			"properties" : {
+				"名称" : "市立下田小学校",
+				"高さ" : "15.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6347923434, 35.513081891 ]
+			},
+			"properties" : {
+				"名称" : "市立菊名小学校",
+				"高さ" : "14",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6352884297, 35.5525341637 ]
+			},
+			"properties" : {
+				"名称" : "市立駒林小学校",
+				"高さ" : "14.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6279569959, 35.5373633936 ]
+			},
+			"properties" : {
+				"名称" : "市立綱島小学校",
+				"高さ" : "11.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6405370479, 35.5377741622 ]
+			},
+			"properties" : {
+				"名称" : "市立綱島東小学校",
+				"高さ" : "14.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6387607757, 35.5237256808 ]
+			},
+			"properties" : {
+				"名称" : "市立師岡小学校",
+				"高さ" : "14.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6255940036, 35.5189201418 ]
+			},
+			"properties" : {
+				"名称" : "市立大綱小学校",
+				"高さ" : "14.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6297590658, 35.5318460424 ]
+			},
+			"properties" : {
+				"名称" : "市立大曽根小学校",
+				"高さ" : "14.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6434488106, 35.5528236628 ]
+			},
+			"properties" : {
+				"名称" : "市立日吉台小学校",
+				"高さ" : "11.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6393998183, 35.5448645627 ]
+			},
+			"properties" : {
+				"名称" : "市立日吉南小学校",
+				"高さ" : "14.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6307608873, 35.5439201233 ]
+			},
+			"properties" : {
+				"名称" : "市立北綱島小学校",
+				"高さ" : "15.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6576221423, 35.5541701112 ]
+			},
+			"properties" : {
+				"名称" : "市立矢上小学校",
+				"高さ" : "24.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6423164165, 35.528392351 ]
+			},
+			"properties" : {
+				"名称" : "市立樽町中学校",
+				"高さ" : "14.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.627094218, 35.5512812344 ]
+			},
+			"properties" : {
+				"名称" : "市立日吉台西中学校",
+				"高さ" : "11.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6368656287, 35.5476340128 ]
+			},
+			"properties" : {
+				"名称" : "市立日吉台中学校",
+				"高さ" : "14.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6359262221, 35.5000576401 ]
+			},
+			"properties" : {
+				"名称" : "市立港北小学校",
+				"高さ" : "11",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6269226409, 35.5029228605 ]
+			},
+			"properties" : {
+				"名称" : "市立篠原小学校",
+				"高さ" : "15.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6291606535, 35.5150742219 ]
+			},
+			"properties" : {
+				"名称" : "私立英理女子学院高等学校",
+				"高さ" : "12.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6497026013, 35.5516263623 ]
+			},
+			"properties" : {
+				"名称" : "私立慶應義塾高等学校",
+				"高さ" : "13.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6423540198, 35.5519110228 ]
+			},
+			"properties" : {
+				"名称" : "私立慶應義塾普通部",
+				"高さ" : "12.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6541496421, 35.5558821322 ]
+			},
+			"properties" : {
+				"名称" : "慶應義塾大学矢上キャンパス",
+				"高さ" : "18.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6308220879, 35.5433707032 ]
+			},
+			"properties" : {
+				"名称" : "市立北綱島特別支援学校",
+				"高さ" : "15",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6470096422, 35.5447469027 ]
+			},
+			"properties" : {
+				"名称" : "私立日本大学中学校",
+				"高さ" : "19",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6463148393, 35.5443971223 ]
+			},
+			"properties" : {
+				"名称" : "私立日本大学高等学校",
+				"高さ" : "19.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6481973307, 35.554434333 ]
+			},
+			"properties" : {
+				"名称" : "慶應義塾大学日吉キャンパス",
+				"高さ" : "21.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6352946628, 35.5093777604 ]
+			},
+			"properties" : {
+				"名称" : "菊名記念病院",
+				"高さ" : "13.1",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6453928811, 35.5555842829 ]
+			},
+			"properties" : {
+				"名称" : "内藤外科胃腸科医院",
+				"高さ" : "16.1",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6325631939, 35.5148484908 ]
+			},
+			"properties" : {
+				"名称" : "港北郵便局",
+				"高さ" : "11.8",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6314491771, 35.5430370933 ]
+			},
+			"properties" : {
+				"名称" : "綱島郵便局",
+				"高さ" : "8.5",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6318069729, 35.5098342809 ]
+			},
+			"properties" : {
+				"名称" : "神奈川菊名郵便局",
+				"高さ" : "7.6",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6390481756, 35.5230050207 ]
+			},
+			"properties" : {
+				"名称" : "横浜師岡郵便局",
+				"高さ" : "6.5",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6516072602, 35.5443128615 ]
+			},
+			"properties" : {
+				"名称" : "横浜日吉七郵便局",
+				"高さ" : "5.2",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6355623689, 35.5480102138 ]
+			},
+			"properties" : {
+				"名称" : "横浜南日吉郵便局",
+				"高さ" : "6.9",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6451950911, 35.5539357527 ]
+			},
+			"properties" : {
+				"名称" : "日吉郵便局",
+				"高さ" : "7.2",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6275268595, 35.558227405 ]
+			},
+			"properties" : {
+				"名称" : "横浜下田郵便局",
+				"高さ" : "4.9",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.633132785, 35.5276222219 ]
+			},
+			"properties" : {
+				"名称" : "横浜樽町郵便局",
+				"高さ" : "7.9",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6312488345, 35.5209225215 ]
+			},
+			"properties" : {
+				"名称" : "横浜大倉山郵便局",
+				"高さ" : "9.5",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6347512405, 35.5594775241 ]
+			},
+			"properties" : {
+				"名称" : "日吉の森庭園美術館",
+				"高さ" : "3.8",
+				"種類" : "博物館・美術館"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5983651071, 35.4997982235 ]
+			},
+			"properties" : {
+				"名称" : "横浜鳥山郵便局",
+				"高さ" : "12.3",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6309324913, 35.49990454 ]
+			},
+			"properties" : {
+				"名称" : "港北警察署菊名池交番",
+				"高さ" : "5.7",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6322294101, 35.4941300699 ]
+			},
+			"properties" : {
+				"名称" : "港北警察署仲手原交番",
+				"高さ" : "6.5",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6274914796, 35.4931508003 ]
+			},
+			"properties" : {
+				"名称" : "私立清心女子高等学校",
+				"高さ" : "18",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6282851194, 35.4910882499 ]
+			},
+			"properties" : {
+				"名称" : "横浜篠原台郵便局",
+				"高さ" : "5.8",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5997916992, 35.5122348545 ]
+			},
+			"properties" : {
+				"名称" : "関東地方整備局京浜河川事務所新横浜出張所",
+				"高さ" : "18.5",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6145747104, 35.5094826926 ]
+			},
+			"properties" : {
+				"名称" : "神奈川労働局港北公共職業安定所(新横浜駅前庁舎)",
+				"高さ" : "31.4",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6157786409, 35.5082493621 ]
+			},
+			"properties" : {
+				"名称" : "神奈川労働局横浜北労働基準監督署",
+				"高さ" : "40.4",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6238995721, 35.5147257018 ]
+			},
+			"properties" : {
+				"名称" : "東京国税局神奈川税務署",
+				"高さ" : "18.7",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6216904619, 35.514444002 ]
+			},
+			"properties" : {
+				"名称" : "港北警察署",
+				"高さ" : "19",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6231587579, 35.5490242645 ]
+			},
+			"properties" : {
+				"名称" : "港北警察署高田交番",
+				"高さ" : "6.3",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6001252689, 35.5080453237 ]
+			},
+			"properties" : {
+				"名称" : "港北警察署小机交番",
+				"高さ" : "7.1",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6157828001, 35.5073748721 ]
+			},
+			"properties" : {
+				"名称" : "港北警察署新横浜駅前交番",
+				"高さ" : "7.2",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.61887968, 35.5027855312 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局港北消防署篠原消防出張所",
+				"高さ" : "7.2",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5965106091, 35.5150312645 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局港北消防署小机消防出張所",
+				"高さ" : "8",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6092779536, 35.5319928246 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局港北消防署新羽消防出張所",
+				"高さ" : "5.6",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6158164872, 35.5515867856 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局港北消防署高田消防出張所",
+				"高さ" : "8",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6194672286, 35.5565131755 ]
+			},
+			"properties" : {
+				"名称" : "市立高田小学校",
+				"高さ" : "11.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6249681181, 35.5523462343 ]
+			},
+			"properties" : {
+				"名称" : "市立高田東小学校",
+				"高さ" : "14.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6151494598, 35.5020034919 ]
+			},
+			"properties" : {
+				"名称" : "市立篠原西小学校",
+				"高さ" : "14.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5977557381, 35.5053995335 ]
+			},
+			"properties" : {
+				"名称" : "市立小机小学校",
+				"高さ" : "15",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6024827488, 35.5051423836 ]
+			},
+			"properties" : {
+				"名称" : "市立城郷小学校",
+				"高さ" : "11.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6080106922, 35.5227534744 ]
+			},
+			"properties" : {
+				"名称" : "市立新羽小学校",
+				"高さ" : "15.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6098996633, 35.5333090346 ]
+			},
+			"properties" : {
+				"名称" : "市立新田小学校",
+				"高さ" : "8.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6191308234, 35.524310073 ]
+			},
+			"properties" : {
+				"名称" : "市立太尾小学校",
+				"高さ" : "16",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6175387276, 35.5568645661 ]
+			},
+			"properties" : {
+				"名称" : "市立高田中学校",
+				"高さ" : "8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6205240108, 35.5047035612 ]
+			},
+			"properties" : {
+				"名称" : "市立篠原中学校",
+				"高さ" : "14.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5874282373, 35.5058342147 ]
+			},
+			"properties" : {
+				"名称" : "市立城郷中学校",
+				"高さ" : "14.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6073162815, 35.5226423641 ]
+			},
+			"properties" : {
+				"名称" : "市立新羽中学校",
+				"高さ" : "14.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6248220734, 35.5206556528 ]
+			},
+			"properties" : {
+				"名称" : "市立大綱中学校",
+				"高さ" : "15.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6135938491, 35.5011701622 ]
+			},
+			"properties" : {
+				"名称" : "県立岸根高等学校",
+				"高さ" : "14.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6175742631, 35.5241488931 ]
+			},
+			"properties" : {
+				"名称" : "県立港北高等学校",
+				"高さ" : "15.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6050991912, 35.5202020645 ]
+			},
+			"properties" : {
+				"名称" : "県立新羽高等学校",
+				"高さ" : "15",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6219066726, 35.5160129827 ]
+			},
+			"properties" : {
+				"名称" : "市立大豆戸小学校",
+				"高さ" : "14.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6177886151, 35.5384756843 ]
+			},
+			"properties" : {
+				"名称" : "市立新吉田小学校",
+				"高さ" : "14.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6225898662, 35.541214054 ]
+			},
+			"properties" : {
+				"名称" : "市立新田中学校",
+				"高さ" : "14.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6127808664, 35.5499077659 ]
+			},
+			"properties" : {
+				"名称" : "市立新吉田第二小学校",
+				"高さ" : "14.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6200849777, 35.5519986648 ]
+			},
+			"properties" : {
+				"名称" : "高田中央病院",
+				"高さ" : "12.5",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6109061705, 35.510839833 ]
+			},
+			"properties" : {
+				"名称" : "労働者健康安全機構横浜労災病院",
+				"高さ" : "53.7",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6180537805, 35.5040024418 ]
+			},
+			"properties" : {
+				"名称" : "横浜篠原郵便局",
+				"高さ" : "3.9",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6047033487, 35.5046033828 ]
+			},
+			"properties" : {
+				"名称" : "横浜鳥山北郵便局",
+				"高さ" : "12.2",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5952887585, 35.5083782541 ]
+			},
+			"properties" : {
+				"名称" : "横浜小机町郵便局",
+				"高さ" : "6.7",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6187482617, 35.5125869426 ]
+			},
+			"properties" : {
+				"名称" : "新横浜三郵便局",
+				"高さ" : "34.6",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.623403003, 35.5190361123 ]
+			},
+			"properties" : {
+				"名称" : "横浜太尾南郵便局",
+				"高さ" : "7.8",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6207100442, 35.5263181234 ]
+			},
+			"properties" : {
+				"名称" : "横浜太尾郵便局",
+				"高さ" : "5.7",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6114112637, 35.5329024743 ]
+			},
+			"properties" : {
+				"名称" : "新田郵便局",
+				"高さ" : "7.1",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6226459877, 35.5485089647 ]
+			},
+			"properties" : {
+				"名称" : "横浜高田郵便局",
+				"高さ" : "7.1",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6222391257, 35.5389263836 ]
+			},
+			"properties" : {
+				"名称" : "横浜新吉田郵便局",
+				"高さ" : "7.6",
+				"種類" : "郵便局"
+			}
+		}
+	]
+}

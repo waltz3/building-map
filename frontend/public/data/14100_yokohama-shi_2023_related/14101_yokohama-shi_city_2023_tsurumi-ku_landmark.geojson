@@ -1,0 +1,1302 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "14101_yokohama-shi_tsurumi-ku_landmark",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6787834985, 35.5136526163 ]
+			},
+			"properties" : {
+				"名称" : "関東地方整備局京浜河川事務所",
+				"高さ" : "16",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6813712787, 35.5106475662 ]
+			},
+			"properties" : {
+				"名称" : "神奈川労働局鶴見労働基準監督署",
+				"高さ" : "11.1",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6863851683, 35.5078716651 ]
+			},
+			"properties" : {
+				"名称" : "関東地方整備局京浜河川事務所鶴見出張所",
+				"高さ" : "7.7",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6806827382, 35.5066571662 ]
+			},
+			"properties" : {
+				"名称" : "東京国税局鶴見税務署",
+				"高さ" : "11.3",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.682395278, 35.5084960153 ]
+			},
+			"properties" : {
+				"名称" : "横浜市鶴見区役所",
+				"高さ" : "36",
+				"種類" : "地方の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6817751585, 35.5081080056 ]
+			},
+			"properties" : {
+				"名称" : "鶴見警察署",
+				"高さ" : "19.7",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6523994784, 35.5311038404 ]
+			},
+			"properties" : {
+				"名称" : "鶴見警察署駒岡交番",
+				"高さ" : "4.5",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.653259774, 35.5038267279 ]
+			},
+			"properties" : {
+				"名称" : "鶴見警察署向谷交番",
+				"高さ" : "4.3",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6874687404, 35.5167303259 ]
+			},
+			"properties" : {
+				"名称" : "鶴見警察署市場交番",
+				"高さ" : "6",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6654929103, 35.5327874591 ]
+			},
+			"properties" : {
+				"名称" : "鶴見警察署上末吉交番",
+				"高さ" : "5.5",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6847017304, 35.5235047164 ]
+			},
+			"properties" : {
+				"名称" : "鶴見警察署尻手交番",
+				"高さ" : "6.4",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6899495383, 35.5032857245 ]
+			},
+			"properties" : {
+				"名称" : "鶴見警察署潮田交番",
+				"高さ" : "6.6",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6757273879, 35.508468396 ]
+			},
+			"properties" : {
+				"名称" : "鶴見警察署鶴見駅西口交番",
+				"高さ" : "6.2",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6773581378, 35.5082183366 ]
+			},
+			"properties" : {
+				"名称" : "鶴見警察署鶴見駅前交番",
+				"高さ" : "6.6",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6644217469, 35.5101666878 ]
+			},
+			"properties" : {
+				"名称" : "鶴見警察署東寺尾交番",
+				"高さ" : "5.4",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6468718456, 35.5161978998 ]
+			},
+			"properties" : {
+				"名称" : "鶴見警察署北寺尾駐在所",
+				"高さ" : "7.5",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6861632074, 35.5008985444 ]
+			},
+			"properties" : {
+				"名称" : "鶴見警察署本町通交番",
+				"高さ" : "5.9",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6723602495, 35.5215574478 ]
+			},
+			"properties" : {
+				"名称" : "鶴見警察署末吉交番",
+				"高さ" : "6.3",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6806564926, 35.5386424583 ]
+			},
+			"properties" : {
+				"名称" : "鶴見警察署矢向駅前交番",
+				"高さ" : "5.6",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.681016573, 35.5318266938 ]
+			},
+			"properties" : {
+				"名称" : "鶴見警察署矢向交番",
+				"高さ" : "9.3",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6951989181, 35.5000168535 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局鶴見消防署入船消防出張所",
+				"高さ" : "13",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6775626365, 35.5029962654 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局鶴見消防署生麦消防出張所",
+				"高さ" : "7.9",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6546623558, 35.5150260589 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局鶴見消防署寺尾消防出張所",
+				"高さ" : "6.9",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6525332578, 35.5304363707 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局鶴見消防署駒岡消防出張所",
+				"高さ" : "17.2",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6808653723, 35.5356562781 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局鶴見消防署矢向消防出張所",
+				"高さ" : "7",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6827008883, 35.5081027256 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局鶴見消防署",
+				"高さ" : "14.2",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6738928988, 35.5165379272 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局鶴見消防署末吉消防出張所",
+				"高さ" : "8.3",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6548416961, 35.516228109 ]
+			},
+			"properties" : {
+				"名称" : "市立旭小学校",
+				"高さ" : "10.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.67514976, 35.5228645376 ]
+			},
+			"properties" : {
+				"名称" : "市立下末吉小学校",
+				"高さ" : "10.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6827052801, 35.5228089768 ]
+			},
+			"properties" : {
+				"名称" : "市立市場小学校",
+				"高さ" : "14.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6540662947, 35.5071701287 ]
+			},
+			"properties" : {
+				"名称" : "市立上寺尾小学校",
+				"高さ" : "15",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6621498199, 35.5343090001 ]
+			},
+			"properties" : {
+				"名称" : "市立上末吉小学校",
+				"高さ" : "14.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6766220408, 35.5328367481 ]
+			},
+			"properties" : {
+				"名称" : "市立新鶴見小学校",
+				"高さ" : "13.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6899829586, 35.5068645247 ]
+			},
+			"properties" : {
+				"名称" : "市立潮田小学校",
+				"高さ" : "11.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.684071879, 35.5092219759 ]
+			},
+			"properties" : {
+				"名称" : "市立鶴見小学校",
+				"高さ" : "14.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.664337046, 35.5037846475 ]
+			},
+			"properties" : {
+				"名称" : "市立東台小学校",
+				"高さ" : "7.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6928280686, 35.5012217143 ]
+			},
+			"properties" : {
+				"名称" : "市立入船小学校",
+				"高さ" : "10.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.644343994, 35.5099201397 ]
+			},
+			"properties" : {
+				"名称" : "市立馬場小学校",
+				"高さ" : "11.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.69206641, 35.5123367349 ]
+			},
+			"properties" : {
+				"名称" : "市立平安小学校",
+				"高さ" : "7.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6750391481, 35.5126286467 ]
+			},
+			"properties" : {
+				"名称" : "市立豊岡小学校",
+				"高さ" : "11",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6695108691, 35.5246701081 ]
+			},
+			"properties" : {
+				"名称" : "市立末吉小学校",
+				"高さ" : "11",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6790387515, 35.5333923077 ]
+			},
+			"properties" : {
+				"名称" : "市立矢向小学校",
+				"高さ" : "11.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6832886198, 35.5152256363 ]
+			},
+			"properties" : {
+				"名称" : "市立市場中学校",
+				"高さ" : "15",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6591221877, 35.5198828493 ]
+			},
+			"properties" : {
+				"名称" : "市立寺尾中学校",
+				"高さ" : "7.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6388995934, 35.51219791 ]
+			},
+			"properties" : {
+				"名称" : "市立上の宮中学校",
+				"高さ" : "11.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.691878619, 35.506735755 ]
+			},
+			"properties" : {
+				"名称" : "市立潮田中学校",
+				"高さ" : "11.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6846218785, 35.5098923152 ]
+			},
+			"properties" : {
+				"名称" : "市立鶴見中学校",
+				"高さ" : "11.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6641775387, 35.5231423285 ]
+			},
+			"properties" : {
+				"名称" : "市立末吉中学校",
+				"高さ" : "14.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6747062304, 35.528854058 ]
+			},
+			"properties" : {
+				"名称" : "市立矢向中学校",
+				"高さ" : "10.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6629182776, 35.5193611081 ]
+			},
+			"properties" : {
+				"名称" : "県立鶴見高等学校",
+				"高さ" : "11.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6513894638, 35.5051051289 ]
+			},
+			"properties" : {
+				"名称" : "市立東高等学校",
+				"高さ" : "14.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6587051768, 35.5161145584 ]
+			},
+			"properties" : {
+				"名称" : "私立白鵬女子高等学校",
+				"高さ" : "13.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6580343248, 35.5041743181 ]
+			},
+			"properties" : {
+				"名称" : "市立寺尾小学校",
+				"高さ" : "10.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6814344365, 35.500153935 ]
+			},
+			"properties" : {
+				"名称" : "市立下野谷小学校",
+				"高さ" : "15",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6996074891, 35.5018946035 ]
+			},
+			"properties" : {
+				"名称" : "市立寛政中学校",
+				"高さ" : "13",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6731817166, 35.5046925267 ]
+			},
+			"properties" : {
+				"名称" : "鶴見大学短期大学部",
+				"高さ" : "17.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6933053795, 35.5085138748 ]
+			},
+			"properties" : {
+				"名称" : "県立鶴見総合高等学校",
+				"高さ" : "11.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.650677456, 35.5168923496 ]
+			},
+			"properties" : {
+				"名称" : "市立獅子ケ谷小学校",
+				"高さ" : "14.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.654815919, 35.5355826702 ]
+			},
+			"properties" : {
+				"名称" : "県立鶴見養護学校",
+				"高さ" : "7.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6741857273, 35.5059284362 ]
+			},
+			"properties" : {
+				"名称" : "鶴見大学",
+				"高さ" : "22.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6515436758, 35.5161163793 ]
+			},
+			"properties" : {
+				"名称" : "私立橘学苑中学校",
+				"高さ" : "12.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6546882277, 35.5289015298 ]
+			},
+			"properties" : {
+				"名称" : "市立駒岡小学校",
+				"高さ" : "14.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6663599958, 35.505298407 ]
+			},
+			"properties" : {
+				"名称" : "私立鶴見大学附属高等学校",
+				"高さ" : "16.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6782117811, 35.5296020275 ]
+			},
+			"properties" : {
+				"名称" : "汐田総合病院",
+				"高さ" : "25.8",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6707099183, 35.5188012775 ]
+			},
+			"properties" : {
+				"名称" : "佐々木病院",
+				"高さ" : "12.2",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6721619984, 35.5148810073 ]
+			},
+			"properties" : {
+				"名称" : "徳田病院",
+				"高さ" : "10.3",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.675273968, 35.5105161867 ]
+			},
+			"properties" : {
+				"名称" : "さいわい鶴見病院",
+				"高さ" : "14",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.665385066, 35.5066701476 ]
+			},
+			"properties" : {
+				"名称" : "平和病院",
+				"高さ" : "12.7",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.67515948, 35.5238472575 ]
+			},
+			"properties" : {
+				"名称" : "済生会横浜市東部病院",
+				"高さ" : "43.1",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6832329578, 35.5078367555 ]
+			},
+			"properties" : {
+				"名称" : "鶴見郵便局",
+				"高さ" : "18.3",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6545040137, 35.5013071177 ]
+			},
+			"properties" : {
+				"名称" : "横浜東寺尾一郵便局",
+				"高さ" : "4.3",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6873662181, 35.501639985 ]
+			},
+			"properties" : {
+				"名称" : "横浜仲通郵便局",
+				"高さ" : "14.6",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6971063394, 35.5025243541 ]
+			},
+			"properties" : {
+				"名称" : "横浜大東郵便局",
+				"高さ" : "4.6",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6505332842, 35.5069708491 ]
+			},
+			"properties" : {
+				"名称" : "横浜馬場郵便局",
+				"高さ" : "7.4",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6777197779, 35.5094727866 ]
+			},
+			"properties" : {
+				"名称" : "鶴見駅前郵便局",
+				"高さ" : "30.3",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6641996467, 35.510113778 ]
+			},
+			"properties" : {
+				"名称" : "横浜東寺尾郵便局",
+				"高さ" : "8.7",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6747466776, 35.5117838964 ]
+			},
+			"properties" : {
+				"名称" : "横浜豊岡郵便局",
+				"高さ" : "13.3",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.69012961, 35.5122333455 ]
+			},
+			"properties" : {
+				"名称" : "横浜栄町通郵便局",
+				"高さ" : "9.6",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6428608044, 35.5124828796 ]
+			},
+			"properties" : {
+				"名称" : "横浜北寺尾郵便局",
+				"高さ" : "9.4",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6616871871, 35.5173035087 ]
+			},
+			"properties" : {
+				"名称" : "横浜北寺尾三郵便局",
+				"高さ" : "5.2",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6828354704, 35.5223185467 ]
+			},
+			"properties" : {
+				"名称" : "横浜元宮郵便局",
+				"高さ" : "6.6",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6671384995, 35.5304001688 ]
+			},
+			"properties" : {
+				"名称" : "横浜上末吉郵便局",
+				"高さ" : "10.2",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6820900415, 35.5306626174 ]
+			},
+			"properties" : {
+				"名称" : "尻手駅前郵便局",
+				"高さ" : "11.7",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.678826782, 35.5378987982 ]
+			},
+			"properties" : {
+				"名称" : "横浜矢向郵便局",
+				"高さ" : "10",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6729186979, 35.5145829269 ]
+			},
+			"properties" : {
+				"名称" : "横浜佃野郵便局",
+				"高さ" : "7.4",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6519829277, 35.5257203499 ]
+			},
+			"properties" : {
+				"名称" : "横浜駒岡郵便局",
+				"高さ" : "9.3",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6681092806, 35.5342261089 ]
+			},
+			"properties" : {
+				"名称" : "福山通運（横浜支店）",
+				"高さ" : "9.9",
+				"種類" : "指定公共機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6831980085, 35.5085881958 ]
+			},
+			"properties" : {
+				"名称" : "東京電力パワーグリッド株式会社鶴見支社",
+				"高さ" : "15.4",
+				"種類" : "指定公共機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6824270708, 35.4594201524 ]
+			},
+			"properties" : {
+				"名称" : "横浜税関大黒埠頭出張所",
+				"高さ" : "19.2",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6640932239, 35.4944564163 ]
+			},
+			"properties" : {
+				"名称" : "鶴見警察署岸谷交番",
+				"高さ" : "6.2",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6741180164, 35.4995438158 ]
+			},
+			"properties" : {
+				"名称" : "鶴見警察署生麦交番",
+				"高さ" : "6.2",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6735659806, 35.460836823 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局鶴見消防署鶴見水上消防出張所",
+				"高さ" : "12.5",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6728693337, 35.4878226747 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局鶴見消防署大黒町消防出張所",
+				"高さ" : "7.4",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6619513943, 35.4973551673 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局鶴見消防署岸谷消防出張所",
+				"高さ" : "7.8",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6618439139, 35.493531247 ]
+			},
+			"properties" : {
+				"名称" : "市立岸谷小学校",
+				"高さ" : "14.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6877041578, 35.4987919443 ]
+			},
+			"properties" : {
+				"名称" : "市立汐入小学校",
+				"高さ" : "11.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6712050448, 35.495809006 ]
+			},
+			"properties" : {
+				"名称" : "市立生麦小学校",
+				"高さ" : "11.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.659333993, 35.4934044968 ]
+			},
+			"properties" : {
+				"名称" : "市立生麦中学校",
+				"高さ" : "10.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6630473241, 35.4955033965 ]
+			},
+			"properties" : {
+				"名称" : "私立法政大学国際高等学校",
+				"高さ" : "10.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.659552744, 35.4985340476 ]
+			},
+			"properties" : {
+				"名称" : "横浜商科大学(つるみキャンパス)",
+				"高さ" : "11.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6837709457, 35.4887382942 ]
+			},
+			"properties" : {
+				"名称" : "横浜市立大学鶴見キャンパス",
+				"高さ" : "26.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6784500762, 35.4982941156 ]
+			},
+			"properties" : {
+				"名称" : "市立横浜サイエンスフロンティア高等学校",
+				"高さ" : "13.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6587153038, 35.4962210271 ]
+			},
+			"properties" : {
+				"名称" : "ふれあい鶴見ホスピタル",
+				"高さ" : "7.8",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6664391448, 35.4969497867 ]
+			},
+			"properties" : {
+				"名称" : "横浜岸谷郵便局",
+				"高さ" : "6.7",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6808088461, 35.4981575955 ]
+			},
+			"properties" : {
+				"名称" : "横浜下野谷町郵便局",
+				"高さ" : "15.2",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6701661452, 35.4958843162 ]
+			},
+			"properties" : {
+				"名称" : "横浜生麦郵便局",
+				"高さ" : "30.5",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.7047588359, 35.4764321212 ]
+			},
+			"properties" : {
+				"名称" : "東京瓦斯株式会社(扇島工場)",
+				"高さ" : "15.2",
+				"種類" : "指定公共機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6723015741, 35.4910867257 ]
+			},
+			"properties" : {
+				"名称" : "西濃運輸（鶴見支店）",
+				"高さ" : "26.8",
+				"種類" : "指定公共機関"
+			}
+		}
+	]
+}

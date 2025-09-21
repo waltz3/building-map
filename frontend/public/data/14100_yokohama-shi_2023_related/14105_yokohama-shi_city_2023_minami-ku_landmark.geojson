@@ -1,0 +1,882 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "14105_yokohama-shi_minami-ku_landmark",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6010011052, 35.4162257768 ]
+			},
+			"properties" : {
+				"名称" : "南警察署大岡町交番",
+				"高さ" : "6.5",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5884559637, 35.4139566778 ]
+			},
+			"properties" : {
+				"名称" : "南警察署別所町交番",
+				"高さ" : "5.9",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6059743958, 35.4131351966 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局南消防署大岡消防出張所",
+				"高さ" : "8.2",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6049264749, 35.412448066 ]
+			},
+			"properties" : {
+				"名称" : "市立藤の木小学校",
+				"高さ" : "11.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5906396141, 35.413805408 ]
+			},
+			"properties" : {
+				"名称" : "市立南が丘中学校",
+				"高さ" : "14.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6061486652, 35.4107536261 ]
+			},
+			"properties" : {
+				"名称" : "市立藤の木中学校",
+				"高さ" : "9.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6006082057, 35.415844717 ]
+			},
+			"properties" : {
+				"名称" : "横浜大岡郵便局",
+				"高さ" : "7.6",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.602291726, 35.4223780474 ]
+			},
+			"properties" : {
+				"名称" : "南警察署",
+				"高さ" : "15.9",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6021728083, 35.4323177277 ]
+			},
+			"properties" : {
+				"名称" : "南警察署井土ケ谷交番",
+				"高さ" : "6.6",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5964151077, 35.4379186489 ]
+			},
+			"properties" : {
+				"名称" : "南警察署永田交番",
+				"高さ" : "6.1",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6154825894, 35.4345536471 ]
+			},
+			"properties" : {
+				"名称" : "南警察署吉野町交番",
+				"高さ" : "7.9",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6137146104, 35.4423981175 ]
+			},
+			"properties" : {
+				"名称" : "南警察署久保山交番",
+				"高さ" : "7.3",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5826581346, 35.4261647593 ]
+			},
+			"properties" : {
+				"名称" : "南警察署大池交番",
+				"高さ" : "6.5",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6206670101, 35.4309533158 ]
+			},
+			"properties" : {
+				"名称" : "南警察署中村橋交番",
+				"高さ" : "7.5",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6054413273, 35.4269675468 ]
+			},
+			"properties" : {
+				"名称" : "南警察署通町交番",
+				"高さ" : "6.4",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6150374989, 35.4299024665 ]
+			},
+			"properties" : {
+				"名称" : "南警察署東蒔田町交番",
+				"高さ" : "6.5",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6120939599, 35.4359642675 ]
+			},
+			"properties" : {
+				"名称" : "南警察署南太田交番",
+				"高さ" : "6.9",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5957135259, 35.4261721082 ]
+			},
+			"properties" : {
+				"名称" : "南警察署六ツ川交番",
+				"高さ" : "6.9",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5857152449, 35.4233848788 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局南消防署六ツ川消防出張所",
+				"高さ" : "7",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6095913588, 35.4310651673 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局南消防署蒔田消防出張所",
+				"高さ" : "14.5",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6032833562, 35.4210757371 ]
+			},
+			"properties" : {
+				"名称" : "市立横浜総合高等学校",
+				"高さ" : "19",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5995655574, 35.4326980279 ]
+			},
+			"properties" : {
+				"名称" : "市立井土ケ谷小学校",
+				"高さ" : "15.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5915276575, 35.4355147389 ]
+			},
+			"properties" : {
+				"名称" : "市立永田小学校",
+				"高さ" : "15.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5894543364, 35.4326980388 ]
+			},
+			"properties" : {
+				"名称" : "市立永田台小学校",
+				"高さ" : "14.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6132644082, 35.4258783564 ]
+			},
+			"properties" : {
+				"名称" : "市立蒔田小学校",
+				"高さ" : "9.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.617494311, 35.441025087 ]
+			},
+			"properties" : {
+				"名称" : "市立太田小学校",
+				"高さ" : "14.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.600898797, 35.4258924877 ]
+			},
+			"properties" : {
+				"名称" : "市立大岡小学校",
+				"高さ" : "11.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5987022556, 35.4190924176 ]
+			},
+			"properties" : {
+				"名称" : "市立南小学校",
+				"高さ" : "11.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5817902136, 35.4170519086 ]
+			},
+			"properties" : {
+				"名称" : "市立別所小学校",
+				"高さ" : "15.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5841299153, 35.4289606392 ]
+			},
+			"properties" : {
+				"名称" : "市立六つ川小学校",
+				"高さ" : "11.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5809427849, 35.4285050798 ]
+			},
+			"properties" : {
+				"名称" : "市立六つ川台小学校",
+				"高さ" : "14.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.609801788, 35.4276213365 ]
+			},
+			"properties" : {
+				"名称" : "私立青山学院横浜英和小学校",
+				"高さ" : "12.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.587371046, 35.4338091596 ]
+			},
+			"properties" : {
+				"名称" : "市立永田中学校",
+				"高さ" : "14.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6168701092, 35.4326624068 ]
+			},
+			"properties" : {
+				"名称" : "市立共進中学校",
+				"高さ" : "14.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5971143866, 35.4270640584 ]
+			},
+			"properties" : {
+				"名称" : "市立南中学校",
+				"高さ" : "15.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5783709845, 35.4288924999 ]
+			},
+			"properties" : {
+				"名称" : "市立六ツ川中学校",
+				"高さ" : "11.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6093522688, 35.432270107 ]
+			},
+			"properties" : {
+				"名称" : "市立蒔田中学校",
+				"高さ" : "15.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5778736542, 35.42485237 ]
+			},
+			"properties" : {
+				"名称" : "市立六つ川西小学校",
+				"高さ" : "8.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6102107089, 35.4341712172 ]
+			},
+			"properties" : {
+				"名称" : "市立横浜商業高等学校",
+				"高さ" : "13",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6111373697, 35.4351449276 ]
+			},
+			"properties" : {
+				"名称" : "市立南太田小学校",
+				"高さ" : "15.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6167797403, 35.4355991368 ]
+			},
+			"properties" : {
+				"名称" : "市立日枝小学校",
+				"高さ" : "15.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6093858395, 35.4377348873 ]
+			},
+			"properties" : {
+				"名称" : "県立横浜清陵高等学校",
+				"高さ" : "19",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6187080911, 35.4416179173 ]
+			},
+			"properties" : {
+				"名称" : "私立関東学院高等学校",
+				"高さ" : "19.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6209782411, 35.4418667766 ]
+			},
+			"properties" : {
+				"名称" : "私立関東学院小学校",
+				"高さ" : "18",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6190217811, 35.4422138666 ]
+			},
+			"properties" : {
+				"名称" : "私立関東学院中学校",
+				"高さ" : "18.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5794623335, 35.4227921092 ]
+			},
+			"properties" : {
+				"名称" : "県立横浜南養護学校",
+				"高さ" : "21.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6045654767, 35.4221424967 ]
+			},
+			"properties" : {
+				"名称" : "国立横浜国立大学教育学部附属特別支援学校",
+				"高さ" : "8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6029265764, 35.422781387 ]
+			},
+			"properties" : {
+				"名称" : "国立横浜国立大学教育学部附属横浜中学校",
+				"高さ" : "13.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5854385852, 35.4270592194 ]
+			},
+			"properties" : {
+				"名称" : "県立横浜国際高等学校",
+				"高さ" : "16",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6146731295, 35.4358136766 ]
+			},
+			"properties" : {
+				"名称" : "佐藤病院",
+				"高さ" : "14.1",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6007155674, 35.4328374281 ]
+			},
+			"properties" : {
+				"名称" : "横浜南郵便局",
+				"高さ" : "9.2",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5850364546, 35.4238831492 ]
+			},
+			"properties" : {
+				"名称" : "横浜六ツ川一郵便局",
+				"高さ" : "10",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5987665759, 35.4240081077 ]
+			},
+			"properties" : {
+				"名称" : "横浜弘明寺郵便局",
+				"高さ" : "11.9",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5778427744, 35.4264044201 ]
+			},
+			"properties" : {
+				"名称" : "横浜六ツ川郵便局",
+				"高さ" : "8",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6038462176, 35.4271618374 ]
+			},
+			"properties" : {
+				"名称" : "横浜中島郵便局",
+				"高さ" : "9.7",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6178503897, 35.4297931267 ]
+			},
+			"properties" : {
+				"名称" : "横浜中村橋郵便局",
+				"高さ" : "13.6",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5873940361, 35.4325353597 ]
+			},
+			"properties" : {
+				"名称" : "横浜南永田郵便局",
+				"高さ" : "34.2",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6116508885, 35.4325207667 ]
+			},
+			"properties" : {
+				"名称" : "横浜宿町郵便局",
+				"高さ" : "12.1",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6216498407, 35.4373516265 ]
+			},
+			"properties" : {
+				"名称" : "横浜吉野町郵便局",
+				"高さ" : "13.6",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6156934603, 35.4386776667 ]
+			},
+			"properties" : {
+				"名称" : "横浜南太田郵便局",
+				"高さ" : "12.3",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5971776079, 35.4378987693 ]
+			},
+			"properties" : {
+				"名称" : "横浜永田郵便局",
+				"高さ" : "10.3",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6275410613, 35.4344309559 ]
+			},
+			"properties" : {
+				"名称" : "横浜市南区役所",
+				"高さ" : "13.6",
+				"種類" : "地方の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.627148051, 35.4329233953 ]
+			},
+			"properties" : {
+				"名称" : "神奈川県警察中村町分庁舎",
+				"高さ" : "8.6",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6281066361, 35.4348549503 ]
+			},
+			"properties" : {
+				"名称" : "南警察署浦舟町交番",
+				"高さ" : "0",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6303754809, 35.4336161752 ]
+			},
+			"properties" : {
+				"名称" : "南警察署八幡町交番",
+				"高さ" : "9.1",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.635735432, 35.4341952347 ]
+			},
+			"properties" : {
+				"名称" : "市立石川小学校",
+				"高さ" : "13.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6333996509, 35.4312282346 ]
+			},
+			"properties" : {
+				"名称" : "市立平楽中学校",
+				"高さ" : "16.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6265532714, 35.4365781056 ]
+			},
+			"properties" : {
+				"名称" : "市立南吉田小学校",
+				"高さ" : "14.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6258252309, 35.4329567657 ]
+			},
+			"properties" : {
+				"名称" : "市立中村小学校",
+				"高さ" : "15.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6266578809, 35.4328417954 ]
+			},
+			"properties" : {
+				"名称" : "市立中村特別支援学校",
+				"高さ" : "5.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.625980151, 35.4340001862 ]
+			},
+			"properties" : {
+				"名称" : "市立浦舟特別支援学校",
+				"高さ" : "44.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6250957503, 35.4336721855 ]
+			},
+			"properties" : {
+				"名称" : "横浜市立大学附属市民総合医療センター",
+				"高さ" : "76.3",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6272817913, 35.4349870761 ]
+			},
+			"properties" : {
+				"名称" : "横浜浦舟郵便局",
+				"高さ" : "30.8",
+				"種類" : "郵便局"
+			}
+		}
+	]
+}

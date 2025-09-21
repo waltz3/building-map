@@ -1,0 +1,702 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "14113_yokohama-shi_midori-ku_landmark",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5505344022, 35.4991810684 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局緑消防署白山消防出張所",
+				"高さ" : "8.4",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5606770927, 35.4959201866 ]
+			},
+			"properties" : {
+				"名称" : "市立竹山小学校",
+				"高さ" : "14.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5514351416, 35.498635768 ]
+			},
+			"properties" : {
+				"名称" : "県立白山高等学校",
+				"高さ" : "18.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5620732023, 35.4963854166 ]
+			},
+			"properties" : {
+				"名称" : "横浜竹山郵便局",
+				"高さ" : "18.3",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4966266901, 35.5314002759 ]
+			},
+			"properties" : {
+				"名称" : "緑警察署長津田駅前交番",
+				"高さ" : "6.4",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4956673601, 35.5333121863 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局緑消防署長津田消防出張所",
+				"高さ" : "9.2",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4911494394, 35.5301700964 ]
+			},
+			"properties" : {
+				"名称" : "市立長津田小学校",
+				"高さ" : "12.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4883634201, 35.5346970765 ]
+			},
+			"properties" : {
+				"名称" : "市立長津田第二小学校",
+				"高さ" : "14.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4842419364, 35.5163366156 ]
+			},
+			"properties" : {
+				"名称" : "東京工業大学(すずかけ台キャンパス)",
+				"高さ" : "15.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4885891084, 35.5273464564 ]
+			},
+			"properties" : {
+				"名称" : "私立森村学園初等部",
+				"高さ" : "10.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4892865392, 35.5283782063 ]
+			},
+			"properties" : {
+				"名称" : "私立森村学園高等部",
+				"高さ" : "12.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4984300212, 35.5345673159 ]
+			},
+			"properties" : {
+				"名称" : "市立田奈中学校",
+				"高さ" : "8.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4989470075, 35.5107299442 ]
+			},
+			"properties" : {
+				"名称" : "私立星槎中学校",
+				"高さ" : "15.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.493417681, 35.5361427462 ]
+			},
+			"properties" : {
+				"名称" : "長津田厚生総合病院",
+				"高さ" : "10.7",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4969695403, 35.5299561058 ]
+			},
+			"properties" : {
+				"名称" : "長津田郵便局",
+				"高さ" : "13.4",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4957164702, 35.5329988463 ]
+			},
+			"properties" : {
+				"名称" : "長津田駅北口郵便局",
+				"高さ" : "103.7",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.537976972, 35.5123245499 ]
+			},
+			"properties" : {
+				"名称" : "横浜市緑区役所",
+				"高さ" : "0",
+				"種類" : "地方の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5358197928, 35.5158240104 ]
+			},
+			"properties" : {
+				"名称" : "緑警察署",
+				"高さ" : "15.6",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5169843516, 35.5260099737 ]
+			},
+			"properties" : {
+				"名称" : "緑警察署十日市場駅前交番",
+				"高さ" : "7.5",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.539232864, 35.5205429006 ]
+			},
+			"properties" : {
+				"名称" : "緑警察署北八朔町交番",
+				"高さ" : "4.6",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5060800391, 35.5139038832 ]
+			},
+			"properties" : {
+				"名称" : "緑警察署霧が丘交番",
+				"高さ" : "6",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5710938156, 35.510309057 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局緑消防署鴨居消防出張所",
+				"高さ" : "7.6",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5397573628, 35.5122111803 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局緑消防署",
+				"高さ" : "14.8",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5167877217, 35.5237860131 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局緑消防署十日市場消防出張所",
+				"高さ" : "8.2",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5662141051, 35.5089758169 ]
+			},
+			"properties" : {
+				"名称" : "市立鴨居小学校",
+				"高さ" : "14.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5265104812, 35.5159757017 ]
+			},
+			"properties" : {
+				"名称" : "市立三保小学校",
+				"高さ" : "14.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5381772638, 35.5252812509 ]
+			},
+			"properties" : {
+				"名称" : "市立山下小学校",
+				"高さ" : "15.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5472048528, 35.5065590588 ]
+			},
+			"properties" : {
+				"名称" : "市立上山小学校",
+				"高さ" : "16",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5199114308, 35.5175009428 ]
+			},
+			"properties" : {
+				"名称" : "市立新治小学校",
+				"高さ" : "8.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5616882941, 35.5076377079 ]
+			},
+			"properties" : {
+				"名称" : "市立鴨居中学校",
+				"高さ" : "14.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5399826211, 35.5038368295 ]
+			},
+			"properties" : {
+				"名称" : "市立中山中学校",
+				"高さ" : "11.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5077861589, 35.5111142929 ]
+			},
+			"properties" : {
+				"名称" : "市立義務教育学校霧が丘学園中学部",
+				"高さ" : "7.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5022530478, 35.5099692837 ]
+			},
+			"properties" : {
+				"名称" : "県立霧が丘高等学校",
+				"高さ" : "18.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5484652831, 35.5107124295 ]
+			},
+			"properties" : {
+				"名称" : "市立中山小学校",
+				"高さ" : "14.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5823438163, 35.5071423854 ]
+			},
+			"properties" : {
+				"名称" : "県立みどり養護学校",
+				"高さ" : "11.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5715667746, 35.5043624666 ]
+			},
+			"properties" : {
+				"名称" : "市立東鴨居中学校",
+				"高さ" : "14.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5821772067, 35.5050590553 ]
+			},
+			"properties" : {
+				"名称" : "市立東本郷小学校",
+				"高さ" : "15",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5071634585, 35.5120202431 ]
+			},
+			"properties" : {
+				"名称" : "市立義務教育学校霧が丘学園小学部",
+				"高さ" : "11.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5059124804, 35.5221029346 ]
+			},
+			"properties" : {
+				"名称" : "昭和大学(保健医療学部)",
+				"高さ" : "19",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5019918402, 35.5261477648 ]
+			},
+			"properties" : {
+				"名称" : "市立いぶき野小学校",
+				"高さ" : "11.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5354280416, 35.5085169301 ]
+			},
+			"properties" : {
+				"名称" : "市立森の台小学校",
+				"高さ" : "15.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5105066292, 35.5114389425 ]
+			},
+			"properties" : {
+				"名称" : "私立横浜翠陵高等学校",
+				"高さ" : "8.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5104864187, 35.5110843425 ]
+			},
+			"properties" : {
+				"名称" : "私立横浜翠陵中学校",
+				"高さ" : "15.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5127413105, 35.522398024 ]
+			},
+			"properties" : {
+				"名称" : "市立十日市場中学校",
+				"高さ" : "18.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5331831948, 35.5313496324 ]
+			},
+			"properties" : {
+				"名称" : "市立山下みどり台小学校",
+				"高さ" : "15.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5609081938, 35.5050720571 ]
+			},
+			"properties" : {
+				"名称" : "市立緑小学校",
+				"高さ" : "11.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5106965089, 35.5085368129 ]
+			},
+			"properties" : {
+				"名称" : "東洋英和女学院大学",
+				"高さ" : "12.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5143906005, 35.520556633 ]
+			},
+			"properties" : {
+				"名称" : "市立十日市場小学校",
+				"高さ" : "12.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5108028391, 35.5128003929 ]
+			},
+			"properties" : {
+				"名称" : "横浜創英大学",
+				"高さ" : "12.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5633179644, 35.5052819272 ]
+			},
+			"properties" : {
+				"名称" : "鴨居病院",
+				"高さ" : "23.3",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5702760949, 35.5077921369 ]
+			},
+			"properties" : {
+				"名称" : "牧野記念病院",
+				"高さ" : "12.7",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5091053209, 35.5247504837 ]
+			},
+			"properties" : {
+				"名称" : "横浜新緑総合病院",
+				"高さ" : "12.4",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5411493831, 35.5126979302 ]
+			},
+			"properties" : {
+				"名称" : "緑郵便局",
+				"高さ" : "11.8",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5764171061, 35.5062815764 ]
+			},
+			"properties" : {
+				"名称" : "横浜東本郷郵便局",
+				"高さ" : "5.1",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5532377632, 35.5076700187 ]
+			},
+			"properties" : {
+				"名称" : "横浜白山郵便局",
+				"高さ" : "8.6",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5680072053, 35.5100299572 ]
+			},
+			"properties" : {
+				"名称" : "鴨居駅前郵便局",
+				"高さ" : "7",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5376355122, 35.5138083406 ]
+			},
+			"properties" : {
+				"名称" : "横浜台村郵便局",
+				"高さ" : "14.8",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5156043116, 35.522597363 ]
+			},
+			"properties" : {
+				"名称" : "横浜十日市場郵便局",
+				"高さ" : "7.8",
+				"種類" : "郵便局"
+			}
+		}
+	]
+}

@@ -1,0 +1,978 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "14106_yokohama-shi_hodogaya-ku_landmark",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5978160222, 35.4677671515 ]
+			},
+			"properties" : {
+				"名称" : "保土ケ谷簡易裁判所",
+				"高さ" : "7.7",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5972787792, 35.445747299 ]
+			},
+			"properties" : {
+				"名称" : "東京国税局保土ヶ谷税務署",
+				"高さ" : "14.5",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5995794801, 35.4470852293 ]
+			},
+			"properties" : {
+				"名称" : "神奈川労働局横浜西労働基準監督署",
+				"高さ" : "19.2",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5959929916, 35.4599013603 ]
+			},
+			"properties" : {
+				"名称" : "横浜市保土ケ谷区役所",
+				"高さ" : "23",
+				"種類" : "地方の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5967067009, 35.4605359408 ]
+			},
+			"properties" : {
+				"名称" : "保土ケ谷警察署",
+				"高さ" : "23",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5977753033, 35.472245951 ]
+			},
+			"properties" : {
+				"名称" : "保土ケ谷警察署岡沢町交番",
+				"高さ" : "5.9",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5813077981, 35.4519770614 ]
+			},
+			"properties" : {
+				"名称" : "保土ケ谷警察署花見台交番",
+				"高さ" : "6.4",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5996671104, 35.4489461795 ]
+			},
+			"properties" : {
+				"名称" : "保土ケ谷警察署岩間町交番",
+				"高さ" : "6.5",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6008983917, 35.4586674503 ]
+			},
+			"properties" : {
+				"名称" : "保土ケ谷警察署宮田町交番",
+				"高さ" : "6.1",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5780594572, 35.4452484416 ]
+			},
+			"properties" : {
+				"名称" : "保土ケ谷警察署元町橋交番",
+				"高さ" : "7",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5520308548, 35.4524734541 ]
+			},
+			"properties" : {
+				"名称" : "保土ケ谷警察署今井町駐在所",
+				"高さ" : "6.6",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.567622052, 35.4876926251 ]
+			},
+			"properties" : {
+				"名称" : "保土ケ谷警察署上菅田交番",
+				"高さ" : "4.4",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5632314167, 35.4528362332 ]
+			},
+			"properties" : {
+				"名称" : "保土ケ谷警察署新桜ヶ丘駐在所",
+				"高さ" : "6.4",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5939596608, 35.4582101403 ]
+			},
+			"properties" : {
+				"名称" : "保土ケ谷警察署星川交番",
+				"高さ" : "8",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5661623806, 35.478599565 ]
+			},
+			"properties" : {
+				"名称" : "保土ケ谷警察署西谷交番",
+				"高さ" : "6.9",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5645807393, 35.4731935951 ]
+			},
+			"properties" : {
+				"名称" : "保土ケ谷警察署川島町駐在所",
+				"高さ" : "7.1",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5960133589, 35.4440134493 ]
+			},
+			"properties" : {
+				"名称" : "保土ケ谷警察署保土ケ谷橋交番",
+				"高さ" : "7.2",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5784221202, 35.4675715328 ]
+			},
+			"properties" : {
+				"名称" : "保土ケ谷警察署両郡橋交番",
+				"高さ" : "6.1",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5861383211, 35.4656282921 ]
+			},
+			"properties" : {
+				"名称" : "保土ケ谷警察署和田町交番",
+				"高さ" : "6.4",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5738710454, 35.4356980413 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局保土ヶ谷消防署権太坂消防出張所",
+				"高さ" : "14.1",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5938433584, 35.4441980201 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局保土ヶ谷消防署本陣消防出張所",
+				"高さ" : "9.5",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5643807051, 35.4445727022 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局保土ヶ谷消防署今井消防出張所",
+				"高さ" : "7.1",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5961276607, 35.4547538105 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局保土ヶ谷消防署",
+				"高さ" : "14.7",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5700339812, 35.4775106843 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局保土ヶ谷消防署西谷消防出張所",
+				"高さ" : "7.5",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5684234785, 35.4637767839 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局旭消防署市沢消防出張所",
+				"高さ" : "7.9",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5746488961, 35.4416980315 ]
+			},
+			"properties" : {
+				"名称" : "市立権太坂小学校",
+				"高さ" : "14.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5584544153, 35.4466424836 ]
+			},
+			"properties" : {
+				"名称" : "市立今井小学校",
+				"高さ" : "15.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5798339504, 35.4648755026 ]
+			},
+			"properties" : {
+				"名称" : "市立坂本小学校",
+				"高さ" : "14.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.590731819, 35.4507446105 ]
+			},
+			"properties" : {
+				"名称" : "市立桜台小学校",
+				"高さ" : "11.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5761489475, 35.4479758015 ]
+			},
+			"properties" : {
+				"名称" : "市立初音が丘小学校",
+				"高さ" : "11.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5780102814, 35.4762257537 ]
+			},
+			"properties" : {
+				"名称" : "市立上星川小学校",
+				"高さ" : "14.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5568992922, 35.4957812975 ]
+			},
+			"properties" : {
+				"名称" : "市立新井小学校",
+				"高さ" : "15",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5870100178, 35.44128136 ]
+			},
+			"properties" : {
+				"名称" : "市立瀬戸ケ谷小学校",
+				"高さ" : "15.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5891954105, 35.4615272616 ]
+			},
+			"properties" : {
+				"名称" : "市立星川小学校",
+				"高さ" : "11.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5858640504, 35.4604445015 ]
+			},
+			"properties" : {
+				"名称" : "市立仏向小学校",
+				"高さ" : "14.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.599355042, 35.4614858702 ]
+			},
+			"properties" : {
+				"名称" : "市立峯小学校",
+				"高さ" : "11.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6015860391, 35.4433610886 ]
+			},
+			"properties" : {
+				"名称" : "市立岩井原中学校",
+				"高さ" : "15",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5765432483, 35.4557662818 ]
+			},
+			"properties" : {
+				"名称" : "市立橘中学校",
+				"高さ" : "14.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5684991127, 35.4900919256 ]
+			},
+			"properties" : {
+				"名称" : "市立上菅田中学校",
+				"高さ" : "14.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5646036901, 35.474255735 ]
+			},
+			"properties" : {
+				"名称" : "市立西谷中学校",
+				"高さ" : "15.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.585371199, 35.451642461 ]
+			},
+			"properties" : {
+				"名称" : "市立桜丘高等学校",
+				"高さ" : "14.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5748711063, 35.4434202612 ]
+			},
+			"properties" : {
+				"名称" : "県立光陵高等学校",
+				"高さ" : "11.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5537346653, 35.4506986238 ]
+			},
+			"properties" : {
+				"名称" : "県立商工高等学校",
+				"高さ" : "19.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5631086279, 35.4657585342 ]
+			},
+			"properties" : {
+				"名称" : "県立保土ケ谷高等学校",
+				"高さ" : "18.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.598454439, 35.4414480194 ]
+			},
+			"properties" : {
+				"名称" : "私立横浜清風高等学校",
+				"高さ" : "14.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6048348628, 35.4615114401 ]
+			},
+			"properties" : {
+				"名称" : "市立宮田中学校",
+				"高さ" : "11",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5679629199, 35.4734360844 ]
+			},
+			"properties" : {
+				"名称" : "市立川島小学校",
+				"高さ" : "12.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5723349961, 35.442464702 ]
+			},
+			"properties" : {
+				"名称" : "県立保土ケ谷養護学校",
+				"高さ" : "7.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6018874594, 35.4428605987 ]
+			},
+			"properties" : {
+				"名称" : "市立富士見台小学校",
+				"高さ" : "11.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5867536579, 35.4469397508 ]
+			},
+			"properties" : {
+				"名称" : "市立岩崎小学校",
+				"高さ" : "9.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5854550785, 35.4497099005 ]
+			},
+			"properties" : {
+				"名称" : "市立岩崎中学校",
+				"高さ" : "15",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5948535506, 35.4547630907 ]
+			},
+			"properties" : {
+				"名称" : "市立保土ケ谷小学校",
+				"高さ" : "11.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5975657707, 35.4566146607 ]
+			},
+			"properties" : {
+				"名称" : "市立帷子小学校",
+				"高さ" : "8.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5843727305, 35.4662532124 ]
+			},
+			"properties" : {
+				"名称" : "市立保土ケ谷中学校",
+				"高さ" : "14.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5857832215, 35.4693065628 ]
+			},
+			"properties" : {
+				"名称" : "市立常盤台小学校",
+				"高さ" : "14.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5924741924, 35.4733535323 ]
+			},
+			"properties" : {
+				"名称" : "横浜国立大学",
+				"高さ" : "7.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.562918706, 35.451130543 ]
+			},
+			"properties" : {
+				"名称" : "市立藤塚小学校",
+				"高さ" : "7.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5748353528, 35.4860201947 ]
+			},
+			"properties" : {
+				"名称" : "市立上菅田特別支援学校",
+				"高さ" : "7.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5963713932, 35.4728368615 ]
+			},
+			"properties" : {
+				"名称" : "市立ろう特別支援学校",
+				"高さ" : "8.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5552406409, 35.4897105073 ]
+			},
+			"properties" : {
+				"名称" : "市立新井中学校桜坂分校",
+				"高さ" : "7.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5648700325, 35.4927464461 ]
+			},
+			"properties" : {
+				"名称" : "市立上菅田笹の丘小学校",
+				"高さ" : "15.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5834534516, 35.472830563 ]
+			},
+			"properties" : {
+				"名称" : "横浜保土ケ谷中央病院",
+				"高さ" : "26.5",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6048277698, 35.4426023086 ]
+			},
+			"properties" : {
+				"名称" : "聖隷横浜病院",
+				"高さ" : "12.8",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5764889449, 35.4336676802 ]
+			},
+			"properties" : {
+				"名称" : "イムス横浜狩場脳神経外科病院",
+				"高さ" : "14.4",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6001378038, 35.4724671012 ]
+			},
+			"properties" : {
+				"名称" : "横浜市立市民病院",
+				"高さ" : "39.9",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.596341301, 35.4608227508 ]
+			},
+			"properties" : {
+				"名称" : "保土ヶ谷郵便局",
+				"高さ" : "37.1",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6006771698, 35.4437583993 ]
+			},
+			"properties" : {
+				"名称" : "横浜岩井郵便局",
+				"高さ" : "9.9",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5645921052, 35.4444747822 ]
+			},
+			"properties" : {
+				"名称" : "横浜今井郵便局",
+				"高さ" : "4.3",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5808859477, 35.4462948313 ]
+			},
+			"properties" : {
+				"名称" : "横浜保土ヶ谷三郵便局",
+				"高さ" : "9",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5971070798, 35.4463831396 ]
+			},
+			"properties" : {
+				"名称" : "横浜帷子郵便局",
+				"高さ" : "6.8",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5917968098, 35.4508755005 ]
+			},
+			"properties" : {
+				"名称" : "横浜桜ヶ丘郵便局",
+				"高さ" : "7.1",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.602242051, 35.4526029992 ]
+			},
+			"properties" : {
+				"名称" : "横浜岩間郵便局",
+				"高さ" : "10.3",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5977048207, 35.4536752596 ]
+			},
+			"properties" : {
+				"名称" : "横浜ビジネスパーク内郵便局",
+				"高さ" : "49.6",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5936578708, 35.4579899305 ]
+			},
+			"properties" : {
+				"名称" : "横浜星川郵便局",
+				"高さ" : "11.6",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5871148212, 35.4656850519 ]
+			},
+			"properties" : {
+				"名称" : "横浜和田郵便局",
+				"高さ" : "6.9",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.577328231, 35.4702958737 ]
+			},
+			"properties" : {
+				"名称" : "横浜上星川郵便局",
+				"高さ" : "7",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5702910603, 35.4757622042 ]
+			},
+			"properties" : {
+				"名称" : "横浜西谷郵便局",
+				"高さ" : "9.3",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5675010518, 35.4877098058 ]
+			},
+			"properties" : {
+				"名称" : "横浜上菅田郵便局",
+				"高さ" : "3.5",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.552522251, 35.4912305472 ]
+			},
+			"properties" : {
+				"名称" : "横浜千丸台郵便局",
+				"高さ" : "14.9",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5848533972, 35.4396751502 ]
+			},
+			"properties" : {
+				"名称" : "横浜狩場郵便局",
+				"高さ" : "11.8",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5851554617, 35.4714034025 ]
+			},
+			"properties" : {
+				"名称" : "横浜常盤台郵便局",
+				"高さ" : "9.9",
+				"種類" : "郵便局"
+			}
+		}
+	]
+}

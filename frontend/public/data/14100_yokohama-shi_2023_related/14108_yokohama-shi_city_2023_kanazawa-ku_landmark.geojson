@@ -1,0 +1,1206 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "14108_yokohama-shi_kanazawa-ku_landmark",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6244146461, 35.3366239882 ]
+			},
+			"properties" : {
+				"名称" : "金沢警察署",
+				"高さ" : "23.8",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6112317664, 35.3449187701 ]
+			},
+			"properties" : {
+				"名称" : "金沢警察署釜利谷交番",
+				"高さ" : "8.4",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5952419032, 35.3393481312 ]
+			},
+			"properties" : {
+				"名称" : "金沢警察署釜利谷西駐在所",
+				"高さ" : "4.2",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.622755397, 35.3440513197 ]
+			},
+			"properties" : {
+				"名称" : "金沢警察署金沢文庫駅前交番",
+				"高さ" : "6.5",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6217919602, 35.3677667812 ]
+			},
+			"properties" : {
+				"名称" : "金沢警察署西富岡駐在所",
+				"高さ" : "7.7",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.613863148, 35.3576209608 ]
+			},
+			"properties" : {
+				"名称" : "金沢警察署能見台交番",
+				"高さ" : "3.9",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5959167032, 35.3390604515 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局金沢消防署釜利谷消防出張所",
+				"高さ" : "7.7",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6191407384, 35.3530825204 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局金沢消防署能見台消防出張所",
+				"高さ" : "7.9",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6183428703, 35.3697696915 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局金沢消防署富岡消防出張所",
+				"高さ" : "11.1",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6187034556, 35.3349327739 ]
+			},
+			"properties" : {
+				"名称" : "市立金沢高等学校",
+				"高さ" : "14.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6080091451, 35.3436982904 ]
+			},
+			"properties" : {
+				"名称" : "市立釜利谷小学校",
+				"高さ" : "11.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.620231601, 35.372142612 ]
+			},
+			"properties" : {
+				"名称" : "市立小田小学校",
+				"高さ" : "11.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6141284505, 35.3620999302 ]
+			},
+			"properties" : {
+				"名称" : "市立西富岡小学校",
+				"高さ" : "14.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.622231489, 35.3580037807 ]
+			},
+			"properties" : {
+				"名称" : "市立能見台小学校",
+				"高さ" : "11.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6221480659, 35.3387538889 ]
+			},
+			"properties" : {
+				"名称" : "市立八景小学校",
+				"高さ" : "7.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6248704711, 35.3668093005 ]
+			},
+			"properties" : {
+				"名称" : "市立富岡小学校",
+				"高さ" : "11.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6191760808, 35.3707815016 ]
+			},
+			"properties" : {
+				"名称" : "市立小田中学校",
+				"高さ" : "11.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6141759687, 35.3610037618 ]
+			},
+			"properties" : {
+				"名称" : "市立富岡中学校",
+				"高さ" : "14.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6084535868, 35.3515871314 ]
+			},
+			"properties" : {
+				"名称" : "県立釜利谷高等学校",
+				"高さ" : "11.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6150092174, 35.3533926809 ]
+			},
+			"properties" : {
+				"名称" : "市立能見台南小学校",
+				"高さ" : "11.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6078188938, 35.3337789204 ]
+			},
+			"properties" : {
+				"名称" : "市立高舟台小学校",
+				"高さ" : "14.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6041480043, 35.337365001 ]
+			},
+			"properties" : {
+				"名称" : "市立釜利谷中学校",
+				"高さ" : "11.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6057173145, 35.3387055502 ]
+			},
+			"properties" : {
+				"名称" : "市立釜利谷南小学校",
+				"高さ" : "11.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6178980659, 35.3415038698 ]
+			},
+			"properties" : {
+				"名称" : "市立金沢中学校",
+				"高さ" : "11.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5933847029, 35.343894738 ]
+			},
+			"properties" : {
+				"名称" : "市立西金沢義務教育学校",
+				"高さ" : "14.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6174535764, 35.3446149595 ]
+			},
+			"properties" : {
+				"名称" : "市立釜利谷東小学校",
+				"高さ" : "11.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5947313347, 35.3460316225 ]
+			},
+			"properties" : {
+				"名称" : "市立西金沢義務教育学校分校舎",
+				"高さ" : "11.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6183290748, 35.3338449989 ]
+			},
+			"properties" : {
+				"名称" : "横浜市立大学金沢八景キャンパス",
+				"高さ" : "4.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5974451935, 35.3370594615 ]
+			},
+			"properties" : {
+				"名称" : "関東学院大学横浜・金沢文庫キャンパス",
+				"高さ" : "11.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6139422054, 35.344068155 ]
+			},
+			"properties" : {
+				"名称" : "金沢文庫病院",
+				"高さ" : "12.4",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6247246668, 35.3367074182 ]
+			},
+			"properties" : {
+				"名称" : "横浜金沢郵便局",
+				"高さ" : "16.5",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5952556033, 35.3386927512 ]
+			},
+			"properties" : {
+				"名称" : "横浜釜利谷西郵便局",
+				"高さ" : "7.5",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6242380874, 35.3413737291 ]
+			},
+			"properties" : {
+				"名称" : "横浜金沢文庫郵便局",
+				"高さ" : "13.5",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6114071455, 35.3425875706 ]
+			},
+			"properties" : {
+				"名称" : "横浜釜利谷郵便局",
+				"高さ" : "9.4",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.619798877, 35.3427517797 ]
+			},
+			"properties" : {
+				"名称" : "金沢文庫駅前郵便局",
+				"高さ" : "11.8",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6138049483, 35.3577128113 ]
+			},
+			"properties" : {
+				"名称" : "横浜能見台郵便局",
+				"高さ" : "4.3",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5963513992, 35.3487252081 ]
+			},
+			"properties" : {
+				"名称" : "横浜市立金沢動物園",
+				"高さ" : "6.2",
+				"種類" : "博物館・美術館"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6060504867, 35.3289532733 ]
+			},
+			"properties" : {
+				"名称" : "金沢警察署大道交番",
+				"高さ" : "6.8",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6205633445, 35.3280191585 ]
+			},
+			"properties" : {
+				"名称" : "金沢警察署六浦交番",
+				"高さ" : "6.8",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6124243429, 35.325540159 ]
+			},
+			"properties" : {
+				"名称" : "金沢警察署六浦川交番",
+				"高さ" : "3.5",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6121757459, 35.324871952 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局金沢消防署六浦消防出張所",
+				"高さ" : "8.1",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.620148343, 35.3193651572 ]
+			},
+			"properties" : {
+				"名称" : "市立瀬ヶ崎小学校",
+				"高さ" : "11.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6110373437, 35.3266701592 ]
+			},
+			"properties" : {
+				"名称" : "市立大道小学校",
+				"高さ" : "11",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6125871865, 35.3298556416 ]
+			},
+			"properties" : {
+				"名称" : "市立六浦小学校",
+				"高さ" : "14.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6013943428, 35.3308961602 ]
+			},
+			"properties" : {
+				"名称" : "市立大道中学校",
+				"高さ" : "14.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6178143438, 35.3246981583 ]
+			},
+			"properties" : {
+				"名称" : "市立六浦中学校",
+				"高さ" : "14.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6112033417, 35.3158931587 ]
+			},
+			"properties" : {
+				"名称" : "市立六浦南小学校",
+				"高さ" : "11.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5950363409, 35.3232821608 ]
+			},
+			"properties" : {
+				"名称" : "市立朝比奈小学校",
+				"高さ" : "15",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.624183344, 35.3237601575 ]
+			},
+			"properties" : {
+				"名称" : "関東学院大学横浜・金沢八景キャンパス",
+				"高さ" : "11.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6224883434, 35.3207561574 ]
+			},
+			"properties" : {
+				"名称" : "横浜南共済病院",
+				"高さ" : "31.1",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6206153432, 35.3206851579 ]
+			},
+			"properties" : {
+				"名称" : "横浜六浦郵便局",
+				"高さ" : "9.6",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6102343429, 35.3226461587 ]
+			},
+			"properties" : {
+				"名称" : "六浦駅前郵便局",
+				"高さ" : "9.6",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6144023439, 35.3277651591 ]
+			},
+			"properties" : {
+				"名称" : "横浜六浦川郵便局",
+				"高さ" : "7.1",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6054113429, 35.3282441596 ]
+			},
+			"properties" : {
+				"名称" : "横浜大道郵便局",
+				"高さ" : "7.5",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6293143446, 35.3231701567 ]
+			},
+			"properties" : {
+				"名称" : "私立横浜創学館高等学校",
+				"高さ" : "15.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6255436478, 35.3235346524 ]
+			},
+			"properties" : {
+				"名称" : "私立関東学院六浦中学校",
+				"高さ" : "14.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6274253446, 35.3236431572 ]
+			},
+			"properties" : {
+				"名称" : "私立関東学院六浦小学校",
+				"高さ" : "14.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.631067346, 35.3323951573 ]
+			},
+			"properties" : {
+				"名称" : "済生会若草病院",
+				"高さ" : "14.6",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6257913459, 35.3328401586 ]
+			},
+			"properties" : {
+				"名称" : "横浜金沢八景郵便局",
+				"高さ" : "7.8",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6483433569, 35.3878101602 ]
+			},
+			"properties" : {
+				"名称" : "東京出入国在留管理局横浜支局",
+				"高さ" : "19.3",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6271763469, 35.3384761589 ]
+			},
+			"properties" : {
+				"名称" : "神奈川労働局横浜南公共職業安定所",
+				"高さ" : "7.6",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6356563507, 35.358920159 ]
+			},
+			"properties" : {
+				"名称" : "横浜検疫所輸入食品検疫・検査センター",
+				"高さ" : "8.4",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6253153463, 35.3382441582 ]
+			},
+			"properties" : {
+				"名称" : "横浜地方法務局金沢出張所",
+				"高さ" : "5.6",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.640241354, 35.3769581598 ]
+			},
+			"properties" : {
+				"名称" : "関東地方整備局横浜国道事務所金沢国道出張所",
+				"高さ" : "8.2",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6392313516, 35.3603091589 ]
+			},
+			"properties" : {
+				"名称" : "東京国税局横浜南税務署",
+				"高さ" : "19.3",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6420803522, 35.3611021584 ]
+			},
+			"properties" : {
+				"名称" : "金沢警察署幸浦交番",
+				"高さ" : "7.1",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6370903491, 35.3435811581 ]
+			},
+			"properties" : {
+				"名称" : "金沢警察署柴町駐在所",
+				"高さ" : "6.8",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.633107347, 35.3333841578 ]
+			},
+			"properties" : {
+				"名称" : "金沢警察署洲崎交番",
+				"高さ" : "7.9",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.62974235, 35.3599831601 ]
+			},
+			"properties" : {
+				"名称" : "金沢警察署能見台駅前交番",
+				"高さ" : "7.5",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6339063523, 35.36896616 ]
+			},
+			"properties" : {
+				"名称" : "金沢警察署富岡交番",
+				"高さ" : "6.4",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6385323539, 35.37547916 ]
+			},
+			"properties" : {
+				"名称" : "金沢警察署並木交番",
+				"高さ" : "3.7",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6443933522, 35.3616881582 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局金沢消防署幸浦消防出張所",
+				"高さ" : "8",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6319953525, 35.3719871603 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局金沢消防署東富岡消防出張所",
+				"高さ" : "7.7",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6372113534, 35.37746116 ]
+			},
+			"properties" : {
+				"名称" : "県立金沢養護学校",
+				"高さ" : "9.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6294813469, 35.3357261584 ]
+			},
+			"properties" : {
+				"名称" : "市立金沢小学校",
+				"高さ" : "11.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6330653489, 35.3476410519 ]
+			},
+			"properties" : {
+				"名称" : "市立西柴小学校",
+				"高さ" : "14.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6311483473, 35.3400871582 ]
+			},
+			"properties" : {
+				"名称" : "市立文庫小学校",
+				"高さ" : "10.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6390588096, 35.3729643037 ]
+			},
+			"properties" : {
+				"名称" : "市立並木第一小学校",
+				"高さ" : "4.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6293423493, 35.3528091597 ]
+			},
+			"properties" : {
+				"名称" : "市立西柴中学校",
+				"高さ" : "14.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6410373514, 35.3593931587 ]
+			},
+			"properties" : {
+				"名称" : "市立並木中学校",
+				"高さ" : "7.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6276203503, 35.3624761603 ]
+			},
+			"properties" : {
+				"名称" : "私立横浜高等学校",
+				"高さ" : "11",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6411013511, 35.356069158 ]
+			},
+			"properties" : {
+				"名称" : "市立並木第四小学校",
+				"高さ" : "11.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6347808599, 35.3662100839 ]
+			},
+			"properties" : {
+				"名称" : "県立金沢総合高等学校",
+				"高さ" : "15.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6374653527, 35.3726091598 ]
+			},
+			"properties" : {
+				"名称" : "市立富岡東中学校",
+				"高さ" : "11.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6515373506, 35.343393156 ]
+			},
+			"properties" : {
+				"名称" : "横浜市立大学福浦キャンパス",
+				"高さ" : "25.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6271203507, 35.3631701601 ]
+			},
+			"properties" : {
+				"名称" : "私立横浜中学校",
+				"高さ" : "13.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6411643529, 35.3667481594 ]
+			},
+			"properties" : {
+				"名称" : "市立並木中央小学校",
+				"高さ" : "4.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6252713468, 35.3371841587 ]
+			},
+			"properties" : {
+				"名称" : "金沢病院",
+				"高さ" : "17.7",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6513033507, 35.3445261562 ]
+			},
+			"properties" : {
+				"名称" : "横浜市立大学附属病院",
+				"高さ" : "40.4",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.627743349, 35.3520451596 ]
+			},
+			"properties" : {
+				"名称" : "横浜片吹郵便局",
+				"高さ" : "7.4",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6478073515, 35.3540531578 ]
+			},
+			"properties" : {
+				"名称" : "横浜金沢振興センター郵便局",
+				"高さ" : "14.2",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6272203504, 35.36087216 ]
+			},
+			"properties" : {
+				"名称" : "能見台駅前郵便局",
+				"高さ" : "7.2",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6381593523, 35.3651891596 ]
+			},
+			"properties" : {
+				"名称" : "横浜金沢シーサイドタウン郵便局",
+				"高さ" : "7.4",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.628418351, 35.3671771606 ]
+			},
+			"properties" : {
+				"名称" : "横浜富岡郵便局",
+				"高さ" : "7.4",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.638434353, 35.3697181601 ]
+			},
+			"properties" : {
+				"名称" : "横浜並木郵便局",
+				"高さ" : "20.5",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6251063517, 35.3738661615 ]
+			},
+			"properties" : {
+				"名称" : "椿ヶ丘簡易郵便局",
+				"高さ" : "6.5",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6505563564, 35.3854611594 ]
+			},
+			"properties" : {
+				"名称" : "福山通運（横浜南支店）",
+				"高さ" : "8.5",
+				"種類" : "指定公共機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6496813524, 35.3582051578 ]
+			},
+			"properties" : {
+				"名称" : "西濃運輸（横浜南支店）",
+				"高さ" : "11.3",
+				"種類" : "指定公共機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6287023481, 35.3438861586 ]
+			},
+			"properties" : {
+				"名称" : "神奈川県立金沢文庫",
+				"高さ" : "9.7",
+				"種類" : "博物館・美術館"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6474253494, 35.3374471561 ]
+			},
+			"properties" : {
+				"名称" : "横浜・八景島シーパラダイスアクアミュージアム",
+				"高さ" : "17.3",
+				"種類" : "博物館・美術館"
+			}
+		}
+	]
+}

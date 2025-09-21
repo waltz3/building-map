@@ -1,0 +1,570 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "14114_yokohama-shi_seya-ku_landmark",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.498784541, 35.4660321809 ]
+			},
+			"properties" : {
+				"名称" : "横浜市瀬谷区役所",
+				"高さ" : "19.9",
+				"種類" : "地方の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4992323111, 35.4676424405 ]
+			},
+			"properties" : {
+				"名称" : "瀬谷警察署",
+				"高さ" : "16.4",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4882337021, 35.4814911532 ]
+			},
+			"properties" : {
+				"名称" : "瀬谷警察署細谷戸駐在所",
+				"高さ" : "3.2",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.48255232, 35.4699997129 ]
+			},
+			"properties" : {
+				"名称" : "瀬谷警察署瀬谷駅前交番",
+				"高さ" : "5.7",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4737564113, 35.486252585 ]
+			},
+			"properties" : {
+				"名称" : "瀬谷警察署竹村町駐在所",
+				"高さ" : "6.2",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4881234795, 35.4639180816 ]
+			},
+			"properties" : {
+				"名称" : "瀬谷警察署南台交番",
+				"高さ" : "6.3",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.479914558, 35.4590730817 ]
+			},
+			"properties" : {
+				"名称" : "瀬谷警察署北新駐在所",
+				"高さ" : "7.3",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.481899204, 35.4982377151 ]
+			},
+			"properties" : {
+				"名称" : "瀬谷警察署目黒交番",
+				"高さ" : "6.6",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4825378171, 35.4547257916 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局瀬谷消防署下瀬谷消防出張所",
+				"高さ" : "5.5",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4802010812, 35.483856524 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局瀬谷消防署中瀬谷消防出張所",
+				"高さ" : "7.7",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.497121027, 35.4411702792 ]
+			},
+			"properties" : {
+				"名称" : "市立阿久和小学校",
+				"高さ" : "11.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4770993918, 35.4893850549 ]
+			},
+			"properties" : {
+				"名称" : "市立上瀬谷小学校",
+				"高さ" : "7.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4819302278, 35.4607066722 ]
+			},
+			"properties" : {
+				"名称" : "市立瀬谷第二小学校",
+				"高さ" : "11.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4901768612, 35.4754757421 ]
+			},
+			"properties" : {
+				"名称" : "市立相沢小学校",
+				"高さ" : "15.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4974268516, 35.4728368614 ]
+			},
+			"properties" : {
+				"名称" : "市立二つ橋小学校",
+				"高さ" : "7.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4823711281, 35.456920232 ]
+			},
+			"properties" : {
+				"名称" : "市立下瀬谷中学校",
+				"高さ" : "11.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4785102005, 35.4815868339 ]
+			},
+			"properties" : {
+				"名称" : "県立瀬谷西高等学校",
+				"高さ" : "15.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4867292262, 35.4574206684 ]
+			},
+			"properties" : {
+				"名称" : "市立南瀬谷小学校",
+				"高さ" : "15.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.485532438, 35.4577628713 ]
+			},
+			"properties" : {
+				"名称" : "市立南瀬谷中学校",
+				"高さ" : "15.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4980299703, 35.4605238906 ]
+			},
+			"properties" : {
+				"名称" : "市立三ツ境小学校",
+				"高さ" : "14.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4751116094, 35.4715533636 ]
+			},
+			"properties" : {
+				"名称" : "市立大門小学校",
+				"高さ" : "15.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4959074725, 35.4765157518 ]
+			},
+			"properties" : {
+				"名称" : "市立東野中学校",
+				"高さ" : "14.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4991016924, 35.4785840214 ]
+			},
+			"properties" : {
+				"名称" : "県立瀬谷高等学校",
+				"高さ" : "15.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4980882293, 35.4547076795 ]
+			},
+			"properties" : {
+				"名称" : "市立原中学校",
+				"高さ" : "11.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4809389795, 35.4718028233 ]
+			},
+			"properties" : {
+				"名称" : "市立瀬谷中学校",
+				"高さ" : "15.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4841490399, 35.4724757426 ]
+			},
+			"properties" : {
+				"名称" : "市立瀬谷小学校",
+				"高さ" : "11.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4713477207, 35.4854883745 ]
+			},
+			"properties" : {
+				"名称" : "県立瀬谷養護学校",
+				"高さ" : "3.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4957738415, 35.4717493113 ]
+			},
+			"properties" : {
+				"名称" : "市立二つ橋高等特別支援学校",
+				"高さ" : "11.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4952245519, 35.4728049213 ]
+			},
+			"properties" : {
+				"名称" : "県立三ツ境養護学校",
+				"高さ" : "7.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4812877867, 35.4513369113 ]
+			},
+			"properties" : {
+				"名称" : "市立瀬谷さくら小学校",
+				"高さ" : "15.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4856442462, 35.4456274106 ]
+			},
+			"properties" : {
+				"名称" : "県立横浜ひなたやま支援学校",
+				"高さ" : "11.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4842037897, 35.4661214626 ]
+			},
+			"properties" : {
+				"名称" : "瀬谷郵便局",
+				"高さ" : "8.2",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4857814357, 35.4431315804 ]
+			},
+			"properties" : {
+				"名称" : "横浜日向山郵便局",
+				"高さ" : "7.5",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4865306873, 35.4511801103 ]
+			},
+			"properties" : {
+				"名称" : "横浜南瀬谷一郵便局",
+				"高さ" : "7.9",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4974150191, 35.4537242798 ]
+			},
+			"properties" : {
+				"名称" : "横浜阿久和郵便局",
+				"高さ" : "9.4",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4762048167, 35.4557634921 ]
+			},
+			"properties" : {
+				"名称" : "横浜瀬谷西郵便局",
+				"高さ" : "4.6",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4882141798, 35.4638465414 ]
+			},
+			"properties" : {
+				"名称" : "横浜瀬谷南郵便局",
+				"高さ" : "3.4",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.48511684, 35.4721885026 ]
+			},
+			"properties" : {
+				"名称" : "横浜瀬谷北郵便局",
+				"高さ" : "7.7",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4756476802, 35.4791446441 ]
+			},
+			"properties" : {
+				"名称" : "横浜本郷原郵便局",
+				"高さ" : "4.8",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4885229923, 35.4803191026 ]
+			},
+			"properties" : {
+				"名称" : "横浜細谷戸郵便局",
+				"高さ" : "6.8",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.486636924, 35.4985810245 ]
+			},
+			"properties" : {
+				"名称" : "横浜卸本町簡易郵便局",
+				"高さ" : "4.8",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5039737189, 35.4479172691 ]
+			},
+			"properties" : {
+				"名称" : "瀬谷警察署阿久和町交番",
+				"高さ" : "6",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.50258133, 35.4546665495 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局瀬谷消防署阿久和消防出張所",
+				"高さ" : "8.5",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5092037095, 35.4464121981 ]
+			},
+			"properties" : {
+				"名称" : "私立横浜隼人高等学校",
+				"高さ" : "22",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5005285883, 35.4471989889 ]
+			},
+			"properties" : {
+				"名称" : "市立原小学校",
+				"高さ" : "11.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5028247217, 35.4674064607 ]
+			},
+			"properties" : {
+				"名称" : "横浜三ツ境郵便局",
+				"高さ" : "9.5",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5020745317, 35.4688946006 ]
+			},
+			"properties" : {
+				"名称" : "三ツ境駅北口郵便局",
+				"高さ" : "14.7",
+				"種類" : "郵便局"
+			}
+		}
+	]
+}

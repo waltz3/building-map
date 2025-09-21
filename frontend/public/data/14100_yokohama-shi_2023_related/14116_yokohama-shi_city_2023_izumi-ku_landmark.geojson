@@ -1,0 +1,642 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "14116_yokohama-shi_izumi-ku_landmark",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4909570402, 35.4014432164 ]
+			},
+			"properties" : {
+				"名称" : "泉警察署下和泉交番",
+				"高さ" : "6.6",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4946101428, 35.415572187 ]
+			},
+			"properties" : {
+				"名称" : "泉警察署和泉交番",
+				"高さ" : "3.4",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4931763406, 35.4012814965 ]
+			},
+			"properties" : {
+				"名称" : "市立下和泉小学校",
+				"高さ" : "14.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4911105026, 35.4158580576 ]
+			},
+			"properties" : {
+				"名称" : "市立中和田小学校",
+				"高さ" : "14.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4843985189, 35.3982537172 ]
+			},
+			"properties" : {
+				"名称" : "市立中和田南小学校",
+				"高さ" : "11.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4923139415, 35.4048920671 ]
+			},
+			"properties" : {
+				"名称" : "市立泉が丘中学校",
+				"高さ" : "8.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4982658038, 35.4159898768 ]
+			},
+			"properties" : {
+				"名称" : "市立中和田中学校",
+				"高さ" : "14.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4969383127, 35.4108348565 ]
+			},
+			"properties" : {
+				"名称" : "市立伊勢山小学校",
+				"高さ" : "15",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4899723114, 35.4090304572 ]
+			},
+			"properties" : {
+				"名称" : "県立横浜修悠館高等学校",
+				"高さ" : "14.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4931447412, 35.4020281767 ]
+			},
+			"properties" : {
+				"名称" : "横浜和泉南郵便局",
+				"高さ" : "6.5",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4923547427, 35.4160610776 ]
+			},
+			"properties" : {
+				"名称" : "横浜中和田郵便局",
+				"高さ" : "6.5",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5107471741, 35.4112525551 ]
+			},
+			"properties" : {
+				"名称" : "泉警察署中田交番",
+				"高さ" : "6.8",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5211486457, 35.4153647845 ]
+			},
+			"properties" : {
+				"名称" : "市立領家中学校",
+				"高さ" : "14.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.508145363, 35.4038141255 ]
+			},
+			"properties" : {
+				"名称" : "市立葛野小学校",
+				"高さ" : "15",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5081669342, 35.4105387356 ]
+			},
+			"properties" : {
+				"名称" : "市立中田小学校",
+				"高さ" : "11",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5054877444, 35.414559766 ]
+			},
+			"properties" : {
+				"名称" : "市立中田中学校",
+				"高さ" : "15.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5079839243, 35.4126288861 ]
+			},
+			"properties" : {
+				"名称" : "横浜中田郵便局",
+				"高さ" : "7.9",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4887898525, 35.4178506085 ]
+			},
+			"properties" : {
+				"名称" : "横浜市泉区役所",
+				"高さ" : "19.9",
+				"種類" : "地方の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4955125252, 35.4272116382 ]
+			},
+			"properties" : {
+				"名称" : "泉警察署",
+				"高さ" : "17.5",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4944206165, 35.4305947028 ]
+			},
+			"properties" : {
+				"名称" : "泉警察署いずみ野駅前交番",
+				"高さ" : "3",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4843737427, 35.423366209 ]
+			},
+			"properties" : {
+				"名称" : "泉警察署上飯田交番",
+				"高さ" : "6.7",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4943182758, 35.4334468085 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局泉消防署いずみ野消防出張所",
+				"高さ" : "7.8",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4946374058, 35.4342489085 ]
+			},
+			"properties" : {
+				"名称" : "市立いずみ野小学校",
+				"高さ" : "15.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4803987029, 35.4240869792 ]
+			},
+			"properties" : {
+				"名称" : "市立上飯田小学校",
+				"高さ" : "14.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4815639444, 35.4343642901 ]
+			},
+			"properties" : {
+				"名称" : "市立飯田北いちょう小学校",
+				"高さ" : "14.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4963336345, 35.4228218976 ]
+			},
+			"properties" : {
+				"名称" : "市立和泉小学校",
+				"高さ" : "15.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4976487659, 35.4318091885 ]
+			},
+			"properties" : {
+				"名称" : "市立いずみ野中学校",
+				"高さ" : "7.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4817320433, 35.4297814093 ]
+			},
+			"properties" : {
+				"名称" : "市立上飯田中学校",
+				"高さ" : "16.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.494037696, 35.4373091794 ]
+			},
+			"properties" : {
+				"名称" : "県立松陽高等学校",
+				"高さ" : "19",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4989552762, 35.433950048 ]
+			},
+			"properties" : {
+				"名称" : "私立秀英高等学校",
+				"高さ" : "14.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4796383823, 35.421510979 ]
+			},
+			"properties" : {
+				"名称" : "横浜上飯田郵便局",
+				"高さ" : "10",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4939329657, 35.4330255085 ]
+			},
+			"properties" : {
+				"名称" : "横浜いずみ野郵便局",
+				"高さ" : "7.8",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5058975461, 35.4296055274 ]
+			},
+			"properties" : {
+				"名称" : "泉警察署弥生台駅前交番",
+				"高さ" : "6.4",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.52211003, 35.4392990563 ]
+			},
+			"properties" : {
+				"名称" : "泉警察署緑園都市駅前交番",
+				"高さ" : "6.3",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5092041549, 35.416948116 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局泉消防署中田消防出張所",
+				"高さ" : "7.9",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5240495377, 35.4264347856 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局泉消防署岡津消防出張所",
+				"高さ" : "8.2",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5260411299, 35.4395434961 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局泉消防署緑園消防出張所",
+				"高さ" : "14.3",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5243969182, 35.4282784454 ]
+			},
+			"properties" : {
+				"名称" : "市立岡津小学校",
+				"高さ" : "14.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5066524172, 35.4343901674 ]
+			},
+			"properties" : {
+				"名称" : "市立新橋小学校",
+				"高さ" : "14.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5263432604, 35.4434480461 ]
+			},
+			"properties" : {
+				"名称" : "市立緑園東小学校",
+				"高さ" : "11.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5177877396, 35.4409480573 ]
+			},
+			"properties" : {
+				"名称" : "市立緑園西小学校",
+				"高さ" : "14.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5237350982, 35.4292709158 ]
+			},
+			"properties" : {
+				"名称" : "市立岡津中学校",
+				"高さ" : "16.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5118405457, 35.417541296 ]
+			},
+			"properties" : {
+				"名称" : "市立東中田小学校",
+				"高さ" : "11",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5155653764, 35.4188092256 ]
+			},
+			"properties" : {
+				"名称" : "市立西が岡小学校",
+				"高さ" : "14.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5252634302, 35.4389020358 ]
+			},
+			"properties" : {
+				"名称" : "フェリス女学院大学(緑園キャンパス)",
+				"高さ" : "14.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5241765786, 35.432448076 ]
+			},
+			"properties" : {
+				"名称" : "県立横浜緑園高等学校",
+				"高さ" : "11.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5111607391, 35.4418253575 ]
+			},
+			"properties" : {
+				"名称" : "湘南泉病院",
+				"高さ" : "17.8",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5100629261, 35.4256348067 ]
+			},
+			"properties" : {
+				"名称" : "国際親善総合病院",
+				"高さ" : "9.9",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5008959452, 35.4222991868 ]
+			},
+			"properties" : {
+				"名称" : "戸塚共立リハビリテーション病院",
+				"高さ" : "12.3",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5007885849, 35.4215634173 ]
+			},
+			"properties" : {
+				"名称" : "横浜泉郵便局",
+				"高さ" : "12.7",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.506993136, 35.4274994165 ]
+			},
+			"properties" : {
+				"名称" : "弥生台駅前郵便局",
+				"高さ" : "12.4",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5131429778, 35.4332268172 ]
+			},
+			"properties" : {
+				"名称" : "横浜新橋郵便局",
+				"高さ" : "0",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5234008801, 35.4393305162 ]
+			},
+			"properties" : {
+				"名称" : "緑園都市駅前郵便局",
+				"高さ" : "14",
+				"種類" : "郵便局"
+			}
+		}
+	]
+}

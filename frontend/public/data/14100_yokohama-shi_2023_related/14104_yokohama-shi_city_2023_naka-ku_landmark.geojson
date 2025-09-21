@@ -1,0 +1,1194 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "14104_yokohama-shi_naka-ku_landmark",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6227139221, 35.4425626764 ]
+			},
+			"properties" : {
+				"名称" : "横浜赤門郵便局",
+				"高さ" : "7.9",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6422877353, 35.4491281549 ]
+			},
+			"properties" : {
+				"名称" : "横浜税関",
+				"高さ" : "53",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6454965248, 35.448542275 ]
+			},
+			"properties" : {
+				"名称" : "横浜税関監視分庁舎",
+				"高さ" : "8.1",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6413304027, 35.4330989245 ]
+			},
+			"properties" : {
+				"名称" : "植物防疫所研修センター",
+				"高さ" : "7.8",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6528940948, 35.4398304636 ]
+			},
+			"properties" : {
+				"名称" : "東京管区気象台横浜地方気象台",
+				"高さ" : "10.6",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6401842637, 35.4410245551 ]
+			},
+			"properties" : {
+				"名称" : "横浜家庭裁判所",
+				"高さ" : "19.2",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6568258956, 35.4421571732 ]
+			},
+			"properties" : {
+				"名称" : "横浜植物防疫所調査研究部",
+				"高さ" : "8.9",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6417158146, 35.446539905 ]
+			},
+			"properties" : {
+				"名称" : "横浜簡易裁判所",
+				"高さ" : "67.4",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6385777943, 35.4447243952 ]
+			},
+			"properties" : {
+				"名称" : "関東信越厚生局神奈川事務所",
+				"高さ" : "38.7",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6422710142, 35.4427017645 ]
+			},
+			"properties" : {
+				"名称" : "神奈川労働局横浜公共職業安定所",
+				"高さ" : "45.9",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.671417326, 35.4332853708 ]
+			},
+			"properties" : {
+				"名称" : "横浜税関本牧埠頭出張所",
+				"高さ" : "12.3",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6378110025, 35.4382272948 ]
+			},
+			"properties" : {
+				"名称" : "神奈川労働局横浜公共職業安定所横浜港労働出張所(寿町庁舎)",
+				"高さ" : "8.2",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.634223574, 35.4503411461 ]
+			},
+			"properties" : {
+				"名称" : "横浜市役所",
+				"高さ" : "156.3",
+				"種類" : "地方の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6425102247, 35.4477813148 ]
+			},
+			"properties" : {
+				"名称" : "神奈川県庁舎",
+				"高さ" : "49.4",
+				"種類" : "ランドマーク"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6422324039, 35.4447257645 ]
+			},
+			"properties" : {
+				"名称" : "横浜市中区役所",
+				"高さ" : "33.6",
+				"種類" : "地方の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6411213353, 35.4499479752 ]
+			},
+			"properties" : {
+				"名称" : "神奈川県警察本部",
+				"高さ" : "93",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6312754119, 35.4398888452 ]
+			},
+			"properties" : {
+				"名称" : "伊勢佐木警察署",
+				"高さ" : "22.3",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6453295053, 35.448304755 ]
+			},
+			"properties" : {
+				"名称" : "横浜水上警察署",
+				"高さ" : "25.3",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.643676894, 35.4435591044 ]
+			},
+			"properties" : {
+				"名称" : "加賀町警察署",
+				"高さ" : "25",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6642493142, 35.4295410313 ]
+			},
+			"properties" : {
+				"名称" : "山手警察署",
+				"高さ" : "18.9",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6283539318, 35.4413189763 ]
+			},
+			"properties" : {
+				"名称" : "伊勢佐木警察署伊勢佐木町交番",
+				"高さ" : "6.6",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6272740316, 35.4386787556 ]
+			},
+			"properties" : {
+				"名称" : "伊勢佐木警察署横浜橋交番",
+				"高さ" : "16.5",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6251298115, 35.4410323366 ]
+			},
+			"properties" : {
+				"名称" : "伊勢佐木警察署黄金町交番",
+				"高さ" : "7.9",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6336133833, 35.4456845156 ]
+			},
+			"properties" : {
+				"名称" : "伊勢佐木警察署吉田橋交番",
+				"高さ" : "6.4",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6313860039, 35.4494138166 ]
+			},
+			"properties" : {
+				"名称" : "伊勢佐木警察署桜木町駅前交番",
+				"高さ" : "3.2",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6381551325, 35.4375441445 ]
+			},
+			"properties" : {
+				"名称" : "伊勢佐木警察署寿町交番",
+				"高さ" : "6.1",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6308681837, 35.4469165161 ]
+			},
+			"properties" : {
+				"名称" : "伊勢佐木警察署都橋交番",
+				"高さ" : "6.7",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6541169955, 35.4442730635 ]
+			},
+			"properties" : {
+				"名称" : "横浜水上警察署山下ふ頭交番",
+				"高さ" : "6.7",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6383171648, 35.4535128857 ]
+			},
+			"properties" : {
+				"名称" : "横浜水上警察署新港町交番",
+				"高さ" : "6.7",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6508866452, 35.4417415539 ]
+			},
+			"properties" : {
+				"名称" : "加賀町警察署元町交番",
+				"高さ" : "9.9",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6472282048, 35.4437162048 ]
+			},
+			"properties" : {
+				"名称" : "加賀町警察署山下町交番",
+				"高さ" : "6.6",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6373288337, 35.4448007559 ]
+			},
+			"properties" : {
+				"名称" : "加賀町警察署尾上町交番",
+				"高さ" : "7.1",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6418921251, 35.4474723051 ]
+			},
+			"properties" : {
+				"名称" : "加賀町警察署本町交番",
+				"高さ" : "3.8",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.657900694, 35.4339892527 ]
+			},
+			"properties" : {
+				"名称" : "山手警察署見晴通交番",
+				"高さ" : "6.5",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6537120346, 35.4399396637 ]
+			},
+			"properties" : {
+				"名称" : "山手警察署港の見える丘公園前交番",
+				"高さ" : "6.7",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6424620302, 35.4185050732 ]
+			},
+			"properties" : {
+				"名称" : "山手警察署根岸交番",
+				"高さ" : "6.5",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6377653617, 35.4307233745 ]
+			},
+			"properties" : {
+				"名称" : "山手警察署山元町交番",
+				"高さ" : "7.2",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6459709824, 35.4271807433 ]
+			},
+			"properties" : {
+				"名称" : "山手警察署山手駅前交番",
+				"高さ" : "8.5",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6465826133, 35.4340476738 ]
+			},
+			"properties" : {
+				"名称" : "山手警察署麦田町交番",
+				"高さ" : "6.6",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6687462653, 35.4323080813 ]
+			},
+			"properties" : {
+				"名称" : "山手警察署本牧ふ頭交番",
+				"高さ" : "5.9",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6655028432, 35.422440991 ]
+			},
+			"properties" : {
+				"名称" : "山手警察署本牧三之谷交番",
+				"高さ" : "6.4",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6554544127, 35.4210591422 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局中消防署本牧和田消防出張所",
+				"高さ" : "19.4",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6413231116, 35.4244711132 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局中消防署山元町消防出張所",
+				"高さ" : "7.9",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6669418146, 35.4299428616 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局中消防署北方消防出張所",
+				"高さ" : "5.6",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6310304222, 35.4397143858 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局中消防署",
+				"高さ" : "18.1",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6446213148, 35.4454202046 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局中消防署山下町消防出張所",
+				"高さ" : "32.6",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.638004661, 35.4276870544 ]
+			},
+			"properties" : {
+				"名称" : "市立山元小学校",
+				"高さ" : "11.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.656516273, 35.4273308526 ]
+			},
+			"properties" : {
+				"名称" : "市立大鳥小学校",
+				"高さ" : "15.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6537951746, 35.436522353 ]
+			},
+			"properties" : {
+				"名称" : "市立北方小学校",
+				"高さ" : "14.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.662287864, 35.4246702418 ]
+			},
+			"properties" : {
+				"名称" : "市立本牧小学校",
+				"高さ" : "12.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6516618338, 35.434708523 ]
+			},
+			"properties" : {
+				"名称" : "私立横浜雙葉小学校",
+				"高さ" : "10.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.632786163, 35.4428087255 ]
+			},
+			"properties" : {
+				"名称" : "市立横浜吉田中学校",
+				"高さ" : "22.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6431768742, 35.441336875 ]
+			},
+			"properties" : {
+				"名称" : "市立港中学校",
+				"高さ" : "16.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6692322541, 35.423698001 ]
+			},
+			"properties" : {
+				"名称" : "市立大鳥中学校",
+				"高さ" : "16.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6451063415, 35.4257444729 ]
+			},
+			"properties" : {
+				"名称" : "市立仲尾台中学校",
+				"高さ" : "15.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6525149491, 35.4244566861 ]
+			},
+			"properties" : {
+				"名称" : "県立横浜緑ケ丘高等学校",
+				"高さ" : "12",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6579207447, 35.4358321328 ]
+			},
+			"properties" : {
+				"名称" : "私立聖坂養護学校",
+				"高さ" : "10.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6554183818, 35.4183196919 ]
+			},
+			"properties" : {
+				"名称" : "市立間門小学校",
+				"高さ" : "11",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6539731316, 35.4182579419 ]
+			},
+			"properties" : {
+				"名称" : "県立横浜立野高等学校",
+				"高さ" : "13",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6565732326, 35.4221495117 ]
+			},
+			"properties" : {
+				"名称" : "市立本牧中学校",
+				"高さ" : "12.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6426991012, 35.4226430233 ]
+			},
+			"properties" : {
+				"名称" : "私立聖光学院高等学校",
+				"高さ" : "15",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6402368129, 35.4350972741 ]
+			},
+			"properties" : {
+				"名称" : "私立横浜共立学園中学校",
+				"高さ" : "23.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6489883039, 35.4360576333 ]
+			},
+			"properties" : {
+				"名称" : "市立元街小学校",
+				"高さ" : "14.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6424210839, 35.4419128549 ]
+			},
+			"properties" : {
+				"名称" : "市立みなと総合高等学校",
+				"高さ" : "30.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6287796039, 35.4505175666 ]
+			},
+			"properties" : {
+				"名称" : "市立本町小学校",
+				"高さ" : "12",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6450667517, 35.4271067634 ]
+			},
+			"properties" : {
+				"名称" : "市立立野小学校",
+				"高さ" : "15.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.642362762, 35.4299946542 ]
+			},
+			"properties" : {
+				"名称" : "私立横浜訓盲学院",
+				"高さ" : "3.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6481885341, 35.4364346238 ]
+			},
+			"properties" : {
+				"名称" : "フェリス女学院大学山手キャンパス",
+				"高さ" : "8.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6482600721, 35.4276702333 ]
+			},
+			"properties" : {
+				"名称" : "国立横浜国立大学教育学部附属横浜小学校",
+				"高さ" : "13.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6372457244, 35.4493355562 ]
+			},
+			"properties" : {
+				"名称" : "東京藝術大学横浜キャンパス",
+				"高さ" : "18.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6654692336, 35.4212521411 ]
+			},
+			"properties" : {
+				"名称" : "本牧病院",
+				"高さ" : "10.7",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6440433638, 35.4410299345 ]
+			},
+			"properties" : {
+				"名称" : "横浜中央病院",
+				"高さ" : "15.2",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6355212632, 35.4422669951 ]
+			},
+			"properties" : {
+				"名称" : "ふれあい横浜ホスピタル",
+				"高さ" : "72.4",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.634557022, 35.4381466349 ]
+			},
+			"properties" : {
+				"名称" : "横浜?済会病院",
+				"高さ" : "19.9",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6432602251, 35.4469202048 ]
+			},
+			"properties" : {
+				"名称" : "横浜港郵便局",
+				"高さ" : "40.4",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6288841225, 35.4401913262 ]
+			},
+			"properties" : {
+				"名称" : "横浜中郵便局",
+				"高さ" : "8.3",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6323848136, 35.4499197563 ]
+			},
+			"properties" : {
+				"名称" : "横浜桜木郵便局",
+				"高さ" : "34.7",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6583777223, 35.4214373311 ]
+			},
+			"properties" : {
+				"名称" : "横浜間門郵便局",
+				"高さ" : "19",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6668422441, 35.4221173105 ]
+			},
+			"properties" : {
+				"名称" : "横浜本牧元町郵便局",
+				"高さ" : "9.5",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6664709839, 35.4261776716 ]
+			},
+			"properties" : {
+				"名称" : "横浜本牧原郵便局",
+				"高さ" : "22.9",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6473264824, 35.4290948334 ]
+			},
+			"properties" : {
+				"名称" : "横浜大和郵便局",
+				"高さ" : "7.6",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6381592721, 35.4313453843 ]
+			},
+			"properties" : {
+				"名称" : "横浜山元町郵便局",
+				"高さ" : "9.5",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6595201246, 35.4312276321 ]
+			},
+			"properties" : {
+				"名称" : "横浜本牧郵便局",
+				"高さ" : "9.5",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6521022333, 35.4325251928 ]
+			},
+			"properties" : {
+				"名称" : "横浜北方郵便局",
+				"高さ" : "13.4",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6438855531, 35.4380978143 ]
+			},
+			"properties" : {
+				"名称" : "石川町駅前郵便局",
+				"高さ" : "9.8",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6342736424, 35.4404964458 ]
+			},
+			"properties" : {
+				"名称" : "横浜長者町郵便局",
+				"高さ" : "26.9",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6478819947, 35.441848524 ]
+			},
+			"properties" : {
+				"名称" : "横浜中華街郵便局",
+				"高さ" : "30.9",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6390121939, 35.4452251656 ]
+			},
+			"properties" : {
+				"名称" : "横浜住吉町郵便局",
+				"高さ" : "29",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6281734627, 35.4456826563 ]
+			},
+			"properties" : {
+				"名称" : "横浜日之出町郵便局",
+				"高さ" : "28.2",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6396720043, 35.446657925 ]
+			},
+			"properties" : {
+				"名称" : "横浜太田町郵便局",
+				"高さ" : "23.7",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6386267243, 35.4485038252 ]
+			},
+			"properties" : {
+				"名称" : "横浜本町郵便局",
+				"高さ" : "37.4",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6425994944, 35.4436079547 ]
+			},
+			"properties" : {
+				"名称" : "東日本電信電話株式会社(神奈川支店)",
+				"高さ" : "26.5",
+				"種類" : "指定公共機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6410601044, 35.4458721152 ]
+			},
+			"properties" : {
+				"名称" : "日本銀行(横浜支店)",
+				"高さ" : "7.4",
+				"種類" : "指定公共機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6462072145, 35.4453841246 ]
+			},
+			"properties" : {
+				"名称" : "NHK横浜放送局",
+				"高さ" : "49.7",
+				"種類" : "指定公共機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6339868638, 35.4466914155 ]
+			},
+			"properties" : {
+				"名称" : "日本通運株式会社(横浜支店)",
+				"高さ" : "37.4",
+				"種類" : "指定公共機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6450966248, 35.4471545347 ]
+			},
+			"properties" : {
+				"名称" : "シルク博物館",
+				"高さ" : "42.7",
+				"種類" : "博物館・美術館"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.639594231, 35.4229154732 ]
+			},
+			"properties" : {
+				"名称" : "馬の博物館",
+				"高さ" : "6.2",
+				"種類" : "博物館・美術館"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6362333142, 35.4491004762 ]
+			},
+			"properties" : {
+				"名称" : "神奈川県立歴史博物館",
+				"高さ" : "27.4",
+				"種類" : "博物館・美術館"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6685303627, 35.41643016 ]
+			},
+			"properties" : {
+				"名称" : "市立本牧南小学校",
+				"高さ" : "15",
+				"種類" : "学校"
+			}
+		}
+	]
+}

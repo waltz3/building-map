@@ -1,0 +1,594 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "14115_yokohama-shi_sakae-ku_landmark",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5479260318, 35.3656982487 ]
+			},
+			"properties" : {
+				"名称" : "横浜地方法務局栄出張所",
+				"高さ" : "11.8",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5541002127, 35.3643885572 ]
+			},
+			"properties" : {
+				"名称" : "横浜市栄区役所",
+				"高さ" : "15.2",
+				"種類" : "地方の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.553759302, 35.3631149174 ]
+			},
+			"properties" : {
+				"名称" : "栄警察署",
+				"高さ" : "15.4",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5411038201, 35.3615158682 ]
+			},
+			"properties" : {
+				"名称" : "栄警察署笠間交番",
+				"高さ" : "6.5",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5690735251, 35.3683266863 ]
+			},
+			"properties" : {
+				"名称" : "栄警察署元大橋交番",
+				"高さ" : "6.6",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5841249342, 35.351649714 ]
+			},
+			"properties" : {
+				"名称" : "栄警察署庄戸交番",
+				"高さ" : "3.8",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5726985024, 35.3528919749 ]
+			},
+			"properties" : {
+				"名称" : "栄警察署上郷交番",
+				"高さ" : "3.5",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5196818188, 35.3658004108 ]
+			},
+			"properties" : {
+				"名称" : "栄警察署田谷交番",
+				"高さ" : "6.9",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5394215924, 35.3753377001 ]
+			},
+			"properties" : {
+				"名称" : "栄警察署豊田交番",
+				"高さ" : "6.4",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5508118426, 35.3674647679 ]
+			},
+			"properties" : {
+				"名称" : "栄警察署本郷台駅前交番",
+				"高さ" : "6",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5488057215, 35.3642221678 ]
+			},
+			"properties" : {
+				"名称" : "神奈川県警察学校",
+				"高さ" : "18.6",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5817628532, 35.3475077837 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局栄消防署上郷消防出張所",
+				"高さ" : "8.5",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5522486117, 35.3638340659 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局栄消防署",
+				"高さ" : "15.6",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5400337419, 35.3736677794 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局栄消防署豊田消防出張所",
+				"高さ" : "7.4",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5321568751, 35.361991883 ]
+			},
+			"properties" : {
+				"名称" : "市立笠間小学校",
+				"高さ" : "11.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5634814117, 35.352420516 ]
+			},
+			"properties" : {
+				"名称" : "市立桂台小学校",
+				"高さ" : "14.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5538703409, 35.3544482869 ]
+			},
+			"properties" : {
+				"名称" : "市立公田小学校",
+				"高さ" : "15.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5723981946, 35.366114886 ]
+			},
+			"properties" : {
+				"名称" : "市立桜井小学校",
+				"高さ" : "15.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5482594239, 35.3770315491 ]
+			},
+			"properties" : {
+				"名称" : "市立小菅ヶ谷小学校",
+				"高さ" : "14.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5199142503, 35.3716077735 ]
+			},
+			"properties" : {
+				"名称" : "市立千秀小学校",
+				"高さ" : "14.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5352743617, 35.3732459097 ]
+			},
+			"properties" : {
+				"名称" : "市立飯島小学校",
+				"高さ" : "15",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5359816728, 35.3825870911 ]
+			},
+			"properties" : {
+				"名称" : "市立豊田小学校",
+				"高さ" : "11.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5614536927, 35.3631704768 ]
+			},
+			"properties" : {
+				"名称" : "市立本郷小学校",
+				"高さ" : "14.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5493704726, 35.3713371187 ]
+			},
+			"properties" : {
+				"名称" : "市立本郷台小学校",
+				"高さ" : "14.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5645925218, 35.3540593956 ]
+			},
+			"properties" : {
+				"名称" : "市立桂台中学校",
+				"高さ" : "8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5317594005, 35.3723926908 ]
+			},
+			"properties" : {
+				"名称" : "市立飯島中学校",
+				"高さ" : "11.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5505926217, 35.3648649176 ]
+			},
+			"properties" : {
+				"名称" : "市立本郷中学校",
+				"高さ" : "14.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.523682415, 35.3744399138 ]
+			},
+			"properties" : {
+				"名称" : "県立金井高等学校",
+				"高さ" : "18.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5804516756, 35.3650825354 ]
+			},
+			"properties" : {
+				"名称" : "県立横浜栄高等学校",
+				"高さ" : "13.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5757592952, 35.3668648753 ]
+			},
+			"properties" : {
+				"名称" : "私立山手学院高等学校",
+				"高さ" : "15.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5725106338, 35.3575334752 ]
+			},
+			"properties" : {
+				"名称" : "市立上郷中学校",
+				"高さ" : "15.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.584370274, 35.3530871437 ]
+			},
+			"properties" : {
+				"名称" : "市立庄戸小学校",
+				"高さ" : "11",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5420926407, 35.3657538085 ]
+			},
+			"properties" : {
+				"名称" : "市立西本郷小学校",
+				"高さ" : "11.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5535649229, 35.3658926878 ]
+			},
+			"properties" : {
+				"名称" : "県立柏陽高等学校",
+				"高さ" : "14.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5578427351, 35.3801426388 ]
+			},
+			"properties" : {
+				"名称" : "市立小山台小学校",
+				"高さ" : "11",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5587972353, 35.3807505382 ]
+			},
+			"properties" : {
+				"名称" : "市立小山台中学校",
+				"高さ" : "15.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5430093312, 35.3637815986 ]
+			},
+			"properties" : {
+				"名称" : "市立西本郷中学校",
+				"高さ" : "11.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.557584354, 35.370448218 ]
+			},
+			"properties" : {
+				"名称" : "市立本郷特別支援学校",
+				"高さ" : "8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5719995337, 35.3574429351 ]
+			},
+			"properties" : {
+				"名称" : "市立上郷小学校",
+				"高さ" : "15",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5508955114, 35.3636073011 ]
+			},
+			"properties" : {
+				"名称" : "横浜栄共済病院",
+				"高さ" : "19.8",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5675964023, 35.3526898455 ]
+			},
+			"properties" : {
+				"名称" : "横浜桂台郵便局",
+				"高さ" : "7.5",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5755255029, 35.3542549746 ]
+			},
+			"properties" : {
+				"名称" : "横浜上郷郵便局",
+				"高さ" : "4.4",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5809698044, 35.3565976344 ]
+			},
+			"properties" : {
+				"名称" : "横浜庄戸郵便局",
+				"高さ" : "7.9",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5348882995, 35.359039339 ]
+			},
+			"properties" : {
+				"名称" : "横浜笠間郵便局",
+				"高さ" : "9.6",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5500535018, 35.3612455779 ]
+			},
+			"properties" : {
+				"名称" : "横浜桂町南郵便局",
+				"高さ" : "7.2",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5575594131, 35.3647369569 ]
+			},
+			"properties" : {
+				"名称" : "横浜桂郵便局",
+				"高さ" : "9.8",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5495284324, 35.3664667885 ]
+			},
+			"properties" : {
+				"名称" : "本郷台駅前郵便局",
+				"高さ" : "4.5",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5677782141, 35.3670947465 ]
+			},
+			"properties" : {
+				"名称" : "横浜元大橋郵便局",
+				"高さ" : "6.7",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5365613016, 35.3732427799 ]
+			},
+			"properties" : {
+				"名称" : "横浜飯島郵便局",
+				"高さ" : "4",
+				"種類" : "郵便局"
+			}
+		}
+	]
+}

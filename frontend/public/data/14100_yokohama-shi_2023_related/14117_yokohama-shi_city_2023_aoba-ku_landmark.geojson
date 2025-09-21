@@ -1,0 +1,1194 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "14117_yokohama-shi_aoba-ku_landmark",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5567887552, 35.5843645239 ]
+			},
+			"properties" : {
+				"名称" : "市立美しが丘小学校",
+				"高さ" : "14.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5515665746, 35.5880311848 ]
+			},
+			"properties" : {
+				"名称" : "市立美しが丘中学校",
+				"高さ" : "15",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5344592733, 35.5902030062 ]
+			},
+			"properties" : {
+				"名称" : "市立美しが丘西小学校",
+				"高さ" : "11.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5371318533, 35.5874985159 ]
+			},
+			"properties" : {
+				"名称" : "横浜美しが丘西郵便局",
+				"高さ" : "7.4",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4862169628, 35.5581685988 ]
+			},
+			"properties" : {
+				"名称" : "青葉警察署こどもの国駅前交番",
+				"高さ" : "6.5",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4867800727, 35.5536104889 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局青葉消防署奈良消防出張所",
+				"高さ" : "7.6",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4995726037, 35.5522425567 ]
+			},
+			"properties" : {
+				"名称" : "市立恩田小学校",
+				"高さ" : "12.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4947761542, 35.5569757578 ]
+			},
+			"properties" : {
+				"名称" : "市立奈良中学校",
+				"高さ" : "14.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4980939832, 35.5527811977 ]
+			},
+			"properties" : {
+				"名称" : "県立田奈高等学校",
+				"高さ" : "17",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4974291546, 35.557237078 ]
+			},
+			"properties" : {
+				"名称" : "横浜美術大学",
+				"高さ" : "16",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4989819849, 35.560507058 ]
+			},
+			"properties" : {
+				"名称" : "日本体育大学横浜・健志台キャンパス",
+				"高さ" : "16.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.480899733, 35.5628033799 ]
+			},
+			"properties" : {
+				"名称" : "市立奈良小学校",
+				"高さ" : "14.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4867386622, 35.5515791586 ]
+			},
+			"properties" : {
+				"名称" : "市立奈良の丘小学校",
+				"高さ" : "11.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4852141506, 35.5416406376 ]
+			},
+			"properties" : {
+				"名称" : "市立あかね台中学校",
+				"高さ" : "8.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4802655234, 35.56572162 ]
+			},
+			"properties" : {
+				"名称" : "緑協和病院",
+				"高さ" : "11.2",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.476041503, 35.5627452302 ]
+			},
+			"properties" : {
+				"名称" : "横浜奈良郵便局",
+				"高さ" : "29.4",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5473917496, 35.5527294728 ]
+			},
+			"properties" : {
+				"名称" : "横浜地方法務局青葉出張所",
+				"高さ" : "11.4",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5404767079, 35.5473229828 ]
+			},
+			"properties" : {
+				"名称" : "東京国税局緑税務署",
+				"高さ" : "11.6",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5369907382, 35.5528241536 ]
+			},
+			"properties" : {
+				"名称" : "横浜市青葉区役所",
+				"高さ" : "18.5",
+				"種類" : "地方の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5372329281, 35.5515034433 ]
+			},
+			"properties" : {
+				"名称" : "青葉警察署",
+				"高さ" : "17.2",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5270967709, 35.5771622364 ]
+			},
+			"properties" : {
+				"名称" : "青葉警察署すすき野交番",
+				"高さ" : "6",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5515225708, 35.5581103324 ]
+			},
+			"properties" : {
+				"名称" : "青葉警察署荏田町交番",
+				"高さ" : "6.2",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5073988659, 35.5598592971 ]
+			},
+			"properties" : {
+				"名称" : "青葉警察署鴨志田交番",
+				"高さ" : "6.1",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5417396383, 35.551302733 ]
+			},
+			"properties" : {
+				"名称" : "青葉警察署市が尾駅前交番",
+				"高さ" : "17.7",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5167050445, 35.5431145551 ]
+			},
+			"properties" : {
+				"名称" : "青葉警察署青葉台駅前交番",
+				"高さ" : "10",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5237596378, 35.5620728653 ]
+			},
+			"properties" : {
+				"名称" : "青葉警察署鉄町交番",
+				"高さ" : "4.4",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5048737619, 35.5364542657 ]
+			},
+			"properties" : {
+				"名称" : "青葉警察署田奈駅前交番",
+				"高さ" : "7.8",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5276663561, 35.5436085238 ]
+			},
+			"properties" : {
+				"名称" : "青葉警察署藤が丘駅前交番",
+				"高さ" : "6.4",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.504127925, 35.5593698674 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局青葉消防署鴨志田消防出張所",
+				"高さ" : "8.3",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5553440705, 35.5529478913 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局青葉消防署荏田消防出張所",
+				"高さ" : "9.2",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.535350238, 35.5538136338 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局青葉消防署",
+				"高さ" : "14",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5316719603, 35.5737823352 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局青葉消防署すすき野消防出張所",
+				"高さ" : "8",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5480059231, 35.5795926847 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局青葉消防署元石川消防出張所",
+				"高さ" : "7.3",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5180340347, 35.5415500043 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局青葉消防署青葉台消防出張所",
+				"高さ" : "15.6",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5365623256, 35.5359119021 ]
+			},
+			"properties" : {
+				"名称" : "市立緑が丘中学校",
+				"高さ" : "8.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5424188516, 35.5718632141 ]
+			},
+			"properties" : {
+				"名称" : "市立あざみ野第一小学校",
+				"高さ" : "14.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5419480103, 35.5638020738 ]
+			},
+			"properties" : {
+				"名称" : "市立あざみ野第二小学校",
+				"高さ" : "11.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5186216828, 35.5323090136 ]
+			},
+			"properties" : {
+				"名称" : "市立さつきが丘小学校",
+				"高さ" : "11.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5305386911, 35.5792811964 ]
+			},
+			"properties" : {
+				"名称" : "市立すすき野小学校",
+				"高さ" : "14.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5202050038, 35.5359756738 ]
+			},
+			"properties" : {
+				"名称" : "市立つつじが丘小学校",
+				"高さ" : "15.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5171774262, 35.5564200959 ]
+			},
+			"properties" : {
+				"名称" : "市立みたけ台小学校",
+				"高さ" : "4.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5233345855, 35.548266144 ]
+			},
+			"properties" : {
+				"名称" : "市立もえぎ野小学校",
+				"高さ" : "11.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5350664709, 35.5751700852 ]
+			},
+			"properties" : {
+				"名称" : "市立荏子田小学校",
+				"高さ" : "11.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5493344888, 35.5475100121 ]
+			},
+			"properties" : {
+				"名称" : "市立荏田西小学校",
+				"高さ" : "14.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5098995337, 35.5419201049 ]
+			},
+			"properties" : {
+				"名称" : "市立榎が丘小学校",
+				"高さ" : "14.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.509649626, 35.557086756 ]
+			},
+			"properties" : {
+				"名称" : "市立鴨志田第一小学校",
+				"高さ" : "15.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5052885558, 35.5638645272 ]
+			},
+			"properties" : {
+				"名称" : "市立鴨志田緑小学校",
+				"高さ" : "11.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5052328638, 35.5483645361 ]
+			},
+			"properties" : {
+				"名称" : "市立桂小学校",
+				"高さ" : "15",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5568719627, 35.568975653 ]
+			},
+			"properties" : {
+				"名称" : "市立山内小学校",
+				"高さ" : "7.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5621776246, 35.5766700924 ]
+			},
+			"properties" : {
+				"名称" : "市立新石川小学校",
+				"高さ" : "11.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5097606851, 35.551142316 ]
+			},
+			"properties" : {
+				"名称" : "市立青葉台小学校",
+				"高さ" : "14.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5352050769, 35.5431978926 ]
+			},
+			"properties" : {
+				"名称" : "市立谷本小学校",
+				"高さ" : "15.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5201218681, 35.562503426 ]
+			},
+			"properties" : {
+				"名称" : "市立鉄小学校",
+				"高さ" : "15.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5002328022, 35.5393089862 ]
+			},
+			"properties" : {
+				"名称" : "市立田奈小学校",
+				"高さ" : "14.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.526232505, 35.5391659536 ]
+			},
+			"properties" : {
+				"名称" : "市立藤が丘小学校",
+				"高さ" : "15.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5605109549, 35.5823923137 ]
+			},
+			"properties" : {
+				"名称" : "市立美しが丘東小学校",
+				"高さ" : "15",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5294830708, 35.5758923061 ]
+			},
+			"properties" : {
+				"名称" : "市立嶮山小学校",
+				"高さ" : "11.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5467541786, 35.5458733019 ]
+			},
+			"properties" : {
+				"名称" : "市立市ケ尾中学校",
+				"高さ" : "7.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5470386722, 35.5717812035 ]
+			},
+			"properties" : {
+				"名称" : "市立あざみ野中学校",
+				"高さ" : "11.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5308441808, 35.5779200858 ]
+			},
+			"properties" : {
+				"名称" : "市立すすき野中学校",
+				"高さ" : "14.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5214551366, 35.5570867657 ]
+			},
+			"properties" : {
+				"名称" : "市立みたけ台中学校",
+				"高さ" : "11.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5238995754, 35.5460867744 ]
+			},
+			"properties" : {
+				"名称" : "市立もえぎ野中学校",
+				"高さ" : "11.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5047329666, 35.5661700879 ]
+			},
+			"properties" : {
+				"名称" : "市立鴨志田中学校",
+				"高さ" : "7.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5152050747, 35.5475589953 ]
+			},
+			"properties" : {
+				"名称" : "市立青葉台中学校",
+				"高さ" : "14.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5225708346, 35.5371448741 ]
+			},
+			"properties" : {
+				"名称" : "市立谷本中学校",
+				"高さ" : "15.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5404552923, 35.5777811953 ]
+			},
+			"properties" : {
+				"名称" : "県立元石川高等学校",
+				"高さ" : "11.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5466495879, 35.5431701222 ]
+			},
+			"properties" : {
+				"名称" : "市立東市ケ尾小学校",
+				"高さ" : "15",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5401079592, 35.5560566335 ]
+			},
+			"properties" : {
+				"名称" : "市立市ケ尾小学校",
+				"高さ" : "12.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.530455148, 35.5567256546 ]
+			},
+			"properties" : {
+				"名称" : "県立市ケ尾高等学校",
+				"高さ" : "18.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5182900178, 35.5665723768 ]
+			},
+			"properties" : {
+				"名称" : "桐蔭横浜大学",
+				"高さ" : "12.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5519739038, 35.5767598134 ]
+			},
+			"properties" : {
+				"名称" : "市立山内中学校",
+				"高さ" : "14.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5484103335, 35.583227885 ]
+			},
+			"properties" : {
+				"名称" : "市立元石川小学校",
+				"高さ" : "15.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5236369992, 35.5693906062 ]
+			},
+			"properties" : {
+				"名称" : "私立桐蔭学園小学部",
+				"高さ" : "12.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5216839085, 35.5667471264 ]
+			},
+			"properties" : {
+				"名称" : "私立桐蔭学園高等学校",
+				"高さ" : "41",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5608949741, 35.5741576824 ]
+			},
+			"properties" : {
+				"名称" : "國學院大學横浜たまプラーザキャンパス",
+				"高さ" : "20",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5329643304, 35.5681240954 ]
+			},
+			"properties" : {
+				"名称" : "市立黒須田小学校",
+				"高さ" : "11.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5470869705, 35.5609432731 ]
+			},
+			"properties" : {
+				"名称" : "私立慶應義塾横浜初等部",
+				"高さ" : "10.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5136607857, 35.553924856 ]
+			},
+			"properties" : {
+				"名称" : "たちばな台病院",
+				"高さ" : "14.1",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5267230296, 35.570136956 ]
+			},
+			"properties" : {
+				"名称" : "横浜総合病院",
+				"高さ" : "14.4",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5586676119, 35.5601699422 ]
+			},
+			"properties" : {
+				"名称" : "横浜新都市脳神経外科病院",
+				"高さ" : "19.6",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5295072759, 35.5447179238 ]
+			},
+			"properties" : {
+				"名称" : "昭和大学藤が丘病院",
+				"高さ" : "42.3",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5473418597, 35.5531950321 ]
+			},
+			"properties" : {
+				"名称" : "青葉郵便局",
+				"高さ" : "18.5",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5043904457, 35.5627444873 ]
+			},
+			"properties" : {
+				"名称" : "横浜鴨志田郵便局",
+				"高さ" : "7.8",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5171376029, 35.5355379344 ]
+			},
+			"properties" : {
+				"名称" : "横浜しらとり台郵便局",
+				"高さ" : "7.2",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5254994452, 35.5403882134 ]
+			},
+			"properties" : {
+				"名称" : "横浜藤が丘郵便局",
+				"高さ" : "7.4",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5145860336, 35.5423023946 ]
+			},
+			"properties" : {
+				"名称" : "青葉台駅前郵便局",
+				"高さ" : "7.1",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.517289355, 35.5446759851 ]
+			},
+			"properties" : {
+				"名称" : "青葉台郵便局",
+				"高さ" : "12.5",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.512531754, 35.5458764655 ]
+			},
+			"properties" : {
+				"名称" : "横浜青葉台二郵便局",
+				"高さ" : "7.6",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5253270062, 35.5503465745 ]
+			},
+			"properties" : {
+				"名称" : "横浜柿の木台郵便局",
+				"高さ" : "7",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5432327388, 35.5516187726 ]
+			},
+			"properties" : {
+				"名称" : "市ヶ尾駅前郵便局",
+				"高さ" : "6.8",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5138231949, 35.5518579655 ]
+			},
+			"properties" : {
+				"名称" : "横浜桜台郵便局",
+				"高さ" : "7.3",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.537411259, 35.5559585834 ]
+			},
+			"properties" : {
+				"名称" : "横浜市ヶ尾郵便局",
+				"高さ" : "11.9",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5601825219, 35.5604318318 ]
+			},
+			"properties" : {
+				"名称" : "横浜山内郵便局",
+				"高さ" : "9.4",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.550289911, 35.5620823533 ]
+			},
+			"properties" : {
+				"名称" : "江田駅北口郵便局",
+				"高さ" : "9.7",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5494072515, 35.5682110231 ]
+			},
+			"properties" : {
+				"名称" : "横浜あざみ野郵便局",
+				"高さ" : "7.3",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5347857304, 35.5690054551 ]
+			},
+			"properties" : {
+				"名称" : "横浜大場郵便局",
+				"高さ" : "4.4",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5260648707, 35.5770693761 ]
+			},
+			"properties" : {
+				"名称" : "横浜すすき野郵便局",
+				"高さ" : "4.9",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5530679242, 35.5792690641 ]
+			},
+			"properties" : {
+				"名称" : "横浜美しが丘四郵便局",
+				"高さ" : "8.7",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5583511345, 35.5810024035 ]
+			},
+			"properties" : {
+				"名称" : "横浜美しが丘郵便局",
+				"高さ" : "10.8",
+				"種類" : "郵便局"
+			}
+		}
+	]
+}

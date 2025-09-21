@@ -1,0 +1,36 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "14114_yokohama-shi_seya-ku_station",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5025783566, 35.4677881851 ]
+			},
+			"properties" : {
+				"駅名" : "三ツ境駅",
+				"高さ" : "10.7",
+				"鉄道区分" : "普通鉄道",
+				"事業者種別" : "民営鉄道",
+				"路線名" : "本線",
+				"運営会社" : "相模鉄道"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4825983498, 35.4704031832 ]
+			},
+			"properties" : {
+				"駅名" : "瀬谷駅",
+				"高さ" : "13.7",
+				"鉄道区分" : "普通鉄道",
+				"事業者種別" : "民営鉄道",
+				"路線名" : "本線",
+				"運営会社" : "相模鉄道"
+			}
+		}
+	]
+}

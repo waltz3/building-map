@@ -1,0 +1,810 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "14118_yokohama-shi_tsuzuki-ku_landmark",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5735942276, 35.5196462272 ]
+			},
+			"properties" : {
+				"名称" : "関東運輸局神奈川運輸支局",
+				"高さ" : "8",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5707713409, 35.5448462593 ]
+			},
+			"properties" : {
+				"名称" : "横浜市都筑区役所",
+				"高さ" : "10.1",
+				"種類" : "地方の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5703241513, 35.5459414295 ]
+			},
+			"properties" : {
+				"名称" : "都筑警察署",
+				"高さ" : "18.8",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5778698134, 35.5542199496 ]
+			},
+			"properties" : {
+				"名称" : "都筑警察署センター北駅前交番",
+				"高さ" : "6.5",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5618156504, 35.5480542303 ]
+			},
+			"properties" : {
+				"名称" : "都筑警察署荏田東交番",
+				"高さ" : "3.8",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5920820604, 35.5243848058 ]
+			},
+			"properties" : {
+				"名称" : "都筑警察署折本交番",
+				"高さ" : "6",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5514101857, 35.5249663699 ]
+			},
+			"properties" : {
+				"名称" : "都筑警察署川和交番",
+				"高さ" : "3.4",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5661117369, 35.5200362379 ]
+			},
+			"properties" : {
+				"名称" : "都筑警察署池辺町交番",
+				"高さ" : "3.8",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5704884537, 35.562893851 ]
+			},
+			"properties" : {
+				"名称" : "都筑警察署中川駅前交番",
+				"高さ" : "7.1",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5883606211, 35.5348701969 ]
+			},
+			"properties" : {
+				"名称" : "都筑警察署仲町台駅前交番",
+				"高さ" : "5.5",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5928860859, 35.5612137388 ]
+			},
+			"properties" : {
+				"名称" : "都筑警察署北山田駅前交番",
+				"高さ" : "7.2",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5589980951, 35.5138049382 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局都筑消防署佐江戸消防出張所",
+				"高さ" : "8",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5498151257, 35.5267205905 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局都筑消防署川和消防出張所",
+				"高さ" : "5.6",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5878087115, 35.5345502371 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局都筑消防署仲町台消防出張所",
+				"高さ" : "17.3",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5909084856, 35.5615268686 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局都筑消防署北山田消防出張所",
+				"高さ" : "16.3",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5800386852, 35.5661978803 ]
+			},
+			"properties" : {
+				"名称" : "市立すみれが丘小学校",
+				"高さ" : "15.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5564539191, 35.5445898208 ]
+			},
+			"properties" : {
+				"名称" : "市立荏田南小学校",
+				"高さ" : "11.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.547510606, 35.5299756907 ]
+			},
+			"properties" : {
+				"名称" : "市立川和小学校",
+				"高さ" : "14.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.569205233, 35.5600590106 ]
+			},
+			"properties" : {
+				"名称" : "市立中川西小学校",
+				"高さ" : "15.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5716216979, 35.522447918 ]
+			},
+			"properties" : {
+				"名称" : "市立都田小学校",
+				"高さ" : "14.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5636772766, 35.5214756985 ]
+			},
+			"properties" : {
+				"名称" : "市立都田西小学校",
+				"高さ" : "4.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5568163089, 35.5436423507 ]
+			},
+			"properties" : {
+				"名称" : "市立荏田南中学校",
+				"高さ" : "11.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5571495275, 35.5310034702 ]
+			},
+			"properties" : {
+				"名称" : "市立川和中学校",
+				"高さ" : "11",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5932608347, 35.5511978975 ]
+			},
+			"properties" : {
+				"名称" : "市立中川中学校",
+				"高さ" : "11",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5702049977, 35.5231423684 ]
+			},
+			"properties" : {
+				"名称" : "市立都田中学校",
+				"高さ" : "14.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5653997426, 35.5621145511 ]
+			},
+			"properties" : {
+				"名称" : "市立中川西中学校",
+				"高さ" : "11.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5958718526, 35.5370590266 ]
+			},
+			"properties" : {
+				"名称" : "県立新栄高等学校",
+				"高さ" : "15",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5526217678, 35.5372812408 ]
+			},
+			"properties" : {
+				"名称" : "県立川和高等学校",
+				"高さ" : "11.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5891219546, 35.5575312282 ]
+			},
+			"properties" : {
+				"名称" : "市立南山田小学校",
+				"高さ" : "14.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.574733023, 35.5563923398 ]
+			},
+			"properties" : {
+				"名称" : "市立都筑小学校",
+				"高さ" : "12.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5943719652, 35.5573090079 ]
+			},
+			"properties" : {
+				"名称" : "私立サレジオ学院高等学校",
+				"高さ" : "16.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5858719952, 35.5648645592 ]
+			},
+			"properties" : {
+				"名称" : "市立北山田小学校",
+				"高さ" : "11.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5700106895, 35.537309029 ]
+			},
+			"properties" : {
+				"名称" : "市立茅ヶ崎台小学校",
+				"高さ" : "11.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5946830913, 35.5284157858 ]
+			},
+			"properties" : {
+				"名称" : "市立折本小学校",
+				"高さ" : "15",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5953006932, 35.5435046166 ]
+			},
+			"properties" : {
+				"名称" : "市立勝田小学校",
+				"高さ" : "14",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5655300403, 35.5458322397 ]
+			},
+			"properties" : {
+				"名称" : "市立つづきの丘小学校",
+				"高さ" : "11.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5550538398, 35.5494500913 ]
+			},
+			"properties" : {
+				"名称" : "県立荏田高等学校",
+				"高さ" : "11.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5874743836, 35.5504525184 ]
+			},
+			"properties" : {
+				"名称" : "市立中川小学校",
+				"高さ" : "15.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5580526871, 35.5315824797 ]
+			},
+			"properties" : {
+				"名称" : "市立川和東小学校",
+				"高さ" : "11.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5817450418, 35.5406059086 ]
+			},
+			"properties" : {
+				"名称" : "市立茅ケ崎中学校",
+				"高さ" : "7.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5807154513, 35.5424260485 ]
+			},
+			"properties" : {
+				"名称" : "市立茅ケ崎東小学校",
+				"高さ" : "11.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5627885405, 35.5467534606 ]
+			},
+			"properties" : {
+				"名称" : "市立荏田東第一小学校",
+				"高さ" : "6.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.563955212, 35.5573367811 ]
+			},
+			"properties" : {
+				"名称" : "市立荏田小学校",
+				"高さ" : "14.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6031776065, 35.5600867774 ]
+			},
+			"properties" : {
+				"名称" : "市立山田小学校",
+				"高さ" : "14.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6011829066, 35.561880588 ]
+			},
+			"properties" : {
+				"名称" : "市立東山田中学校",
+				"高さ" : "14.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5807228417, 35.5405660282 ]
+			},
+			"properties" : {
+				"名称" : "市立茅ケ崎小学校",
+				"高さ" : "11.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5820326541, 35.5594322295 ]
+			},
+			"properties" : {
+				"名称" : "市立牛久保小学校",
+				"高さ" : "15.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5743203942, 35.5619917406 ]
+			},
+			"properties" : {
+				"名称" : "東京都市大学横浜キャンパス",
+				"高さ" : "8.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.596506707, 35.5643028685 ]
+			},
+			"properties" : {
+				"名称" : "市立東山田小学校",
+				"高さ" : "11.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5913940122, 35.5347226467 ]
+			},
+			"properties" : {
+				"名称" : "私立日々輝学園高等学校横浜校",
+				"高さ" : "10.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5974602635, 35.5448097172 ]
+			},
+			"properties" : {
+				"名称" : "市立早渕中学校",
+				"高さ" : "11.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5699521513, 35.5466929094 ]
+			},
+			"properties" : {
+				"名称" : "昭和大学横浜市北部病院",
+				"高さ" : "52",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5722427874, 35.5195016371 ]
+			},
+			"properties" : {
+				"名称" : "横浜池辺郵便局",
+				"高さ" : "10.5",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5512689759, 35.5246753898 ]
+			},
+			"properties" : {
+				"名称" : "横浜川和町郵便局",
+				"高さ" : "7.5",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5781435005, 35.5355273182 ]
+			},
+			"properties" : {
+				"名称" : "横浜桜並木郵便局",
+				"高さ" : "7.2",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.589894632, 35.5369380468 ]
+			},
+			"properties" : {
+				"名称" : "仲町台駅前郵便局",
+				"高さ" : "4.9",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5911461727, 35.5421787276 ]
+			},
+			"properties" : {
+				"名称" : "横浜勝田郵便局",
+				"高さ" : "11.5",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5715679507, 35.5456154197 ]
+			},
+			"properties" : {
+				"名称" : "都筑郵便局",
+				"高さ" : "20.7",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5616426505, 35.5480330306 ]
+			},
+			"properties" : {
+				"名称" : "横浜荏田東郵便局",
+				"高さ" : "5.7",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5933008237, 35.5496173479 ]
+			},
+			"properties" : {
+				"名称" : "横浜大棚郵便局",
+				"高さ" : "7.7",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5778594126, 35.5534460299 ]
+			},
+			"properties" : {
+				"名称" : "横浜センター北駅前郵便局",
+				"高さ" : "31.4",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5703782534, 35.5629115209 ]
+			},
+			"properties" : {
+				"名称" : "中川駅前郵便局",
+				"高さ" : "7.4",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5810570847, 35.5655860201 ]
+			},
+			"properties" : {
+				"名称" : "横浜すみれが丘郵便局",
+				"高さ" : "6.3",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.6096731865, 35.5546278466 ]
+			},
+			"properties" : {
+				"名称" : "横浜東山田郵便局",
+				"高さ" : "6.6",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5913725751, 35.5596583083 ]
+			},
+			"properties" : {
+				"名称" : "横浜北山田郵便局",
+				"高さ" : "19.6",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5605958586, 35.5370887896 ]
+			},
+			"properties" : {
+				"名称" : "都筑ふれあいの丘郵便局",
+				"高さ" : "9.3",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5893943689, 35.5195010958 ]
+			},
+			"properties" : {
+				"名称" : "西濃運輸（横浜支店）",
+				"高さ" : "9.6",
+				"種類" : "指定公共機関"
+			}
+		}
+	]
+}

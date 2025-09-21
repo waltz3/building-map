@@ -1,0 +1,1146 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "14112_yokohama-shi_asahi-ku_landmark",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4914595943, 35.4949091036 ]
+			},
+			"properties" : {
+				"名称" : "私立横浜三育小学校",
+				"高さ" : "7.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5380631475, 35.479694818 ]
+			},
+			"properties" : {
+				"名称" : "関東地方整備局横浜国道事務所保土ヶ谷出張所",
+				"高さ" : "7.2",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5252218424, 35.4542875576 ]
+			},
+			"properties" : {
+				"名称" : "横浜地方法務局旭出張所",
+				"高さ" : "7.9",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5447324173, 35.4747257668 ]
+			},
+			"properties" : {
+				"名称" : "横浜市旭区役所",
+				"高さ" : "16.1",
+				"種類" : "地方の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5382650562, 35.4678991572 ]
+			},
+			"properties" : {
+				"名称" : "旭警察署",
+				"高さ" : "17.5",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5331090294, 35.4942914999 ]
+			},
+			"properties" : {
+				"名称" : "旭警察署ひかりが丘交番",
+				"高さ" : "6.5",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5144118723, 35.459979479 ]
+			},
+			"properties" : {
+				"名称" : "旭警察署希望が丘交番",
+				"高さ" : "6.3",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5323087469, 35.4816967186 ]
+			},
+			"properties" : {
+				"名称" : "旭警察署今宿交番",
+				"高さ" : "7.1",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5502452256, 35.459484735 ]
+			},
+			"properties" : {
+				"名称" : "旭警察署左近山交番",
+				"高さ" : "6.9",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.508343493, 35.4736360402 ]
+			},
+			"properties" : {
+				"名称" : "旭警察署笹野台交番",
+				"高さ" : "6.1",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5604751579, 35.4643798449 ]
+			},
+			"properties" : {
+				"名称" : "旭警察署市沢交番",
+				"高さ" : "3.8",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5068666257, 35.4943524819 ]
+			},
+			"properties" : {
+				"名称" : "旭警察署上川井交番",
+				"高さ" : "7",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5452939478, 35.4752532066 ]
+			},
+			"properties" : {
+				"名称" : "旭警察署鶴ケ峰交番",
+				"高さ" : "6.9",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5207473769, 35.4870382803 ]
+			},
+			"properties" : {
+				"名称" : "旭警察署都岡駐在所",
+				"高さ" : "7.2",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5144439909, 35.4552313981 ]
+			},
+			"properties" : {
+				"名称" : "旭警察署南希望が丘交番",
+				"高さ" : "7",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5209452549, 35.4757609294 ]
+			},
+			"properties" : {
+				"名称" : "旭警察署二俣川ニュータウン駐在所",
+				"高さ" : "6.3",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5321388246, 35.4642371271 ]
+			},
+			"properties" : {
+				"名称" : "旭警察署二俣川交番",
+				"高さ" : "6",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5482809491, 35.4809044772 ]
+			},
+			"properties" : {
+				"名称" : "旭警察署白根交番",
+				"高さ" : "6.7",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5260733135, 35.461205038 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局旭消防署さちが丘消防出張所",
+				"高さ" : "8",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5419268153, 35.4617257862 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局旭消防署南本宿消防出張所",
+				"高さ" : "5.5",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5187118743, 35.4732762591 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局旭消防署今宿消防出張所",
+				"高さ" : "7.8",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5171769863, 35.488753511 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局旭消防署都岡消防出張所",
+				"高さ" : "17.1",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5594400104, 35.4841997164 ]
+			},
+			"properties" : {
+				"名称" : "市立新井中学校",
+				"高さ" : "14.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5229750222, 35.4568065879 ]
+			},
+			"properties" : {
+				"名称" : "市立さちが丘小学校",
+				"高さ" : "15.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5364450176, 35.4842233286 ]
+			},
+			"properties" : {
+				"名称" : "市立今宿小学校",
+				"高さ" : "10.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.549800406, 35.4623968056 ]
+			},
+			"properties" : {
+				"名称" : "市立左近山小学校",
+				"高さ" : "14.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5103253535, 35.4734765398 ]
+			},
+			"properties" : {
+				"名称" : "市立笹野台小学校",
+				"高さ" : "14.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.558870497, 35.4616982644 ]
+			},
+			"properties" : {
+				"名称" : "市立市沢小学校",
+				"高さ" : "14.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5029369464, 35.498616083 ]
+			},
+			"properties" : {
+				"名称" : "市立上川井小学校",
+				"高さ" : "14.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5394561099, 35.4955369687 ]
+			},
+			"properties" : {
+				"名称" : "市立上白根小学校",
+				"高さ" : "15.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5206770275, 35.4939479511 ]
+			},
+			"properties" : {
+				"名称" : "市立川井小学校",
+				"高さ" : "14.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5164267105, 35.4513091475 ]
+			},
+			"properties" : {
+				"名称" : "市立善部小学校",
+				"高さ" : "16",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.531770199, 35.4965510001 ]
+			},
+			"properties" : {
+				"名称" : "市立四季の森小学校",
+				"高さ" : "14.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5212602663, 35.4851701904 ]
+			},
+			"properties" : {
+				"名称" : "市立都岡小学校",
+				"高さ" : "11",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5115566123, 35.4644822691 ]
+			},
+			"properties" : {
+				"名称" : "市立東希望が丘小学校",
+				"高さ" : "14.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5384819946, 35.4584184863 ]
+			},
+			"properties" : {
+				"名称" : "市立南本宿小学校",
+				"高さ" : "15.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5291245242, 35.4639462579 ]
+			},
+			"properties" : {
+				"名称" : "市立二俣川小学校",
+				"高さ" : "14.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.544343609, 35.4878090879 ]
+			},
+			"properties" : {
+				"名称" : "市立白根小学校",
+				"高さ" : "11.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5501367295, 35.4834269074 ]
+			},
+			"properties" : {
+				"名称" : "市立不動丸小学校",
+				"高さ" : "15.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5445824671, 35.4691400861 ]
+			},
+			"properties" : {
+				"名称" : "市立本宿小学校",
+				"高さ" : "14.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5339544428, 35.4527535866 ]
+			},
+			"properties" : {
+				"名称" : "市立万騎が原小学校",
+				"高さ" : "14.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5179823847, 35.4741979798 ]
+			},
+			"properties" : {
+				"名称" : "市立旭中学校",
+				"高さ" : "15.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5373515198, 35.4953275293 ]
+			},
+			"properties" : {
+				"名称" : "市立旭北中学校",
+				"高さ" : "11.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5368467179, 35.4847958982 ]
+			},
+			"properties" : {
+				"名称" : "市立今宿中学校",
+				"高さ" : "14.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5510396158, 35.4595895949 ]
+			},
+			"properties" : {
+				"名称" : "市立左近山中学校",
+				"高さ" : "14.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.53257734, 35.4983626196 ]
+			},
+			"properties" : {
+				"名称" : "市立上白根中学校",
+				"高さ" : "15.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.520711898, 35.4949939904 ]
+			},
+			"properties" : {
+				"名称" : "市立都岡中学校",
+				"高さ" : "15",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5475379465, 35.4644480058 ]
+			},
+			"properties" : {
+				"名称" : "市立本宿中学校",
+				"高さ" : "14.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5358433744, 35.4577535764 ]
+			},
+			"properties" : {
+				"名称" : "市立万騎が原中学校",
+				"高さ" : "16.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5115102655, 35.4873646209 ]
+			},
+			"properties" : {
+				"名称" : "県立旭高等学校",
+				"高さ" : "18.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.511398941, 35.4559480188 ]
+			},
+			"properties" : {
+				"名称" : "県立希望ケ丘高等学校",
+				"高さ" : "15.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.512961662, 35.4643777695 ]
+			},
+			"properties" : {
+				"名称" : "市立希望が丘中学校",
+				"高さ" : "15.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5224545237, 35.4655868882 ]
+			},
+			"properties" : {
+				"名称" : "市立中尾小学校",
+				"高さ" : "16.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5220857335, 35.4675052287 ]
+			},
+			"properties" : {
+				"名称" : "県立二俣川看護福祉高等学校",
+				"高さ" : "8.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.552065478, 35.4719379161 ]
+			},
+			"properties" : {
+				"名称" : "市立鶴ケ峯小学校",
+				"高さ" : "11.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5223500247, 35.4746656088 ]
+			},
+			"properties" : {
+				"名称" : "市立中沢小学校",
+				"高さ" : "14.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.529014926, 35.4790779784 ]
+			},
+			"properties" : {
+				"名称" : "市立今宿南小学校",
+				"高さ" : "7.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5095064508, 35.4568225189 ]
+			},
+			"properties" : {
+				"名称" : "市立南希望が丘中学校",
+				"高さ" : "14.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5425858685, 35.4815518979 ]
+			},
+			"properties" : {
+				"名称" : "市立鶴ケ峯中学校",
+				"高さ" : "11",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5532453097, 35.4851385868 ]
+			},
+			"properties" : {
+				"名称" : "私立横浜商科大学高等学校",
+				"高さ" : "14.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5269825183, 35.4914479501 ]
+			},
+			"properties" : {
+				"名称" : "県立横浜旭陵高等学校",
+				"高さ" : "15.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5124822712, 35.4590868993 ]
+			},
+			"properties" : {
+				"名称" : "市立希望ヶ丘小学校",
+				"高さ" : "14.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5285380755, 35.4714132584 ]
+			},
+			"properties" : {
+				"名称" : "私立横浜富士見丘学園中等教育学校",
+				"高さ" : "14.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5561971965, 35.4571406747 ]
+			},
+			"properties" : {
+				"名称" : "市立左近山特別支援学校",
+				"高さ" : "14.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5347413593, 35.4940707089 ]
+			},
+			"properties" : {
+				"名称" : "上白根病院",
+				"高さ" : "11.6",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5541212976, 35.4704466357 ]
+			},
+			"properties" : {
+				"名称" : "横浜鶴ヶ峰病院",
+				"高さ" : "10.7",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.502521183, 35.4770777015 ]
+			},
+			"properties" : {
+				"名称" : "聖マリアンナ医科大学横浜市西部病院",
+				"高さ" : "14.7",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5374423554, 35.4680607969 ]
+			},
+			"properties" : {
+				"名称" : "横浜旭郵便局",
+				"高さ" : "18.7",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.525425122, 35.451133777 ]
+			},
+			"properties" : {
+				"名称" : "南万騎が原駅前郵便局",
+				"高さ" : "7.8",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5148309412, 35.4546813079 ]
+			},
+			"properties" : {
+				"名称" : "横浜南希望が丘郵便局",
+				"高さ" : "7.9",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5556811759, 35.4551710244 ]
+			},
+			"properties" : {
+				"名称" : "横浜左近山郵便局",
+				"高さ" : "5",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5328621233, 35.4580933064 ]
+			},
+			"properties" : {
+				"名称" : "横浜万騎が原郵便局",
+				"高さ" : "10",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5151230824, 35.4604119989 ]
+			},
+			"properties" : {
+				"名称" : "希望ヶ丘駅前郵便局",
+				"高さ" : "10.1",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.531338764, 35.4629108969 ]
+			},
+			"properties" : {
+				"名称" : "横浜二俣川郵便局",
+				"高さ" : "10.3",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5604652472, 35.4630175248 ]
+			},
+			"properties" : {
+				"名称" : "横浜市沢郵便局",
+				"高さ" : "7.3",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.550432908, 35.4726696263 ]
+			},
+			"properties" : {
+				"名称" : "横浜鶴ヶ峰郵便局",
+				"高さ" : "7.4",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5109150734, 35.4745676 ]
+			},
+			"properties" : {
+				"名称" : "横浜金が谷郵便局",
+				"高さ" : "4.9",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5461164175, 35.4751036564 ]
+			},
+			"properties" : {
+				"名称" : "鶴ヶ峯駅前郵便局",
+				"高さ" : "10.1",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5204764949, 35.4758830097 ]
+			},
+			"properties" : {
+				"名称" : "横浜今宿南郵便局",
+				"高さ" : "7.1",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5323496571, 35.4822862584 ]
+			},
+			"properties" : {
+				"名称" : "横浜今宿郵便局",
+				"高さ" : "9.6",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.521467277, 35.4868374103 ]
+			},
+			"properties" : {
+				"名称" : "横浜都岡郵便局",
+				"高さ" : "8",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.542982779, 35.4876567275 ]
+			},
+			"properties" : {
+				"名称" : "横浜白根郵便局",
+				"高さ" : "7.4",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5446130604, 35.4944997782 ]
+			},
+			"properties" : {
+				"名称" : "横浜白根北郵便局",
+				"高さ" : "7.2",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5305903696, 35.4989693799 ]
+			},
+			"properties" : {
+				"名称" : "横浜上白根郵便局",
+				"高さ" : "4.2",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.549614516, 35.4610319854 ]
+			},
+			"properties" : {
+				"名称" : "横浜小高郵便局",
+				"高さ" : "6.8",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5160163334, 35.4677330393 ]
+			},
+			"properties" : {
+				"名称" : "横浜中尾郵便局",
+				"高さ" : "7.4",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5272766384, 35.49410625 ]
+			},
+			"properties" : {
+				"名称" : "横浜市立よこはま動物園ズーラシア",
+				"高さ" : "8.2",
+				"種類" : "博物館・美術館"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4996100566, 35.5021062032 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局旭消防署若葉台消防出張所",
+				"高さ" : "7.8",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4931004863, 35.5050061642 ]
+			},
+			"properties" : {
+				"名称" : "私立星槎高等学校",
+				"高さ" : "10.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4976687869, 35.5073375043 ]
+			},
+			"properties" : {
+				"名称" : "横浜旭中央総合病院",
+				"高さ" : "20.8",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4989590865, 35.5063224438 ]
+			},
+			"properties" : {
+				"名称" : "横浜若葉台郵便局",
+				"高さ" : "51.5",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5001752564, 35.5030149034 ]
+			},
+			"properties" : {
+				"名称" : "旭警察署若葉台交番",
+				"高さ" : "3.7",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5037521077, 35.507577603 ]
+			},
+			"properties" : {
+				"名称" : "市立若葉台中学校",
+				"高さ" : "13",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5006150276, 35.5082882134 ]
+			},
+			"properties" : {
+				"名称" : "市立若葉台小学校",
+				"高さ" : "11.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5021502569, 35.5028608232 ]
+			},
+			"properties" : {
+				"名称" : "市立若葉台特別支援学校",
+				"高さ" : "11.5",
+				"種類" : "学校"
+			}
+		}
+	]
+}

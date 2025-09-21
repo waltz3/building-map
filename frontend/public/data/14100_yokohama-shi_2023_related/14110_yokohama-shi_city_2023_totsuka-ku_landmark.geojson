@@ -1,0 +1,1146 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "14110_yokohama-shi_totsuka-ku_landmark",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4961403896, 35.3898498756 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局戸塚消防署深谷消防出張所",
+				"高さ" : "6",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.499739529, 35.3833510742 ]
+			},
+			"properties" : {
+				"名称" : "市立深谷中学校",
+				"高さ" : "11.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4964831064, 35.3678917534 ]
+			},
+			"properties" : {
+				"名称" : "市立東俣野小学校",
+				"高さ" : "15.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.496528249, 35.3881553953 ]
+			},
+			"properties" : {
+				"名称" : "市立横浜深谷台小学校",
+				"高さ" : "16",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4955341186, 35.3828296647 ]
+			},
+			"properties" : {
+				"名称" : "横浜薬科大学",
+				"高さ" : "7.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4965387762, 35.3676434632 ]
+			},
+			"properties" : {
+				"名称" : "市立東俣野特別支援学校",
+				"高さ" : "7.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.4948020488, 35.3890121257 ]
+			},
+			"properties" : {
+				"名称" : "横浜ドリームハイツ郵便局",
+				"高さ" : "6.7",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5408847157, 35.3989546217 ]
+			},
+			"properties" : {
+				"名称" : "東京国税局戸塚税務署",
+				"高さ" : "10.7",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5272172225, 35.3877268122 ]
+			},
+			"properties" : {
+				"名称" : "横浜地方法務局戸塚出張所",
+				"高さ" : "7.1",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.529254584, 35.3954521428 ]
+			},
+			"properties" : {
+				"名称" : "神奈川労働局戸塚公共職業安定所",
+				"高さ" : "7.8",
+				"種類" : "国の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5334963356, 35.400019142 ]
+			},
+			"properties" : {
+				"名称" : "横浜市戸塚区役所",
+				"高さ" : "35.1",
+				"種類" : "地方の機関"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5222595523, 35.391059303 ]
+			},
+			"properties" : {
+				"名称" : "戸塚警察署",
+				"高さ" : "15.6",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5364056233, 35.3836525809 ]
+			},
+			"properties" : {
+				"名称" : "戸塚警察署下倉田交番",
+				"高さ" : "6.2",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.503322838, 35.3738132736 ]
+			},
+			"properties" : {
+				"名称" : "戸塚警察署原宿交番",
+				"高さ" : "7",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5346089258, 35.4004224321 ]
+			},
+			"properties" : {
+				"名称" : "戸塚警察署戸塚駅東口交番",
+				"高さ" : "6.6",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5058280708, 35.392631584 ]
+			},
+			"properties" : {
+				"名称" : "戸塚警察署深谷交番",
+				"高さ" : "6.6",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5428205476, 35.4150147231 ]
+			},
+			"properties" : {
+				"名称" : "戸塚警察署不動坂交番",
+				"高さ" : "5.6",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5544347282, 35.4016252303 ]
+			},
+			"properties" : {
+				"名称" : "戸塚警察署舞岡交番",
+				"高さ" : "5.6",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5191696642, 35.4050306437 ]
+			},
+			"properties" : {
+				"名称" : "戸塚警察署踊場交番",
+				"高さ" : "6.1",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5050121686, 35.3784431734 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局戸塚消防署大正消防出張所",
+				"高さ" : "9.3",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5303220041, 35.3973766326 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局戸塚消防署",
+				"高さ" : "8.1",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5402041076, 35.4103092425 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局戸塚消防署吉田消防出張所",
+				"高さ" : "5.4",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5214449159, 35.4108031844 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局戸塚消防署鳥が丘消防出張所",
+				"高さ" : "7.7",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5141485128, 35.3976703942 ]
+			},
+			"properties" : {
+				"名称" : "市立汲沢小学校",
+				"高さ" : "11.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5323985048, 35.3973092822 ]
+			},
+			"properties" : {
+				"名称" : "市立戸塚小学校",
+				"高さ" : "11.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5115094597, 35.3768926731 ]
+			},
+			"properties" : {
+				"名称" : "市立小雀小学校",
+				"高さ" : "15.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5410373248, 35.389503741 ]
+			},
+			"properties" : {
+				"名称" : "市立倉田小学校",
+				"高さ" : "11.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5213152238, 35.3992814931 ]
+			},
+			"properties" : {
+				"名称" : "市立東汲沢小学校",
+				"高さ" : "15",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.538259636, 35.4014203717 ]
+			},
+			"properties" : {
+				"名称" : "市立東戸塚小学校",
+				"高さ" : "11.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5256762323, 35.3881426418 ]
+			},
+			"properties" : {
+				"名称" : "市立南戸塚小学校",
+				"高さ" : "14.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5545406162, 35.388916619 ]
+			},
+			"properties" : {
+				"名称" : "市立南舞岡小学校",
+				"高さ" : "11.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5518430393, 35.4149481013 ]
+			},
+			"properties" : {
+				"名称" : "市立柏尾小学校",
+				"高さ" : "14.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5511763779, 35.4071703509 ]
+			},
+			"properties" : {
+				"名称" : "市立舞岡小学校",
+				"高さ" : "11.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5233985848, 35.4072814739 ]
+			},
+			"properties" : {
+				"名称" : "市立矢部小学校",
+				"高さ" : "14.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5075622318, 35.3984370948 ]
+			},
+			"properties" : {
+				"名称" : "市立汲沢中学校",
+				"高さ" : "15.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5033423288, 35.3783746938 ]
+			},
+			"properties" : {
+				"名称" : "市立大正中学校",
+				"高さ" : "14.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5186205804, 35.3810037723 ]
+			},
+			"properties" : {
+				"名称" : "市立南戸塚中学校",
+				"高さ" : "11.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5445374976, 35.4094481222 ]
+			},
+			"properties" : {
+				"名称" : "市立舞岡中学校",
+				"高さ" : "14.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.542176174, 35.3822537603 ]
+			},
+			"properties" : {
+				"名称" : "市立豊田中学校",
+				"高さ" : "15",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5165652228, 35.3995314943 ]
+			},
+			"properties" : {
+				"名称" : "市立戸塚高等学校",
+				"高さ" : "21.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5546644071, 35.3962421102 ]
+			},
+			"properties" : {
+				"名称" : "県立舞岡高等学校",
+				"高さ" : "14.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.523684644, 35.4017680232 ]
+			},
+			"properties" : {
+				"名称" : "市立戸塚中学校",
+				"高さ" : "14.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5279966365, 35.4138163742 ]
+			},
+			"properties" : {
+				"名称" : "県立上矢部高等学校",
+				"高さ" : "15.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5032594789, 35.3795593339 ]
+			},
+			"properties" : {
+				"名称" : "市立大正小学校",
+				"高さ" : "11.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5242051217, 35.3864675026 ]
+			},
+			"properties" : {
+				"名称" : "市立下郷小学校",
+				"高さ" : "10.9",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5026705704, 35.3920193052 ]
+			},
+			"properties" : {
+				"名称" : "市立深谷小学校",
+				"高さ" : "4.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5223588152, 35.4111859043 ]
+			},
+			"properties" : {
+				"名称" : "市立鳥が丘小学校",
+				"高さ" : "11.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5126448089, 35.370774992 ]
+			},
+			"properties" : {
+				"名称" : "私立公文国際学園高等部",
+				"高さ" : "17.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5462262846, 35.3872954505 ]
+			},
+			"properties" : {
+				"名称" : "明治学院大学横浜キャンパス",
+				"高さ" : "20.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5502203576, 35.4046992513 ]
+			},
+			"properties" : {
+				"名称" : "横浜市立大学舞岡キャンパス",
+				"高さ" : "14.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.517509562, 35.3913926336 ]
+			},
+			"properties" : {
+				"名称" : "県立横浜桜陽高等学校",
+				"高さ" : "16.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.515600952, 35.3902073029 ]
+			},
+			"properties" : {
+				"名称" : "生協戸塚病院",
+				"高さ" : "14.5",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5322618152, 35.3984973227 ]
+			},
+			"properties" : {
+				"名称" : "戸塚共立第1病院",
+				"高さ" : "15.4",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5379072669, 35.4053355319 ]
+			},
+			"properties" : {
+				"名称" : "戸塚共立第2病院",
+				"高さ" : "14.7",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.514399411, 35.3846497829 ]
+			},
+			"properties" : {
+				"名称" : "西横浜国際総合病院",
+				"高さ" : "8.7",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5043767887, 35.380313794 ]
+			},
+			"properties" : {
+				"名称" : "横浜医療センター",
+				"高さ" : "27.3",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5305801435, 35.3891915414 ]
+			},
+			"properties" : {
+				"名称" : "平成横浜病院",
+				"高さ" : "14.8",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5408854733, 35.3830338405 ]
+			},
+			"properties" : {
+				"名称" : "横浜豊田郵便局",
+				"高さ" : "6.6",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5056989711, 35.3916492446 ]
+			},
+			"properties" : {
+				"名称" : "横浜深谷郵便局",
+				"高さ" : "7.1",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5588499472, 35.3926504493 ]
+			},
+			"properties" : {
+				"名称" : "横浜日限山郵便局",
+				"高さ" : "6.8",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5265153734, 35.3930349325 ]
+			},
+			"properties" : {
+				"名称" : "横浜富塚郵便局",
+				"高さ" : "7.5",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5360573053, 35.3976492319 ]
+			},
+			"properties" : {
+				"名称" : "横浜倉田郵便局",
+				"高さ" : "12.6",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5309845252, 35.3997963621 ]
+			},
+			"properties" : {
+				"名称" : "戸塚郵便局",
+				"高さ" : "18.6",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5522662379, 35.4028363008 ]
+			},
+			"properties" : {
+				"名称" : "舞岡駅前郵便局",
+				"高さ" : "7.6",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5181751639, 35.4041607439 ]
+			},
+			"properties" : {
+				"名称" : "踊場駅前郵便局",
+				"高さ" : "8.1",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5366606758, 35.4037317223 ]
+			},
+			"properties" : {
+				"名称" : "横浜矢部郵便局",
+				"高さ" : "6.1",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5214084151, 35.4110477047 ]
+			},
+			"properties" : {
+				"名称" : "横浜鳥が丘郵便局",
+				"高さ" : "7.9",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5023302886, 35.3804258938 ]
+			},
+			"properties" : {
+				"名称" : "横浜原宿郵便局",
+				"高さ" : "7.4",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5335477081, 35.4220996438 ]
+			},
+			"properties" : {
+				"名称" : "戸塚警察署上矢部交番",
+				"高さ" : "4.1",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5572103824, 35.4307844923 ]
+			},
+			"properties" : {
+				"名称" : "戸塚警察署東戸塚駅前交番",
+				"高さ" : "6.3",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5508709898, 35.4203047319 ]
+			},
+			"properties" : {
+				"名称" : "戸塚警察署柏尾交番",
+				"高さ" : "6.4",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5710471637, 35.4277195508 ]
+			},
+			"properties" : {
+				"名称" : "戸塚警察署平戸交番",
+				"高さ" : "6.2",
+				"種類" : "警察署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5548728924, 35.432031953 ]
+			},
+			"properties" : {
+				"名称" : "横浜市消防局戸塚消防署東戸塚消防出張所",
+				"高さ" : "7.7",
+				"種類" : "消防署"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5682281749, 35.4363666717 ]
+			},
+			"properties" : {
+				"名称" : "市立境木小学校",
+				"高さ" : "11.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5283987185, 35.4235869846 ]
+			},
+			"properties" : {
+				"名称" : "市立上矢部小学校",
+				"高さ" : "11.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5451298206, 35.426461703 ]
+			},
+			"properties" : {
+				"名称" : "市立川上小学校",
+				"高さ" : "15.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5541658421, 35.4290733227 ]
+			},
+			"properties" : {
+				"名称" : "市立川上北小学校",
+				"高さ" : "11.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5607043133, 35.4341980525 ]
+			},
+			"properties" : {
+				"名称" : "市立東品濃小学校",
+				"高さ" : "12.2",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5574542419, 35.4261980718 ]
+			},
+			"properties" : {
+				"名称" : "市立品濃小学校",
+				"高さ" : "15.1",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5637598528, 35.4267814111 ]
+			},
+			"properties" : {
+				"名称" : "市立平戸小学校",
+				"高さ" : "15.3",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5679542224, 35.4230869603 ]
+			},
+			"properties" : {
+				"名称" : "市立平戸台小学校",
+				"高さ" : "15.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5411487803, 35.4310591936 ]
+			},
+			"properties" : {
+				"名称" : "市立名瀬小学校",
+				"高さ" : "15.5",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5698280349, 35.4367575718 ]
+			},
+			"properties" : {
+				"名称" : "市立境木中学校",
+				"高さ" : "14.7",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5436186116, 35.4337258435 ]
+			},
+			"properties" : {
+				"名称" : "市立名瀬中学校",
+				"高さ" : "11.4",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5652042322, 35.4245036312 ]
+			},
+			"properties" : {
+				"名称" : "市立平戸中学校",
+				"高さ" : "14.8",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5448610394, 35.4211017027 ]
+			},
+			"properties" : {
+				"名称" : "市立秋葉中学校",
+				"高さ" : "11.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5489560828, 35.4373975431 ]
+			},
+			"properties" : {
+				"名称" : "湘南医療大学",
+				"高さ" : "27.6",
+				"種類" : "学校"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5593111425, 35.4317697822 ]
+			},
+			"properties" : {
+				"名称" : "東戸塚記念病院",
+				"高さ" : "20.2",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5481138129, 35.4387242736 ]
+			},
+			"properties" : {
+				"名称" : "ふれあい東戸塚ホスピタル",
+				"高さ" : "34.1",
+				"種類" : "病院"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5368889782, 35.419454453 ]
+			},
+			"properties" : {
+				"名称" : "横浜上矢部郵便局",
+				"高さ" : "12.3",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5598412727, 35.4295328317 ]
+			},
+			"properties" : {
+				"名称" : "東戸塚駅東口郵便局",
+				"高さ" : "8.4",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5705867041, 35.4314380014 ]
+			},
+			"properties" : {
+				"名称" : "横浜平戸郵便局",
+				"高さ" : "7.6",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5486897918, 35.4321245334 ]
+			},
+			"properties" : {
+				"名称" : "横浜川上郵便局",
+				"高さ" : "7.6",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.5551290922, 35.4325289526 ]
+			},
+			"properties" : {
+				"名称" : "東戸塚駅西口郵便局",
+				"高さ" : "10.3",
+				"種類" : "郵便局"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 139.54937127, 35.4182728018 ]
+			},
+			"properties" : {
+				"名称" : "横浜柏尾郵便局",
+				"高さ" : "6.8",
+				"種類" : "郵便局"
+			}
+		}
+	]
+}
