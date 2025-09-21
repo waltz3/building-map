@@ -1,0 +1,33 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "name": "サンプル建物A", "height": 45 },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [139.6408, 35.4493],
+          [139.6420, 35.4493],
+          [139.6420, 35.4486],
+          [139.6408, 35.4486],
+          [139.6408, 35.4493]
+        ]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "name": "サンプル建物B", "height": 80 },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [139.6423, 35.4489],
+          [139.6431, 35.4489],
+          [139.6431, 35.4482],
+          [139.6423, 35.4482],
+          [139.6423, 35.4489]
+        ]]
+      }
+    }
+  ]
+}
